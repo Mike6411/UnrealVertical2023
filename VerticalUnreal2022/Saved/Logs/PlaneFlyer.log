@@ -826,3 +826,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.01-15.54.08:406][477]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.087 and deleted 0 file(s) with total size 0 MiB.
 [2023.05.01-16.54.08:546][192]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.096 and deleted 0 file(s) with total size 0 MiB.
 [2023.05.01-17.54.08:401][904]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.086 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.01-18.54.08:364][621]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.102 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.01-19.54.08:539][341]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.135 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.01-20.54.08:617][ 53]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.312 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.01-21.54.08:681][767]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.119 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.01-22.54.08:509][479]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.138 and deleted 0 file(s) with total size 0 MiB.
