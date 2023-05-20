@@ -2964,3 +2964,239 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.20-21.58.48:665][728]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.20-21.58.48:665][728]LogContentValidation: Display: Validating World /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap
 [2023.05.20-21.58.48:665][728]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.20-21.59.48:396][102]LogViewport: Scene viewport resized to 481x190, mode Windowed.
+[2023.05.20-21.59.51:703][450]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Assets/Jet/JetFighter_AnimBP.JetFighter_AnimBP
+[2023.05.20-21.59.51:704][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-21.59.51:774][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-21.59.51:781][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-21.59.52:225][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-21.59.52:570][450]LogViewport: Scene viewport resized to 476x433, mode Windowed.
+[2023.05.20-22.07.44:580][974]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.146 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.20-22.15.23:034][470]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.15.23:127][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.05.20-22.15.23:976][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_AnimBP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_AnimBP.uasset" SILENT=true
+[2023.05.20-22.15.23:979][558]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_AnimBP
+[2023.05.20-22.15.23:980][558]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_AnimBPD1212816497988495B0394897A80C00C.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_AnimBP.uasset'
+[2023.05.20-22.15.23:997][558]AssetCheck: New page: Asset Save: JetFighter_AnimBP
+[2023.05.20-22.15.23:997][558]LogContentValidation: Display: Validating AnimBlueprint /Game/Assets/Jet/JetFighter_AnimBP.JetFighter_AnimBP
+[2023.05.20-22.15.52:328][ 61]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Jet/Mesh/SK_West_Fighter_Typhoon.SK_West_Fighter_Typhoon
+[2023.05.20-22.15.52:330][ 61]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-22.15.52:333][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-22.15.52:532][ 61]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2023.05.20-22.16.13:802][374]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2023.05.20-22.16.13:821][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-22.16.13:824][374]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-22.16.13:946][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-22.16.14:037][374]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.20-22.16.14:044][374]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2023.05.20-22.16.14:072][374]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.20-22.16.26:879][525]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-22.16.26:879][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-22.16.26:960][525]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-22.16.26:960][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-22.16.34:784][425]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.16.34:849][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.05.20-22.16.35:363][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_AnimBP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_AnimBP.uasset" SILENT=true
+[2023.05.20-22.16.35:367][471]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_AnimBP
+[2023.05.20-22.16.35:367][471]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_AnimBPF6BD227144DE65F0573C0280532A1BDF.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_AnimBP.uasset'
+[2023.05.20-22.16.35:383][471]AssetCheck: New page: Asset Save: JetFighter_AnimBP
+[2023.05.20-22.16.35:383][471]LogContentValidation: Display: Validating AnimBlueprint /Game/Assets/Jet/JetFighter_AnimBP.JetFighter_AnimBP
+[2023.05.20-22.18.13:258][416]LogAssetEditorSubsystem: Opening Asset editor for PoseAsset /Game/Assets/Jet/Anims/EmptyAnim.EmptyAnim
+[2023.05.20-22.18.13:258][416]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-22.18.13:262][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-22.18.13:384][416]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-22.18.13:478][416]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.20-22.18.13:485][416]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2023.05.20-22.18.13:504][416]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.20-22.19.07:131][664]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.05.20-22.19.12:612][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-22.19.12:616][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-22.19.12:732][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-22.19.12:848][302]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.20-22.19.12:854][302]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2023.05.20-22.19.12:877][302]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.20-22.19.13:865][415]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.05.20-22.19.15:138][545]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-22.19.15:138][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-22.19.15:206][545]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-22.19.15:206][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-22.19.16:301][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/Anims/EmptyAnim" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/Anims/EmptyAnim.uasset" SILENT=true
+[2023.05.20-22.19.16:307][662]LogSavePackage: Moving output files for package: /Game/Assets/Jet/Anims/EmptyAnim
+[2023.05.20-22.19.16:307][662]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/EmptyAnimB92C78C7425E49398EC1FC82969F4721.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/Anims/EmptyAnim.uasset'
+[2023.05.20-22.19.16:319][662]AssetCheck: New page: Asset Save: EmptyAnim
+[2023.05.20-22.19.16:320][662]LogContentValidation: Display: Validating PoseAsset /Game/Assets/Jet/Anims/EmptyAnim.EmptyAnim
+[2023.05.20-22.19.23:051][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/Anims/EmptyAnim" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/Anims/EmptyAnim.uasset" SILENT=true
+[2023.05.20-22.19.23:056][424]LogSavePackage: Moving output files for package: /Game/Assets/Jet/Anims/EmptyAnim
+[2023.05.20-22.19.23:056][424]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/EmptyAnimB5E4FCB944C97B5CF95741B314CB325E.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/Anims/EmptyAnim.uasset'
+[2023.05.20-22.19.23:072][424]AssetCheck: New page: Asset Save: EmptyAnim
+[2023.05.20-22.19.23:072][424]LogContentValidation: Display: Validating PoseAsset /Game/Assets/Jet/Anims/EmptyAnim.EmptyAnim
+[2023.05.20-22.19.25:238][669]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-22.19.25:238][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-22.19.25:308][669]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-22.19.25:308][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-22.20.58:521][940]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.20.58:619][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.05.20-22.20.59:789][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_AnimBP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_AnimBP.uasset" SILENT=true
+[2023.05.20-22.20.59:794][ 67]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_AnimBP
+[2023.05.20-22.20.59:794][ 67]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_AnimBP0A953ADC4D843DC307B3E1A99264C9DD.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_AnimBP.uasset'
+[2023.05.20-22.20.59:810][ 67]AssetCheck: New page: Asset Save: JetFighter_AnimBP
+[2023.05.20-22.20.59:810][ 67]LogContentValidation: Display: Validating AnimBlueprint /Game/Assets/Jet/JetFighter_AnimBP.JetFighter_AnimBP
+[2023.05.20-22.21.50:950][790]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2023.05.20-22.21.52:395][790]LogSlate: Window 'Message' being destroyed
+[2023.05.20-22.21.52:399][790]Message dialog closed, result: Yes, title: Message, text: An object [EmptyAnim] of class [PoseAsset] already exists in file [/Game/Assets/Jet/Anims/EmptyAnim].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2023.05.20-22.21.59:904][790]LogSlate: Window 'Message' being destroyed
+[2023.05.20-22.21.59:907][790]Message dialog closed, result: Ok, title: Message, text: PoseAsset /Game/Assets/Jet/Anims/EmptyAnim.EmptyAnim is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of PoseAsset /Game/Assets/Jet/Anims/EmptyAnim.EmptyAnim:
+   AnimGraphNode_PoseBlendNode /Game/Assets/Jet/JetFighter_AnimBP.JetFighter_AnimBP:AnimGraph.AnimGraphNode_StateMachine_0.Plane.AnimStateNode_0.EmptyAnim.AnimGraphNode_PoseBlendNode_0 (1)
+      0) ObjectProperty /Script/AnimGraphRuntime.AnimNode_PoseHandler:PoseAsset
+
+
+[2023.05.20-22.22.05:740][790]LogSlate: Window 'Message' being destroyed
+[2023.05.20-22.22.05:744][790]Message dialog closed, result: Ok, title: Message, text: EmptyAnim wasn't created.
+
+The asset is referenced by other content.
+[2023.05.20-22.22.25:243][104]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2023.05.20-22.22.26:868][104]LogSlate: Window 'Message' being destroyed
+[2023.05.20-22.22.26:871][104]Message dialog closed, result: Yes, title: Message, text: An object [EmptyAnim] of class [PoseAsset] already exists in file [/Game/Assets/Jet/Anims/EmptyAnim].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2023.05.20-22.22.27:321][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.05.20-22.22.27:327][104]LogScript: Warning: Script Msg: /Game/Assets/Jet/Anims/EmptyAnim : New play length is same as existing one: 0,033 seconds
+[2023.05.20-22.22.27:332][104]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Jet/Anims/EmptyAnim.EmptyAnim
+[2023.05.20-22.22.27:332][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-22.22.27:335][104]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-22.22.27:451][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-22.22.27:572][104]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.20-22.22.27:577][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-22.22.27:589][104]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2023.05.20-22.22.27:617][104]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.20-22.22.38:296][518]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-22.22.38:296][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-22.22.38:317][518]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-22.22.38:317][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-22.22.38:386][518]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-22.22.38:386][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-22.23.12:120][518]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Assets/Jet/Anims/EmptyAnim.EmptyAnim
+[2023.05.20-22.23.12:120][518]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Assets/Jet/Anims/EmptyAnim.EmptyAnim
+[2023.05.20-22.23.12:121][518]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/Jet/Mesh/SK_West_Fighter_Typhoon.SK_West_Fighter_Typhoon as actor: SkeletalMeshActor /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap:PersistentLevel.SkeletalMeshActor_1
+[2023.05.20-22.23.12:122][518]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/Jet/Mesh/SK_West_Fighter_Typhoon.SK_West_Fighter_Typhoon as actor: SkeletalMeshActor /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap:PersistentLevel.SkeletalMeshActor_1
+[2023.05.20-22.23.26:004][650]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.23.26:066][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.05.20-22.23.27:070][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_AnimBP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_AnimBP.uasset" SILENT=true
+[2023.05.20-22.23.27:075][748]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_AnimBP
+[2023.05.20-22.23.27:075][748]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_AnimBP69389742444E12AD36665E94E5D3622F.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_AnimBP.uasset'
+[2023.05.20-22.23.27:092][748]AssetCheck: New page: Asset Save: JetFighter_AnimBP
+[2023.05.20-22.23.27:092][748]LogContentValidation: Display: Validating AnimBlueprint /Game/Assets/Jet/JetFighter_AnimBP.JetFighter_AnimBP
+[2023.05.20-22.25.13:668][583]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.25.13:670][583]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - You must pick a bone to modify
+[2023.05.20-22.25.13:671][583]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2023.05.20-22.25.13:733][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.20-22.25.14:255][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_AnimBP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_AnimBP.uasset" SILENT=true
+[2023.05.20-22.25.14:263][629]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_AnimBP
+[2023.05.20-22.25.14:263][629]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_AnimBPE97E73544A75430851DCB6916878FF67.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_AnimBP.uasset'
+[2023.05.20-22.25.14:281][629]AssetCheck: New page: Asset Save: JetFighter_AnimBP
+[2023.05.20-22.25.14:281][629]LogContentValidation: Display: Validating AnimBlueprint /Game/Assets/Jet/JetFighter_AnimBP.JetFighter_AnimBP
+[2023.05.20-22.25.15:444][767]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.25.15:447][767]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - You must pick a bone to modify
+[2023.05.20-22.25.15:447][767]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2023.05.20-22.25.15:505][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.05.20-22.25.16:535][885]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.25.16:537][885]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - You must pick a bone to modify
+[2023.05.20-22.25.16:538][885]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2023.05.20-22.25.16:591][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.05.20-22.25.17:008][930]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.25.17:011][930]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - You must pick a bone to modify
+[2023.05.20-22.25.17:011][930]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2023.05.20-22.25.17:067][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.20-22.25.17:471][973]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.25.17:474][973]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - You must pick a bone to modify
+[2023.05.20-22.25.17:474][973]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2023.05.20-22.25.17:529][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.05.20-22.25.17:803][  1]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.25.17:805][  1]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - You must pick a bone to modify
+[2023.05.20-22.25.17:805][  1]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2023.05.20-22.25.17:858][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.05.20-22.25.18:012][ 13]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.25.18:015][ 13]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - You must pick a bone to modify
+[2023.05.20-22.25.18:015][ 13]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2023.05.20-22.25.18:074][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.05.20-22.26.38:298][507]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.20-22.31.13:155][225]BlueprintLog: New page: Compile JetFighter_BP
+[2023.05.20-22.31.13:158][225]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - You must pick a bone to modify
+[2023.05.20-22.31.13:159][225]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2023.05.20-22.31.13:173][225]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_BP.uasset: [Compiler] Can't parse default value '0.000000' for  Wheel Rotation . Property: Wheel Rotation.
+[2023.05.20-22.31.13:255][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.05.20-22.36.01:669][ 68]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.05.20-22.36.19:568][197]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.36.19:570][197]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - You must pick a bone to modify
+[2023.05.20-22.36.19:570][197]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Assets\Jet\JetFighter_AnimBP.uasset: [Compiler] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2023.05.20-22.36.19:635][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.05.20-22.39.57:862][753]BlueprintLog: New page: Compile JetFighter_AnimBP
+[2023.05.20-22.39.57:928][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.05.20-22.39.58:874][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_AnimBP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_AnimBP.uasset" SILENT=true
+[2023.05.20-22.39.58:887][840]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_AnimBP
+[2023.05.20-22.39.58:887][840]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_AnimBPA62AC31749894DC6C6E290BEEFBFB6CD.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_AnimBP.uasset'
+[2023.05.20-22.39.58:905][840]AssetCheck: New page: Asset Save: JetFighter_AnimBP
+[2023.05.20-22.39.58:905][840]LogContentValidation: Display: Validating AnimBlueprint /Game/Assets/Jet/JetFighter_AnimBP.JetFighter_AnimBP
+[2023.05.20-22.40.00:699][ 41]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-22.40.00:704][ 41]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.20-22.40.00:706][ 41]LogPlayLevel: [PlayLevel] Compiling JetFighter_AnimBP before play...
+[2023.05.20-22.40.00:706][ 41]LogPlayLevel: [PlayLevel]   Compiling JetFighter_BP as a dependent...
+[2023.05.20-22.40.00:857][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.05.20-22.40.00:861][ 41]LogPlayLevel: PlayLevel: Blueprint regeneration took 156 ms (2 blueprints)
+[2023.05.20-22.40.00:861][ 41]PIE: New page: PIE session: NewTestMap (21 de maig 2023, 2:40:00)
+[2023.05.20-22.40.00:861][ 41]LogPlayLevel: Creating play world package: /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.20-22.40.00:863][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001893s)
+[2023.05.20-22.40.00:863][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap to /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap (0.001939s)
+[2023.05.20-22.40.00:863][ 41]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-22.40.00:863][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-22.40.00:863][ 41]LogAIModule: Creating AISystem for world NewTestMap
+[2023.05.20-22.40.00:864][ 41]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2023.05.20-22.40.00:901][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.20-22.40.00:903][ 41]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.20-22.40.00:903][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-22.40.00:903][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-22.40.00:903][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-22.40.00:903][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-22.40.00:903][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-22.40.00:903][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-22.40.00:903][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-22.40.00:903][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-22.40.00:904][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-22.40.00:904][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-22.40.00:904][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-22.40.00:906][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-22.40.00:935][ 41]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.20-22.40.00:936][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-22.40.00:936][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-22.40.00:936][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-22.40.00:936][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.05.20-22.40.00:936][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.05.20-22.40.00:937][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.05.20-22.40.00:937][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.05.20-22.40.00:937][ 41]LogInit: FAudioDevice initialized.
+[2023.05.20-22.40.00:937][ 41]LogAudio: Display: Audio Device (ID: 10) registered with world 'NewTestMap'.
+[2023.05.20-22.40.00:984][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-22.40.00:985][ 41]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-22.40.00:986][ 41]LogWorld: Bringing World /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap up for play (max tick rate 0) at 2023.05.21-00.40.00
+[2023.05.20-22.40.00:986][ 41]LogWorld: Bringing up level for play took: 0.001410
+[2023.05.20-22.40.00:988][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.05.20-22.40.00:988][ 41]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-22.40.00:990][ 41]PIE: Server logged in
+[2023.05.20-22.40.00:991][ 41]PIE: Play in editor total start time 0,287 seconds.
+[2023.05.20-22.40.01:036][ 41]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.20-22.40.10:361][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-22.40.10:361][970]LogWorld: BeginTearingDown for /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.20-22.40.10:361][970]LogSlate: Window 'Aircraft Physics Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-22.40.10:365][970]LogWorld: UWorld::CleanupWorld for NewTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-22.40.10:365][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-22.40.10:375][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-22.40.10:382][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-22.40.10:419][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.20-22.40.10:420][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.20-22.40.10:426][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.20-22.40.10:457][971]LogPlayLevel: Display: Destroying online subsystem :Context_39
