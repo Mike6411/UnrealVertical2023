@@ -2192,3 +2192,6 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.20-20.32.42:801][ 29]LogContentValidation: Display: Validating AnimSequence /Game/Assets/Jet/Anims/A_West_Fighter_Typhoon_refillSystem_open.A_West_Fighter_Typhoon_refillSystem_open
 [2023.05.20-20.32.42:801][ 29]LogContentValidation: Display: Validating AnimSequence /Game/Assets/Jet/Anims/A_West_Fighter_Typhoon_front_wheel_close.A_West_Fighter_Typhoon_front_wheel_close
 [2023.05.20-20.32.55:820][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.20-20.33.50:032][783]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.05.20-20.33.50:127][783]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.05.20-20.35.49:704][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
