@@ -2195,3 +2195,87 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.20-20.33.50:032][783]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2023.05.20-20.33.50:127][783]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
 [2023.05.20-20.35.49:704][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.05.20-20.36.23:943][982]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.20-20.36.24:892][982]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.20-20.36.24:898][982]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.20-20.36.24:903][982]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.20-20.36.24:911][983]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.05.20-20.36.34:164][804]LogContentBrowser: Attempting asset rename: NewBlueprint -> JetFighter_Bp
+[2023.05.20-20.36.34:170][804]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.20-20.36.39:031][307]LogContentBrowser: Attempting asset rename: JetFighter_Bp -> JetFighter_BP
+[2023.05.20-20.36.39:047][307]LogMetaData: Removing '/Game/Assets/Jet/RenameTmp.RenameTmp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/Jet/JetFighter_Bp.PackageMetaData'
+[2023.05.20-20.36.39:047][307]LogMetaData: Removing '/Game/Assets/Jet/RenameTmp.SKEL_RenameTmp_C:UserConstructionScript' ref from Metadata '/Game/Assets/Jet/JetFighter_Bp.PackageMetaData'
+[2023.05.20-20.36.39:047][307]LogMetaData: Removing '/Game/Assets/Jet/RenameTmp.SKEL_RenameTmp_C' ref from Metadata '/Game/Assets/Jet/JetFighter_Bp.PackageMetaData'
+[2023.05.20-20.36.39:047][307]LogMetaData: Removing '/Game/Assets/Jet/RenameTmp.RenameTmp_C' ref from Metadata '/Game/Assets/Jet/JetFighter_Bp.PackageMetaData'
+[2023.05.20-20.36.39:047][307]LogMetaData: Removing '/Game/Assets/Jet/RenameTmp.RenameTmp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Jet/JetFighter_Bp.PackageMetaData'
+[2023.05.20-20.36.39:047][307]LogMetaData: Removing '/Game/Assets/Jet/RenameTmp.RenameTmp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/Jet/JetFighter_Bp.PackageMetaData'
+[2023.05.20-20.36.39:047][307]LogMetaData: Removing '/Game/Assets/Jet/RenameTmp.RenameTmp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Assets/Jet/JetFighter_Bp.PackageMetaData'
+[2023.05.20-20.36.39:144][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.05.20-20.36.39:150][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.20-20.36.39:155][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.05.20-20.36.39:156][307]LogMetaData: Removing '/Game/Assets/Jet/JetFighter_BP.JetFighter_BP_C' ref from Metadata '/Game/Assets/Jet/RenameTmp.PackageMetaData'
+[2023.05.20-20.36.39:156][307]LogMetaData: Removing '/Game/Assets/Jet/JetFighter_BP.SKEL_JetFighter_BP_C' ref from Metadata '/Game/Assets/Jet/RenameTmp.PackageMetaData'
+[2023.05.20-20.36.39:156][307]LogMetaData: Removing '/Game/Assets/Jet/JetFighter_BP.SKEL_JetFighter_BP_C:UserConstructionScript' ref from Metadata '/Game/Assets/Jet/RenameTmp.PackageMetaData'
+[2023.05.20-20.36.39:156][307]LogMetaData: Removing '/Game/Assets/Jet/JetFighter_BP.JetFighter_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/Jet/RenameTmp.PackageMetaData'
+[2023.05.20-20.36.39:156][307]LogMetaData: Removing '/Game/Assets/Jet/JetFighter_BP.JetFighter_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Jet/RenameTmp.PackageMetaData'
+[2023.05.20-20.36.39:156][307]LogMetaData: Removing '/Game/Assets/Jet/JetFighter_BP.JetFighter_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/Jet/RenameTmp.PackageMetaData'
+[2023.05.20-20.36.39:156][307]LogMetaData: Removing '/Game/Assets/Jet/JetFighter_BP.JetFighter_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Assets/Jet/RenameTmp.PackageMetaData'
+[2023.05.20-20.36.39:228][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.20-20.36.39:234][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.05.20-20.36.39:240][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.05.20-20.36.40:398][445]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.20-20.36.40:399][445]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-20.36.41:658][445]LogViewport: Scene viewport resized to 819x422, mode Windowed.
+[2023.05.20-20.36.43:229][600]LogViewport: Scene viewport resized to 816x441, mode Windowed.
+[2023.05.20-20.36.43:313][602]LogViewport: Scene viewport resized to 539x254, mode Windowed.
+[2023.05.20-20.36.43:339][603]LogViewport: Scene viewport resized to 518x239, mode Windowed.
+[2023.05.20-20.36.43:483][618]LogViewport: Scene viewport resized to 1267x725, mode Windowed.
+[2023.05.20-20.36.44:078][687]LogSlate: Window 'JetFighter_BP' being destroyed
+[2023.05.20-20.36.55:663][ 24]BlueprintLog: New page: Compile JetFighter_BP
+[2023.05.20-20.36.55:695][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.05.20-20.36.56:104][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.20-20.36.56:107][ 60]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.20-20.36.56:107][ 60]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BPD7C81CE040103E0777DF79924B72EBFD.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.20-20.36.56:119][ 60]AssetCheck: New page: Asset Save: JetFighter_BP
+[2023.05.20-20.36.56:119][ 60]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.20-20.37.00:086][499]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Assets/Jet/Mesh/SK_West_Fighter_Typhoon.SK_West_Fighter_Typhoon
+[2023.05.20-20.37.00:086][499]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Assets/Jet/Mesh/SK_West_Fighter_Typhoon.SK_West_Fighter_Typhoon
+[2023.05.20-20.37.00:087][499]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/Jet/Mesh/SK_West_Fighter_Typhoon.SK_West_Fighter_Typhoon as actor: SkeletalMeshActor /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap:PersistentLevel.SkeletalMeshActor_0
+[2023.05.20-20.37.00:088][499]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/Jet/Mesh/SK_West_Fighter_Typhoon.SK_West_Fighter_Typhoon as actor: SkeletalMeshActor /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap:PersistentLevel.SkeletalMeshActor_0
+[2023.05.20-20.37.05:183][ 87]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2023.05.20-20.37.09:325][562]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.20-20.37.11:360][800]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.20-20.37.23:545][252]BlueprintLog: New page: Compile JetFighter_BP
+[2023.05.20-20.37.23:648][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.05.20-20.37.24:091][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.20-20.37.24:094][295]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.20-20.37.24:094][295]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP22622CB64CE8EC0C80BDC795FD8303CF.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.20-20.37.24:109][295]AssetCheck: New page: Asset Save: JetFighter_BP
+[2023.05.20-20.37.24:109][295]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.20-20.38.46:603][675]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.05.20-20.38.46:607][675]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.05.20-20.38.46:611][675]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.05.20-20.38.46:621][676]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2023.05.20-20.39.15:960][264]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> JetFighter_AnimBP
+[2023.05.20-20.39.15:970][264]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.05.20-20.39.24:823][765]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.20-20.39.39:211][157]BlueprintLog: New page: Compile JetFighter_BP
+[2023.05.20-20.39.39:247][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.20-20.39.39:301][158]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.20-20.39.39:957][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.20-20.39.39:960][229]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.20-20.39.39:961][229]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP46AF704C44A1BBFDC13900848CA29F1B.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.20-20.39.39:974][229]AssetCheck: New page: Asset Save: JetFighter_BP
+[2023.05.20-20.39.39:974][229]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.20-20.40.24:936][199]BlueprintLog: New page: Compile JetFighter_BP
+[2023.05.20-20.40.24:970][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.05.20-20.40.25:436][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.20-20.40.25:439][236]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.20-20.40.25:440][236]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP9F2358134C99DBEBBA7F81885E6B853D.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.20-20.40.25:452][236]AssetCheck: New page: Asset Save: JetFighter_BP
+[2023.05.20-20.40.25:452][236]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.20-20.40.26:230][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.20-20.40.26:233][324]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.20-20.40.26:233][324]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP81905B514404FC4EDB880E9F6B942076.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.20-20.40.26:245][324]AssetCheck: New page: Asset Save: JetFighter_BP
+[2023.05.20-20.40.26:245][324]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
