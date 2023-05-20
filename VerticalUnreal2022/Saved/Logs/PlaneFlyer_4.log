@@ -1,4 +1,4 @@
-﻿Log file open, 05/20/23 00:26:27
+Log file open, 05/20/23 00:26:27
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -2866,3 +2866,12 @@ Continue: Skip saving this asset only.
 [2023.05.19-22.59.22:658][877]LogNavigationPoint: PostEditMove Clear paths rebuilt
 [2023.05.19-22.59.24:767][129]LogNavigationPoint: PostEditMove Clear paths rebuilt
 [2023.05.19-22.59.28:687][574]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.05.19-23.01.27:896][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.19-23.01.27:907][ 92]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Example_Map_Auto2
+[2023.05.19-23.01.27:907][ 92]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map_Auto22275551A422F025B42E6FDA365966620.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Maps/Example_Map_Auto2.umap'
+[2023.05.19-23.01.27:913][ 92]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Example_Map' took 0.042
+[2023.05.19-23.01.27:913][ 92]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2023.05.19-23.28.29:084][ 29]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.084 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.20-00.28.29:126][734]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.114 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.20-00.38.18:177][485]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.05.20-01.28.28:972][439]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.093 and deleted 0 file(s) with total size 0 MiB.
