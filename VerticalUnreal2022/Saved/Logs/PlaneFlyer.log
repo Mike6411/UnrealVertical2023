@@ -6884,3 +6884,16 @@ JetFighter_BP_C.ReceiveBeginPlay
 [2023.05.21-17.19.44:742][697]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.88% of total time (compiled  237 times, average 0.68 sec, max 1.62 sec, min 0.27 sec)
 [2023.05.21-17.19.44:742][697]LogShaderCompilers: Display: ================================================
 [2023.05.21-17.19.45:171][740]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4C4D04BECF70AD5BBD3E877F1FEAD7C1267EDCCD), compiling. 
+[2023.05.21-17.20.27:301][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.21-17.20.27:316][216]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Example_Map_Auto3
+[2023.05.21-17.20.27:316][216]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map_Auto38EBB176A4A742C456EB88E81C4BC70C7.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Maps/Example_Map_Auto3.umap'
+[2023.05.21-17.20.27:324][216]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Example_Map' took 0.056
+[2023.05.21-17.20.27:324][216]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2023.05.21-17.20.58:236][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.21-17.21.00:284][631]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.21-17.21.02:371][631]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/WG_GameHUD.WG_GameHUD
+	Asset Type: WidgetBlueprint
+[2023.05.21-17.21.03:085][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.21-17.21.03:118][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.21-17.21.03:150][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
