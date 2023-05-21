@@ -8289,3 +8289,303 @@ JetFighter_BP_C.ReceiveBeginPlay
 [2023.05.21-19.15.15:385][455]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map_Auto0C6B9173E42133F0F70E856A9174A14DF.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Maps/Example_Map_Auto0.umap'
 [2023.05.21-19.15.15:393][455]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Example_Map' took 0.065
 [2023.05.21-19.15.15:393][455]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2023.05.21-19.17.17:728][379]BlueprintLog: New page: Compile BaseGameScore
+[2023.05.21-19.17.17:803][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.21-19.17.18:525][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGameScore" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset" SILENT=true
+[2023.05.21-19.17.18:532][437]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGameScore
+[2023.05.21-19.17.18:532][437]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGameScoreF577311647ACFDC3A9EF739545278A0A.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset'
+[2023.05.21-19.17.18:550][437]AssetCheck: New page: Asset Save: BaseGameScore
+[2023.05.21-19.17.18:550][437]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BaseGameScore.BaseGameScore
+[2023.05.21-19.17.19:428][532]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-19.17.19:435][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-19.17.19:435][532]PIE: New page: PIE session: Example_Map (21 de maig 2023, 23:17:19)
+[2023.05.21-19.17.19:435][532]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-19.17.19:439][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003289s)
+[2023.05.21-19.17.19:439][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003341s)
+[2023.05.21-19.17.19:439][532]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-19.17.19:439][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-19.17.19:439][532]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-19.17.19:439][532]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2023.05.21-19.17.19:483][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.05.21-19.17.19:489][532]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2023.05.21-19.17.19:489][532]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-19.17.19:489][532]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-19.17.19:489][532]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-19.17.19:489][532]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-19.17.19:489][532]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-19.17.19:489][532]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-19.17.19:489][532]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-19.17.19:489][532]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-19.17.19:489][532]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-19.17.19:489][532]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-19.17.19:489][532]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-19.17.19:491][532]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-19.17.19:521][532]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-19.17.19:521][532]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-19.17.19:521][532]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-19.17.19:521][532]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-19.17.19:522][532]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2023.05.21-19.17.19:522][532]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2023.05.21-19.17.19:523][532]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2023.05.21-19.17.19:523][532]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2023.05.21-19.17.19:523][532]LogInit: FAudioDevice initialized.
+[2023.05.21-19.17.19:523][532]LogAudio: Display: Audio Device (ID: 67) registered with world 'Example_Map'.
+[2023.05.21-19.17.19:558][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-19.17.19:558][532]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-19.17.19:559][532]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-21.17.19
+[2023.05.21-19.17.19:559][532]LogWorld: Bringing up level for play took: 0.000902
+[2023.05.21-19.17.19:561][532]LogOnline: OSS: Created online subsystem instance for: :Context_113
+[2023.05.21-19.17.19:568][532]PIE: Server logged in
+[2023.05.21-19.17.19:569][532]PIE: Play in editor total start time 0,136 seconds.
+[2023.05.21-19.17.19:578][532]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.21-19.17.27:176][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-19.17.27:176][412]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-19.17.27:177][412]LogSlate: Window 'Aircraft Physics Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.21-19.17.27:181][412]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-19.17.27:181][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-19.17.27:199][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-19.17.27:206][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-19.17.27:251][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-19.17.27:252][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2023.05.21-19.17.27:254][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2023.05.21-19.17.27:259][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.21-19.17.27:306][413]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2023.05.21-19.17.54:842][867]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.21-19.17.54:850][867]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.21-19.17.54:858][868]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.21-19.18.04:004][966]LogContentBrowser: Attempting asset rename: NewFolder -> MainMap
+[2023.05.21-19.18.04:004][966]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.SKEL_BaseGame_UI_C' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI_C' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI:PlayerPoints.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI:PlayerPoints.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.SKEL_BaseGame_UI_C:Tick' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.SKEL_BaseGame_UI_C:Construct' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.SKEL_BaseGame_UI_C:PreConstruct' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI_C:Construct' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI:SetMinutes.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI:SetMinutes.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI:SetSeconds.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:592][373]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI:SetSeconds.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BaseGame_UI.PackageMetaData'
+[2023.05.21-19.18.07:674][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMap/BaseGame_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/MainMap/BaseGame_UI.uasset" SILENT=true
+[2023.05.21-19.18.07:681][373]LogSavePackage: Moving output files for package: /Game/Blueprints/MainMap/BaseGame_UI
+[2023.05.21-19.18.07:681][373]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGame_UI1B542AAC4F8142FF3CE3379CA164FBF8.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/MainMap/BaseGame_UI.uasset'
+[2023.05.21-19.18.07:682][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGame_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset" SILENT=true
+[2023.05.21-19.18.07:683][373]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGame_UI
+[2023.05.21-19.18.07:683][373]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGame_UI76F5568941BD303DB26B63910EFBF522.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset'
+[2023.05.21-19.18.07:711][373]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.21-19.18.07:711][373]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BaseGame_UI.BaseGame_UI
+[2023.05.21-19.18.07:711][373]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BaseGame_UI.Default__BaseGame_UI_C
+[2023.05.21-19.18.07:711][373]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BaseGame_UI.BaseGame_UI_C
+[2023.05.21-19.18.07:711][373]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI
+[2023.05.21-19.18.09:945][619]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGameScore.BaseGameScore:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BaseGameScore.PackageMetaData'
+[2023.05.21-19.18.09:945][619]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGameScore.SKEL_BaseGameScore_C' ref from Metadata '/Game/Blueprints/BaseGameScore.PackageMetaData'
+[2023.05.21-19.18.09:945][619]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGameScore.BaseGameScore_C' ref from Metadata '/Game/Blueprints/BaseGameScore.PackageMetaData'
+[2023.05.21-19.18.09:945][619]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGameScore.BaseGameScore:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BaseGameScore.PackageMetaData'
+[2023.05.21-19.18.09:945][619]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGameScore.BaseGameScore:EventGraph.K2Node_Event_4' ref from Metadata '/Game/Blueprints/BaseGameScore.PackageMetaData'
+[2023.05.21-19.18.09:945][619]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGameScore.BaseGameScore:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BaseGameScore.PackageMetaData'
+[2023.05.21-19.18.09:945][619]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGameScore.BaseGameScore_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BaseGameScore.PackageMetaData'
+[2023.05.21-19.18.09:945][619]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGameScore.BaseGameScore_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BaseGameScore.PackageMetaData'
+[2023.05.21-19.18.09:945][619]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGameScore.SKEL_BaseGameScore_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BaseGameScore.PackageMetaData'
+[2023.05.21-19.18.09:945][619]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGameScore.SKEL_BaseGameScore_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BaseGameScore.PackageMetaData'
+[2023.05.21-19.18.09:945][619]LogMetaData: Removing '/Game/Blueprints/MainMap/BaseGameScore.SKEL_BaseGameScore_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BaseGameScore.PackageMetaData'
+[2023.05.21-19.18.10:023][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMap/BaseGameScore" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/MainMap/BaseGameScore.uasset" SILENT=true
+[2023.05.21-19.18.10:029][619]LogSavePackage: Moving output files for package: /Game/Blueprints/MainMap/BaseGameScore
+[2023.05.21-19.18.10:029][619]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGameScore1574E8B14A7DE1FEB59B98A2359F3928.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/MainMap/BaseGameScore.uasset'
+[2023.05.21-19.18.10:030][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGameScore" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset" SILENT=true
+[2023.05.21-19.18.10:030][619]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGameScore
+[2023.05.21-19.18.10:030][619]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGameScoreA227B4B64EA24C683871DE87BD15BBB0.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset'
+[2023.05.21-19.18.10:056][619]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.21-19.18.10:056][619]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BaseGameScore.BaseGameScore
+[2023.05.21-19.18.10:056][619]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BaseGameScore.Default__BaseGameScore_C
+[2023.05.21-19.18.10:056][619]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BaseGameScore.BaseGameScore_C
+[2023.05.21-19.18.10:056][619]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainMap/BaseGameScore.BaseGameScore
+[2023.05.21-19.18.12:657][908]LogMetaData: Removing '/Game/Blueprints/MainMap/GameOver_UI.GameOver_UI_C' ref from Metadata '/Game/Blueprints/GameOver_UI.PackageMetaData'
+[2023.05.21-19.18.12:657][908]LogMetaData: Removing '/Game/Blueprints/MainMap/GameOver_UI.SKEL_GameOver_UI_C' ref from Metadata '/Game/Blueprints/GameOver_UI.PackageMetaData'
+[2023.05.21-19.18.12:657][908]LogMetaData: Removing '/Game/Blueprints/MainMap/GameOver_UI.GameOver_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/GameOver_UI.PackageMetaData'
+[2023.05.21-19.18.12:657][908]LogMetaData: Removing '/Game/Blueprints/MainMap/GameOver_UI.GameOver_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/GameOver_UI.PackageMetaData'
+[2023.05.21-19.18.12:657][908]LogMetaData: Removing '/Game/Blueprints/MainMap/GameOver_UI.GameOver_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/GameOver_UI.PackageMetaData'
+[2023.05.21-19.18.12:657][908]LogMetaData: Removing '/Game/Blueprints/MainMap/GameOver_UI.SKEL_GameOver_UI_C:BndEvt__GameOver_UI_Button_0_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Blueprints/GameOver_UI.PackageMetaData'
+[2023.05.21-19.18.12:657][908]LogMetaData: Removing '/Game/Blueprints/MainMap/GameOver_UI.GameOver_UI:SetFinalScore.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/GameOver_UI.PackageMetaData'
+[2023.05.21-19.18.12:657][908]LogMetaData: Removing '/Game/Blueprints/MainMap/GameOver_UI.GameOver_UI:SetFinalScore.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/GameOver_UI.PackageMetaData'
+[2023.05.21-19.18.12:723][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMap/BaseGameScore" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/MainMap/BaseGameScore.uasset" SILENT=true
+[2023.05.21-19.18.12:728][908]LogSavePackage: Moving output files for package: /Game/Blueprints/MainMap/BaseGameScore
+[2023.05.21-19.18.12:729][908]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGameScore066B81CE44051EBF2DE6D9891C8AD2B0.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/MainMap/BaseGameScore.uasset'
+[2023.05.21-19.18.12:731][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMap/GameOver_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/MainMap/GameOver_UI.uasset" SILENT=true
+[2023.05.21-19.18.12:736][908]LogSavePackage: Moving output files for package: /Game/Blueprints/MainMap/GameOver_UI
+[2023.05.21-19.18.12:736][908]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/GameOver_UIBFB528D94D367FFCFF3EDBB8CEAC9D6E.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/MainMap/GameOver_UI.uasset'
+[2023.05.21-19.18.13:164][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.21-19.18.13:212][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.05.21-19.18.13:256][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.21-19.18.13:280][908]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.21-19.18.13:280][908]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/MainMap/GameOver_UI.GameOver_UI
+[2023.05.21-19.18.13:281][908]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainMap/BaseGameScore.BaseGameScore
+[2023.05.21-19.18.23:078][367]LogSlate: Window 'Message' being destroyed
+[2023.05.21-19.18.23:101][367]Message dialog closed, result: No, title: Message, text: The following assets are referenced by one or more Class Default Objects: 
+
+BP_GameMode (project settings soft reference)
+
+Continuing with the rename may require changes to fix references in code or project settings. Assets could otherwise be missing in cooked/packaged builds. Do you wish to continue?
+[2023.05.21-19.18.24:645][535]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-19.18.24:652][535]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.21-19.18.24:653][535]LogPlayLevel: [PlayLevel] Compiling Points before play...
+[2023.05.21-19.18.24:732][535]LogPlayLevel: [PlayLevel] Compiling BaseGameScore before play...
+[2023.05.21-19.18.24:847][535]LogPlayLevel: [PlayLevel] Compiling Example_Map before play...
+[2023.05.21-19.18.24:865][535]LogPlayLevel: [PlayLevel] Compiling Example_Map_Auto7 before play...
+[2023.05.21-19.18.24:883][535]LogPlayLevel: [PlayLevel] Compiling Example_Map_Auto8 before play...
+[2023.05.21-19.18.24:904][535]LogPlayLevel: [PlayLevel] Compiling Example_Map_Auto9 before play...
+[2023.05.21-19.18.24:924][535]LogPlayLevel: [PlayLevel] Compiling BaseGame_UI before play...
+[2023.05.21-19.18.24:973][535]LogPlayLevel: [PlayLevel] Compiling GameOver_UI before play...
+[2023.05.21-19.18.25:068][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.05.21-19.18.25:074][535]LogPlayLevel: PlayLevel: Blueprint regeneration took 421 ms (8 blueprints)
+[2023.05.21-19.18.25:074][535]PIE: New page: PIE session: Example_Map (21 de maig 2023, 23:18:25)
+[2023.05.21-19.18.25:095][535]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-19.18.25:099][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004162s)
+[2023.05.21-19.18.25:099][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.004235s)
+[2023.05.21-19.18.25:099][535]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-19.18.25:099][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-19.18.25:100][535]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-19.18.25:100][535]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2023.05.21-19.18.25:147][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.21-19.18.25:151][535]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2023.05.21-19.18.25:151][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-19.18.25:151][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-19.18.25:151][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-19.18.25:151][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-19.18.25:151][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-19.18.25:151][535]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-19.18.25:151][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-19.18.25:151][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-19.18.25:151][535]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-19.18.25:151][535]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-19.18.25:151][535]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-19.18.25:153][535]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-19.18.25:182][535]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-19.18.25:182][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-19.18.25:182][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-19.18.25:183][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-19.18.25:183][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2023.05.21-19.18.25:183][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2023.05.21-19.18.25:185][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2023.05.21-19.18.25:185][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2023.05.21-19.18.25:185][535]LogInit: FAudioDevice initialized.
+[2023.05.21-19.18.25:185][535]LogAudio: Display: Audio Device (ID: 68) registered with world 'Example_Map'.
+[2023.05.21-19.18.25:195][535]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-19.18.25:196][535]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-21.18.25
+[2023.05.21-19.18.25:196][535]LogWorld: Bringing up level for play took: 0.000559
+[2023.05.21-19.18.25:197][535]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2023.05.21-19.18.25:202][535]PIE: Server logged in
+[2023.05.21-19.18.25:203][535]PIE: Play in editor total start time 0,552 seconds.
+[2023.05.21-19.18.36:936][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-19.18.36:936][928]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-19.18.36:936][928]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-19.18.36:936][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-19.18.36:952][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-19.18.36:959][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-19.18.37:000][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-19.18.37:001][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2023.05.21-19.18.37:002][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2023.05.21-19.18.37:008][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.21-19.18.37:048][929]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2023.05.21-19.18.45:714][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.21-19.18.45:773][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.21-19.18.45:814][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.21-19.18.45:827][916]LogSavePackage: Moving output files for package: /Game/Maps/Example_Map
+[2023.05.21-19.18.45:827][916]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map6D6DDF2F4030F05CC170C086DDB937C7.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap'
+[2023.05.21-19.18.45:839][916]LogFileHelpers: No new changes to save!
+[2023.05.21-19.18.45:839][916]LogFileHelpers: Saving map 'Example_Map' took 0.066
+[2023.05.21-19.19.13:801][916]LogSlate: Window 'Save Level As' being destroyed
+[2023.05.21-19.19.13:863][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.05.21-19.19.13:890][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-19.19.13:891][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BaseMap" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/BaseMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.21-19.19.13:937][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.21-19.19.13:948][916]LogSavePackage: Moving output files for package: /Game/Maps/BaseMap
+[2023.05.21-19.19.13:948][916]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseMap750ECEC4485EAEC96ABB61A52B63BB38.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/BaseMap.umap'
+[2023.05.21-19.19.13:959][916]LogFileHelpers: Saving map 'BaseMap' took 0.149
+[2023.05.21-19.19.21:769][916]LogSlate: Window 'Save Level As' being destroyed
+[2023.05.21-19.19.21:793][916]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.21-19.19.21:793][916]LogContentValidation: Display: Validating World /Game/Maps/BaseMap.BaseMap
+[2023.05.21-19.19.21:793][916]LogContentValidation: Display: Validating World /Game/Maps/Example_Map.Example_Map
+[2023.05.21-19.19.26:836][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.05.21-19.19.29:878][488]LogSlate: Window 'Save Content' being destroyed
+[2023.05.21-19.19.29:940][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMap/BaseGame_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/MainMap/BaseGame_UI.uasset" SILENT=true
+[2023.05.21-19.19.29:948][488]LogSavePackage: Moving output files for package: /Game/Blueprints/MainMap/BaseGame_UI
+[2023.05.21-19.19.29:948][488]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGame_UIADEDEB3A4815F9361B5EE9A405B362B7.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/MainMap/BaseGame_UI.uasset'
+[2023.05.21-19.19.32:632][488]LogSlate: Window 'Save Level As' being destroyed
+[2023.05.21-19.19.32:651][488]AssetCheck: New page: Asset Save: BaseGame_UI
+[2023.05.21-19.19.32:651][488]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI
+[2023.05.21-19.19.36:013][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.21-19.19.40:452][859]LogSlate: Window 'Save Content' being destroyed
+[2023.05.21-19.19.42:364][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Points" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset" SILENT=true
+[2023.05.21-19.19.42:369][ 56]LogSavePackage: Moving output files for package: /Game/Blueprints/Points
+[2023.05.21-19.19.42:370][ 56]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Points0A93B32A4473BDDFE9947C865BB5687E.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset'
+[2023.05.21-19.19.42:387][ 56]AssetCheck: New page: Asset Save: Points
+[2023.05.21-19.19.42:388][ 56]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Points.Points
+[2023.05.21-19.19.46:343][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.21-19.19.50:540][513]LogSlate: Window 'Save Content' being destroyed
+[2023.05.21-19.19.50:544][513]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/BaseMap.BaseMap
+[2023.05.21-19.19.50:544][513]Cmd: MAP LOAD FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/BaseMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.21-19.19.50:544][513]LightingResults: New page: Lighting Build
+[2023.05.21-19.19.50:544][513]LoadErrors: New page: Loading map: BaseMap.umap
+[2023.05.21-19.19.50:575][513]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-19.19.50:576][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-19.19.50:576][513]MapCheck: New page: Map Check
+[2023.05.21-19.19.50:576][513]LightingResults: New page: Lighting Build
+[2023.05.21-19.19.50:625][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-19.19.50:630][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.05.21-19.19.50:635][513]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-19.19.50:635][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-19.19.50:683][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.21-19.19.50:732][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.21-19.19.53:360][513]LogSlate: Window 'Message' being destroyed
+[2023.05.21-19.19.53:363][513]Message dialog closed, result: Ok, title: Message, text: The following assets have been modified and cannot be unloaded:
+    /Temp/Autosaves/Game/Maps/Example_Map_Auto7
+    /Temp/Autosaves/Game/Maps/Example_Map_Auto8
+    /Temp/Autosaves/Game/Maps/Example_Map_Auto9
+Saving these assets will allow them to be unloaded.
+[2023.05.21-19.19.53:371][513]LogAudio: Display: Audio Device (ID: 1) registered with world 'BaseMap'.
+[2023.05.21-19.19.53:371][513]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-19.19.53:371][513]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-19.19.53:371][513]LogAIModule: Creating AISystem for world BaseMap
+[2023.05.21-19.19.53:545][513]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.21-19.19.53:590][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.05.21-19.19.53:719][513]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.21-19.19.53:719][513]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,084ms to complete.
+[2023.05.21-19.19.53:719][513]LogFileHelpers: Loading map 'BaseMap' took 3.175
+[2023.05.21-19.20.04:345][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.21-19.20.07:229][740]LogSlate: Window 'Save Content' being destroyed
+[2023.05.21-19.20.09:071][740]LogSlate: Window 'Save Level As' being destroyed
+[2023.05.21-19.20.10:206][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.21-19.20.11:473][846]LogSlate: Window 'Save Content' being destroyed
+[2023.05.21-19.20.11:529][846]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Example_Map.Example_Map
+[2023.05.21-19.20.11:530][846]Cmd: MAP LOAD FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.21-19.20.11:530][846]LightingResults: New page: Lighting Build
+[2023.05.21-19.20.11:530][846]LoadErrors: New page: Loading map: Example_Map.umap
+[2023.05.21-19.20.11:566][846]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-19.20.11:566][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-19.20.11:566][846]MapCheck: New page: Map Check
+[2023.05.21-19.20.11:566][846]LightingResults: New page: Lighting Build
+[2023.05.21-19.20.11:609][846]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-19.20.11:612][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.21-19.20.11:616][846]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-19.20.11:616][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-19.20.11:660][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.21-19.20.11:706][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.21-19.20.21:797][846]LogSlate: Window 'Message' being destroyed
+[2023.05.21-19.20.21:800][846]Message dialog closed, result: Ok, title: Message, text: The following assets have been modified and cannot be unloaded:
+    /Temp/Autosaves/Game/Maps/Example_Map_Auto9
+    /Temp/Autosaves/Game/Maps/Example_Map_Auto7
+    /Temp/Autosaves/Game/Maps/Example_Map_Auto8
+Saving these assets will allow them to be unloaded.
+[2023.05.21-19.20.21:808][846]LogAudio: Display: Audio Device (ID: 1) registered with world 'Example_Map'.
+[2023.05.21-19.20.21:808][846]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-19.20.21:808][846]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-19.20.21:808][846]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-19.20.21:973][846]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.21-19.20.22:022][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.05.21-19.20.22:040][846]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.21-19.20.22:041][846]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,095ms to complete.
+[2023.05.21-19.20.22:041][846]LogFileHelpers: Loading map 'Example_Map' took 10.511
