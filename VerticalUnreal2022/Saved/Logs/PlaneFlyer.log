@@ -8057,3 +8057,235 @@ JetFighter_BP_C.ReceiveBeginPlay
 [2023.05.21-18.36.33:023][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
 [2023.05.21-18.36.33:029][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
 [2023.05.21-18.36.33:065][942]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2023.05.21-18.39.03:366][167]BlueprintLog: New page: Compile BaseGameScore
+[2023.05.21-18.39.03:424][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.21-18.39.04:237][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGameScore" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset" SILENT=true
+[2023.05.21-18.39.04:240][249]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGameScore
+[2023.05.21-18.39.04:240][249]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGameScore96EC94CE415C61B8F4D7BA83BAE91F1A.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset'
+[2023.05.21-18.39.04:256][249]AssetCheck: New page: Asset Save: BaseGameScore
+[2023.05.21-18.39.04:256][249]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BaseGameScore.BaseGameScore
+[2023.05.21-18.39.50:213][458]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.188 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.21-18.40.21:810][ 50]BlueprintLog: New page: Compile BaseGameScore
+[2023.05.21-18.40.21:813][ 50]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Blueprints\BaseGameScore.uasset: [Compiler] Can't parse default value '0.000000' for  . Property: Seconds.
+[2023.05.21-18.40.21:813][ 50]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Blueprints\BaseGameScore.uasset: [Compiler] Can't parse default value '0.000000' for  . Property: Minutes.
+[2023.05.21-18.40.21:866][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.21-18.40.22:471][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGameScore" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset" SILENT=true
+[2023.05.21-18.40.22:474][104]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGameScore
+[2023.05.21-18.40.22:474][104]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGameScore02BF1897488327E30F4791B108DF1910.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset'
+[2023.05.21-18.40.22:489][104]AssetCheck: New page: Asset Save: BaseGameScore
+[2023.05.21-18.40.22:489][104]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BaseGameScore.BaseGameScore
+[2023.05.21-18.45.08:519][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.21-18.45.08:543][881]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Example_Map_Auto8
+[2023.05.21-18.45.08:543][881]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map_Auto8703DF4E94845799B733823B4320238D5.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Maps/Example_Map_Auto8.umap'
+[2023.05.21-18.45.08:551][881]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Example_Map' took 0.084
+[2023.05.21-18.45.08:551][881]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2023.05.21-18.45.08:552][881]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BaseGameScore] ([2] browsable assets)...
+[2023.05.21-18.45.08:552][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BaseGameScore]
+[2023.05.21-18.45.08:557][881]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BaseGameScore_Auto8
+[2023.05.21-18.45.08:557][881]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGameScore_Auto89E07B2DD49382D5594BDDA851046F130.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Blueprints/BaseGameScore_Auto8.uasset'
+[2023.05.21-18.45.08:558][881]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.05.21-18.45.21:916][490]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.05.21-18.45.21:926][490]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.05.21-18.45.21:932][490]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.05.21-18.45.21:941][491]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.05.21-18.45.24:544][799]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> GameOver
+[2023.05.21-18.45.24:549][799]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.05.21-18.45.33:171][816]LogContentBrowser: Attempting asset rename: GameOver -> Widget
+[2023.05.21-18.45.33:189][816]LogMetaData: Removing '/Game/Blueprints/Widget.SKEL_Widget_C' ref from Metadata '/Game/Blueprints/GameOver.PackageMetaData'
+[2023.05.21-18.45.33:189][816]LogMetaData: Removing '/Game/Blueprints/Widget.Widget_C' ref from Metadata '/Game/Blueprints/GameOver.PackageMetaData'
+[2023.05.21-18.45.33:189][816]LogMetaData: Removing '/Game/Blueprints/Widget.Widget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/GameOver.PackageMetaData'
+[2023.05.21-18.45.33:189][816]LogMetaData: Removing '/Game/Blueprints/Widget.Widget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/GameOver.PackageMetaData'
+[2023.05.21-18.45.33:189][816]LogMetaData: Removing '/Game/Blueprints/Widget.Widget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/GameOver.PackageMetaData'
+[2023.05.21-18.45.33:251][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Widget.uasset" SILENT=true
+[2023.05.21-18.45.33:254][816]LogSavePackage: Moving output files for package: /Game/Blueprints/Widget
+[2023.05.21-18.45.33:254][816]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Widget9E3FC0A54F47E08FAC90288EB2F3ED31.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Widget.uasset'
+[2023.05.21-18.45.33:484][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.05.21-18.45.33:525][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.05.21-18.45.33:563][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.05.21-18.45.33:573][816]AssetCheck: New page: Asset Save: Widget
+[2023.05.21-18.45.33:573][816]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2023.05.21-18.45.43:714][255]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2023.05.21-18.45.43:714][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.45.43:716][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.45.44:012][255]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-18.45.44:012][255]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-18.45.55:620][598]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.45.55:621][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.45.55:629][598]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.45.55:629][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.46.05:335][749]LogContentBrowser: Attempting asset rename: Widget -> GameOver_UI
+[2023.05.21-18.46.05:349][749]LogMetaData: Removing '/Game/Blueprints/GameOver_UI.GameOver_UI_C' ref from Metadata '/Game/Blueprints/Widget.PackageMetaData'
+[2023.05.21-18.46.05:350][749]LogMetaData: Removing '/Game/Blueprints/GameOver_UI.SKEL_GameOver_UI_C' ref from Metadata '/Game/Blueprints/Widget.PackageMetaData'
+[2023.05.21-18.46.05:350][749]LogMetaData: Removing '/Game/Blueprints/GameOver_UI.GameOver_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Widget.PackageMetaData'
+[2023.05.21-18.46.05:350][749]LogMetaData: Removing '/Game/Blueprints/GameOver_UI.GameOver_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Widget.PackageMetaData'
+[2023.05.21-18.46.05:350][749]LogMetaData: Removing '/Game/Blueprints/GameOver_UI.GameOver_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Widget.PackageMetaData'
+[2023.05.21-18.46.05:400][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameOver_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/GameOver_UI.uasset" SILENT=true
+[2023.05.21-18.46.05:402][749]LogSavePackage: Moving output files for package: /Game/Blueprints/GameOver_UI
+[2023.05.21-18.46.05:402][749]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/GameOver_UID1C69B1B43F48AD011EEB6A71E731041.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/GameOver_UI.uasset'
+[2023.05.21-18.46.05:641][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.05.21-18.46.05:681][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.21-18.46.05:719][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.21-18.46.05:731][749]AssetCheck: New page: Asset Save: GameOver_UI
+[2023.05.21-18.46.05:731][749]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/GameOver_UI.GameOver_UI
+[2023.05.21-18.46.16:764][388]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/GameOver_UI.GameOver_UI
+[2023.05.21-18.46.16:764][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.46.16:766][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.46.17:056][388]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-18.46.17:056][388]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-18.49.12:949][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameOver_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/GameOver_UI.uasset" SILENT=true
+[2023.05.21-18.49.12:952][869]LogSavePackage: Moving output files for package: /Game/Blueprints/GameOver_UI
+[2023.05.21-18.49.12:952][869]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/GameOver_UI02DE49704F9F152973B3BE8C081EA390.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/GameOver_UI.uasset'
+[2023.05.21-18.49.12:970][869]AssetCheck: New page: Asset Save: GameOver_UI
+[2023.05.21-18.49.12:970][869]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/GameOver_UI.GameOver_UI
+[2023.05.21-18.49.40:766][432]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-18.49.40:766][432]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-18.50.17:778][969]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-18.50.17:778][969]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-18.51.36:696][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameOver_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/GameOver_UI.uasset" SILENT=true
+[2023.05.21-18.51.36:698][726]LogSavePackage: Moving output files for package: /Game/Blueprints/GameOver_UI
+[2023.05.21-18.51.36:699][726]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/GameOver_UIED91414341D0DA2A0A3FDF88900FA9DA.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/GameOver_UI.uasset'
+[2023.05.21-18.51.36:715][726]AssetCheck: New page: Asset Save: GameOver_UI
+[2023.05.21-18.51.36:715][726]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/GameOver_UI.GameOver_UI
+[2023.05.21-18.52.14:994][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameOver_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/GameOver_UI.uasset" SILENT=true
+[2023.05.21-18.52.14:997][942]LogSavePackage: Moving output files for package: /Game/Blueprints/GameOver_UI
+[2023.05.21-18.52.14:997][942]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/GameOver_UI0061CBAA4EDCFF3B6180F895A0213432.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/GameOver_UI.uasset'
+[2023.05.21-18.52.15:017][942]AssetCheck: New page: Asset Save: GameOver_UI
+[2023.05.21-18.52.15:017][942]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/GameOver_UI.GameOver_UI
+[2023.05.21-18.53.29:421][609]BlueprintLog: New page: Compile GameOver_UI
+[2023.05.21-18.53.29:493][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.21-18.53.30:495][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameOver_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/GameOver_UI.uasset" SILENT=true
+[2023.05.21-18.53.30:500][716]LogSavePackage: Moving output files for package: /Game/Blueprints/GameOver_UI
+[2023.05.21-18.53.30:500][716]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/GameOver_UI702569394C035FBAB77AD1839D56EEAF.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/GameOver_UI.uasset'
+[2023.05.21-18.53.30:515][716]AssetCheck: New page: Asset Save: GameOver_UI
+[2023.05.21-18.53.30:515][716]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/GameOver_UI.GameOver_UI
+[2023.05.21-18.53.48:688][463]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-18.53.48:688][463]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-18.56.47:201][415]BlueprintLog: New page: Compile BaseGame_UI
+[2023.05.21-18.56.47:288][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.05.21-18.56.47:959][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGame_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset" SILENT=true
+[2023.05.21-18.56.47:964][476]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGame_UI
+[2023.05.21-18.56.47:964][476]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGame_UI659161EA40665C10DD1BD394A970D71B.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset'
+[2023.05.21-18.56.47:980][476]AssetCheck: New page: Asset Save: BaseGame_UI
+[2023.05.21-18.56.47:980][476]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BaseGame_UI.BaseGame_UI
+[2023.05.21-18.59.22:035][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.05.21-18.59.22:052][ 25]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Example_Map_Auto9
+[2023.05.21-18.59.22:052][ 25]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map_Auto92CC696E2438FC29E6A0CB28C88180D4D.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Maps/Example_Map_Auto9.umap'
+[2023.05.21-18.59.22:061][ 25]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Example_Map' took 0.085
+[2023.05.21-18.59.22:061][ 25]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2023.05.21-18.59.22:061][ 25]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BaseGame_UI] ([2] browsable assets)...
+[2023.05.21-18.59.22:064][ 25]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/BaseGame_UI.BaseGame_UI]
+[2023.05.21-18.59.22:064][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BaseGame_UI]
+[2023.05.21-18.59.22:069][ 25]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BaseGame_UI_Auto9
+[2023.05.21-18.59.22:069][ 25]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGame_UI_Auto9F60DF0934C6A5C4F0883088CCC22A91B.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Blueprints/BaseGame_UI_Auto9.uasset'
+[2023.05.21-18.59.22:070][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BaseGameScore] ([2] browsable assets)...
+[2023.05.21-18.59.22:070][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BaseGameScore]
+[2023.05.21-18.59.22:075][ 25]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BaseGameScore_Auto9
+[2023.05.21-18.59.22:075][ 25]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGameScore_Auto9132F86284305716897B0DA93E8386FFD.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Blueprints/BaseGameScore_Auto9.uasset'
+[2023.05.21-18.59.22:075][ 25]LogFileHelpers: Auto-saving content packages took 0.014
+[2023.05.21-19.05.20:770][400]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.21-19.06.47:084][362]LogUObjectGlobals: Warning: Failed to find object 'Object /Temp/Autosaves/Game/Maps/Example_Map_Auto7.Example_Map'
+[2023.05.21-19.06.47:093][362]LogUObjectGlobals: Warning: Failed to find object 'Object /Temp/Autosaves/Game/Maps/Example_Map_Auto8.Example_Map'
+[2023.05.21-19.06.47:102][362]LogUObjectGlobals: Warning: Failed to find object 'Object /Temp/Autosaves/Game/Maps/Example_Map_Auto9.Example_Map'
+[2023.05.21-19.07.25:887][527]LogSlate: Window 'Delete Variable' being destroyed
+[2023.05.21-19.08.09:492][985]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.21-19.08.09:493][985]LogEditorClassViewer: Warning: Class /Temp/Autosaves/Game/Maps/Example_Map_Auto7.PLACEHOLDER-CLASS__BaseGame_UI_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.21-19.08.09:493][985]LogEditorClassViewer: Warning: Class /Temp/Autosaves/Game/Maps/Example_Map_Auto8.PLACEHOLDER-CLASS__BaseGame_UI_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.21-19.08.09:493][985]LogEditorClassViewer: Warning: Class /Temp/Autosaves/Game/Maps/Example_Map_Auto9.PLACEHOLDER-CLASS__BaseGame_UI_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.21-19.09.43:211][577]BlueprintLog: New page: Compile BaseGame_UI
+[2023.05.21-19.09.43:284][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.21-19.09.44:515][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGame_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset" SILENT=true
+[2023.05.21-19.09.44:522][705]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGame_UI
+[2023.05.21-19.09.44:522][705]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGame_UI2EE12FAE4EF2533F2FFC0E969DC62040.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset'
+[2023.05.21-19.09.44:539][705]AssetCheck: New page: Asset Save: BaseGame_UI
+[2023.05.21-19.09.44:539][705]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BaseGame_UI.BaseGame_UI
+[2023.05.21-19.09.47:191][ 15]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-19.09.47:191][ 15]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-19.10.34:824][912]BlueprintLog: New page: Compile BaseGame_UI
+[2023.05.21-19.10.34:890][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.21-19.10.35:829][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGame_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset" SILENT=true
+[2023.05.21-19.10.35:837][  8]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGame_UI
+[2023.05.21-19.10.35:837][  8]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGame_UI31A779D8483ED4757665ECB734CCBB0A.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset'
+[2023.05.21-19.10.35:853][  8]AssetCheck: New page: Asset Save: BaseGame_UI
+[2023.05.21-19.10.35:853][  8]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BaseGame_UI.BaseGame_UI
+[2023.05.21-19.10.47:049][144]BlueprintLog: New page: Compile BaseGameScore
+[2023.05.21-19.10.47:124][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.21-19.10.48:246][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGameScore" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset" SILENT=true
+[2023.05.21-19.10.48:251][245]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGameScore
+[2023.05.21-19.10.48:251][245]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGameScore759A3EDC4E136E5FC8E1B7A5AC162CDA.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset'
+[2023.05.21-19.10.48:268][245]AssetCheck: New page: Asset Save: BaseGameScore
+[2023.05.21-19.10.48:268][245]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BaseGameScore.BaseGameScore
+[2023.05.21-19.11.14:808][ 77]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.21-19.11.41:415][ 26]BlueprintLog: New page: Compile BaseGameScore
+[2023.05.21-19.11.41:491][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.21-19.13.14:936][838]BlueprintLog: New page: Compile BaseGameScore
+[2023.05.21-19.13.15:006][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.05.21-19.13.15:626][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGameScore" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset" SILENT=true
+[2023.05.21-19.13.15:632][884]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGameScore
+[2023.05.21-19.13.15:632][884]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGameScoreA828C14342AFB70DF2931499DE380E43.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset'
+[2023.05.21-19.13.15:649][884]AssetCheck: New page: Asset Save: BaseGameScore
+[2023.05.21-19.13.15:649][884]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BaseGameScore.BaseGameScore
+[2023.05.21-19.13.29:464][ 58]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-19.13.29:471][ 58]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.21-19.13.29:471][ 58]LogPlayLevel: [PlayLevel] Compiling Example_Map before play...
+[2023.05.21-19.13.29:541][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.21-19.13.29:547][ 58]LogPlayLevel: PlayLevel: Blueprint regeneration took 76 ms (1 blueprints)
+[2023.05.21-19.13.29:547][ 58]PIE: New page: PIE session: Example_Map (21 de maig 2023, 23:13:29)
+[2023.05.21-19.13.29:547][ 58]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-19.13.29:551][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003249s)
+[2023.05.21-19.13.29:551][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003300s)
+[2023.05.21-19.13.29:551][ 58]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-19.13.29:551][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-19.13.29:551][ 58]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-19.13.29:551][ 58]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2023.05.21-19.13.29:596][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.05.21-19.13.29:600][ 58]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2023.05.21-19.13.29:600][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-19.13.29:600][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-19.13.29:600][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-19.13.29:600][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-19.13.29:600][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-19.13.29:600][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-19.13.29:600][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-19.13.29:600][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-19.13.29:600][ 58]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-19.13.29:600][ 58]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-19.13.29:600][ 58]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-19.13.29:602][ 58]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-19.13.29:633][ 58]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-19.13.29:633][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-19.13.29:633][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-19.13.29:633][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-19.13.29:634][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2023.05.21-19.13.29:634][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2023.05.21-19.13.29:635][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2023.05.21-19.13.29:635][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2023.05.21-19.13.29:635][ 58]LogInit: FAudioDevice initialized.
+[2023.05.21-19.13.29:635][ 58]LogAudio: Display: Audio Device (ID: 66) registered with world 'Example_Map'.
+[2023.05.21-19.13.29:694][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-19.13.29:695][ 58]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-19.13.29:695][ 58]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-21.13.29
+[2023.05.21-19.13.29:696][ 58]LogWorld: Bringing up level for play took: 0.000749
+[2023.05.21-19.13.29:698][ 58]LogOnline: OSS: Created online subsystem instance for: :Context_112
+[2023.05.21-19.13.29:706][ 58]PIE: Server logged in
+[2023.05.21-19.13.29:706][ 58]PIE: Play in editor total start time 0,237 seconds.
+[2023.05.21-19.13.29:714][ 58]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.21-19.13.51:258][610]LogProjectileMovement: Warning: JetBullet_BP_C_0 is outside the world bounds!
+[2023.05.21-19.13.51:308][616]LogProjectileMovement: Warning: JetBullet_BP_C_1 is outside the world bounds!
+[2023.05.21-19.13.52:016][701]LogProjectileMovement: Warning: JetBullet_BP_C_2 is outside the world bounds!
+[2023.05.21-19.13.52:241][728]LogProjectileMovement: Warning: JetBullet_BP_C_3 is outside the world bounds!
+[2023.05.21-19.14.49:678][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-19.14.49:678][453]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-19.14.49:679][453]LogSlate: Window 'Aircraft Physics Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.21-19.14.49:681][453]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-19.14.49:681][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-19.14.49:702][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-19.14.49:709][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-19.14.49:753][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2023.05.21-19.14.49:754][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2023.05.21-19.14.49:761][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.21-19.14.49:803][454]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2023.05.21-19.15.15:370][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.21-19.15.15:385][455]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Example_Map_Auto0
+[2023.05.21-19.15.15:385][455]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map_Auto0C6B9173E42133F0F70E856A9174A14DF.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Maps/Example_Map_Auto0.umap'
+[2023.05.21-19.15.15:393][455]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Example_Map' took 0.065
+[2023.05.21-19.15.15:393][455]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
