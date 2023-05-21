@@ -5823,3 +5823,210 @@ Are you sure you want to delete it?
 [2023.05.21-16.50.41:953][866]LogFileHelpers: Saving map 'NewTestMap' took 0.062
 [2023.05.21-16.50.41:970][866]AssetCheck: New page: Asset Save: NewTestMap
 [2023.05.21-16.50.41:970][866]LogContentValidation: Display: Validating World /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap
+[2023.05.21-17.02.21:200][733]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.21-17.02.21:210][733]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.21-17.02.21:218][734]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.21-17.02.23:413][998]LogContentBrowser: Attempting asset rename: NewFolder -> Music
+[2023.05.21-17.02.23:413][998]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.21-17.02.35:942][414]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.21-17.02.35:960][414]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.21-17.02.35:967][415]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.21-17.02.37:581][609]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2023.05.21-17.02.37:581][609]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.21-17.02.41:704][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/Bullet/JetBullet_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/Bullet/JetBullet_BP.uasset" SILENT=true
+[2023.05.21-17.02.41:709][ 61]LogSavePackage: Moving output files for package: /Game/Assets/Jet/Bullet/JetBullet_BP
+[2023.05.21-17.02.41:709][ 61]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetBullet_BP1202F8FF4D5BFF1503ABD6B4D8D24771.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/Bullet/JetBullet_BP.uasset'
+[2023.05.21-17.02.41:715][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.21-17.02.41:783][ 61]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.21-17.02.41:783][ 61]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP80F1771742CCDAF590F441A21C14C096.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.21-17.02.41:785][ 61]LogSavePackage: Moving output files for package: /Game/Imports/Audio/15071-152_mm_howitzer_short
+[2023.05.21-17.02.41:785][ 61]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/15071-152_mm_howitzer_short546D107F43DB78D962E68F8325A5E1E1.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Imports/Audio/15071-152_mm_howitzer_short.uasset'
+[2023.05.21-17.02.41:786][ 61]LogSavePackage: Moving output files for package: /Game/Imports/Audio/72782-30_caliber_M1_carbine_semi_automatic_rifle_single_shot_close_perspective-BLASTWAVEFX-09494
+[2023.05.21-17.02.41:786][ 61]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/72782-30_caliber_M1_carbine_semi923030A5470B12CD746FAC98A75B413B.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Imports/Audio/72782-30_caliber_M1_carbine_semi_automatic_rifle_single_shot_close_perspective-BLASTWAVEFX-09494.uasset'
+[2023.05.21-17.02.41:874][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.05.21-17.02.41:925][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.21-17.02.41:973][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.05.21-17.02.41:998][ 61]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.21-17.02.41:998][ 61]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.21-17.02.41:998][ 61]LogContentValidation: Display: Validating SoundWave /Game/Imports/Audio/15071-152_mm_howitzer_short.15071-152_mm_howitzer_short
+[2023.05.21-17.02.41:998][ 61]LogContentValidation: Display: Validating SoundWave /Game/Imports/Audio/72782-30_caliber_M1_carbine_semi_automatic_rifle_single_shot_close_perspective-BLASTWAVEFX-09494.72782-30_caliber_M1_carbine_semi_automatic_rifle_single_shot_close_perspective-BLASTWAVEFX-09494
+[2023.05.21-17.02.41:998][ 61]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/Bullet/JetBullet_BP.JetBullet_BP
+[2023.05.21-17.02.49:865][371]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\SteamLibrary\steamapps\common\JetLancer\mus_9_layer_3.ogg)
+[2023.05.21-17.02.51:707][371]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave mus_9_layer_3...
+[2023.05.21-17.02.51:713][371]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Imports/Audio/mus_9_layer_3.mus_9_layer_3 will be modified from 40 to 40.
+[2023.05.21-17.02.53:040][371]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 31399200 while cooking SoundWave /Game/Imports/Audio/mus_9_layer_3.mus_9_layer_3.
+[2023.05.21-17.02.53:046][371]LogAudio: Display: Chunk size for SoundWave /Game/Imports/Audio/mus_9_layer_3.mus_9_layer_3: 262144
+[2023.05.21-17.03.57:643][634]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\SteamLibrary\steamapps\common\JetLancer\mus_3_layer_3.ogg)
+[2023.05.21-17.04.07:169][634]LogSlate: Window 'Message' being destroyed
+[2023.05.21-17.04.07:173][634]Message dialog closed, result: Yes, title: Message, text: Use the selected Sound Wave 'mus_9_layer_3' in the Content Browser as a template for sound(s) being imported?
+[2023.05.21-17.04.07:195][634]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave mus_3_layer_3...
+[2023.05.21-17.04.07:201][634]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Imports/Audio/mus_3_layer_3.mus_3_layer_3 will be modified from 40 to 40.
+[2023.05.21-17.04.08:500][634]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 32901120 while cooking SoundWave /Game/Imports/Audio/mus_3_layer_3.mus_3_layer_3.
+[2023.05.21-17.04.08:507][634]LogAudio: Display: Chunk size for SoundWave /Game/Imports/Audio/mus_3_layer_3.mus_3_layer_3: 262144
+[2023.05.21-17.04.42:440][102]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WG_GameHUD.WG_GameHUD
+[2023.05.21-17.04.42:440][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-17.04.42:442][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-17.04.42:745][102]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-17.04.42:745][102]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-17.04.45:357][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.05.21-17.04.45:360][394]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Jet/TestMap/NewTestMap' took 0.059
+[2023.05.21-17.04.45:361][394]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imports/Audio/mus_9_layer_3] ([1] browsable assets)...
+[2023.05.21-17.04.45:376][394]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Imports/Audio/mus_9_layer_3.mus_9_layer_3]
+[2023.05.21-17.04.45:376][394]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imports/Audio/mus_9_layer_3]
+[2023.05.21-17.04.45:392][394]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Imports/Audio/mus_9_layer_3_Auto2
+[2023.05.21-17.04.45:393][394]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/mus_9_layer_3_Auto2C432FD97458A0508B3E59DBBE50D34AD.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Imports/Audio/mus_9_layer_3_Auto2.uasset'
+[2023.05.21-17.04.45:393][394]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imports/Audio/mus_3_layer_3] ([1] browsable assets)...
+[2023.05.21-17.04.45:409][394]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Imports/Audio/mus_3_layer_3.mus_3_layer_3]
+[2023.05.21-17.04.45:409][394]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imports/Audio/mus_3_layer_3]
+[2023.05.21-17.04.45:427][394]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Imports/Audio/mus_3_layer_3_Auto2
+[2023.05.21-17.04.45:427][394]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/mus_3_layer_3_Auto2D9EB063D452A2E7186E582B042E18633.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Imports/Audio/mus_3_layer_3_Auto2.uasset'
+[2023.05.21-17.04.45:428][394]LogFileHelpers: Auto-saving content packages took 0.067
+[2023.05.21-17.04.49:456][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.21-17.04.54:723][857]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.21-17.04.57:096][ 93]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.21-17.04.57:096][ 93]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.21-17.04.58:366][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.21-17.05.11:408][228]LogSlate: Window 'Replace References?' being destroyed
+[2023.05.21-17.05.11:412][228]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with JetFighter_BP; and then delete them.
+
+Are you sure?
+[2023.05.21-17.05.11:412][228]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.21-17.05.11:431][228]LogCascade: Quitting Cascade. FXSystem=0x00000AA86FA6DD40
+[2023.05.21-17.05.11:471][228]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.11:471][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.11:715][228]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.11:715][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.11:728][228]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.11:728][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.11:894][228]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.11:941][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.12:122][228]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.12:122][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.12:134][228]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.12:134][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.12:204][228]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.21-17.05.12:204][228]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.12:204][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.12:416][228]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.12:416][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.13:497][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.05.21-17.05.13:766][228]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.05.21-17.05.14:441][228]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2023.05.21-17.05.30:734][228]LogSlate: Window 'Save Content' being destroyed
+[2023.05.21-17.05.30:801][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2023.05.21-17.05.30:805][228]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode
+[2023.05.21-17.05.30:805][228]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BP_GameMode6655294F4E0B7F903C1F85AABA0F13E7.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BP_GameMode.uasset'
+[2023.05.21-17.05.30:829][228]AssetCheck: New page: Asset Save: BP_GameMode
+[2023.05.21-17.05.30:829][228]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2023.05.21-17.05.38:946][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.21-17.05.42:653][151]LogSlate: Window 'Save Content' being destroyed
+[2023.05.21-17.05.42:714][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imports/Audio/mus_3_layer_3" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Imports/Audio/mus_3_layer_3.uasset" SILENT=true
+[2023.05.21-17.05.42:733][151]LogSavePackage: Moving output files for package: /Game/Imports/Audio/mus_3_layer_3
+[2023.05.21-17.05.42:733][151]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/mus_3_layer_3031BE5774C37E2E7D328908D77A6228C.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Imports/Audio/mus_3_layer_3.uasset'
+[2023.05.21-17.05.42:734][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imports/Audio/mus_9_layer_3" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Imports/Audio/mus_9_layer_3.uasset" SILENT=true
+[2023.05.21-17.05.42:752][151]LogSavePackage: Moving output files for package: /Game/Imports/Audio/mus_9_layer_3
+[2023.05.21-17.05.42:752][151]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/mus_9_layer_337E0064D45D8C28D29A00B86DDA69090.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Imports/Audio/mus_9_layer_3.uasset'
+[2023.05.21-17.05.42:847][151]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/GameMap1.GameMap1
+[2023.05.21-17.05.42:847][151]Cmd: MAP LOAD FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/GameMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.21-17.05.42:847][151]LightingResults: New page: Lighting Build
+[2023.05.21-17.05.42:848][151]LoadErrors: New page: Loading map: GameMap1.umap
+[2023.05.21-17.05.42:879][151]LogWorld: UWorld::CleanupWorld for NewTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.42:879][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.42:879][151]MapCheck: New page: Map Check
+[2023.05.21-17.05.42:879][151]LightingResults: New page: Lighting Build
+[2023.05.21-17.05.42:904][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-17.05.42:917][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.21-17.05.42:923][151]LogWorld: UWorld::CleanupWorld for GameMap1, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.42:923][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.42:924][151]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.42:924][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.42:954][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.05.21-17.05.42:977][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.21-17.05.42:983][151]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameMap1'.
+[2023.05.21-17.05.43:013][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-17.05.43:014][151]LogAIModule: Creating AISystem for world GameMap1
+[2023.05.21-17.05.43:017][151]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.21-17.05.43:017][151]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.05.21-17.05.43:492][151]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Blueprints\BP_AircraftPawn.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2023.05.21-17.05.43:492][151]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Blueprints\BP_AircraftPawn.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.05.21-17.05.43:497][151]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Blueprints\BP_AircraftPawn.uasset: [Compiler] Get Input Axis references unknown Axis 'RollAxis' for  Get RollAxis
+[2023.05.21-17.05.43:497][151]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Blueprints\BP_AircraftPawn.uasset: [Compiler] Get Input Axis references unknown Axis 'PitchAxis' for  Get PitchAxis
+[2023.05.21-17.05.43:498][151]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Blueprints\BP_AircraftPawn.uasset: [Compiler] Get Input Axis references unknown Axis 'PitchAxis' for  Get PitchAxis
+[2023.05.21-17.05.43:498][151]LogBlueprint: Warning: [AssetLog] D:\Enti2022-23\Repos\UnrealVertical2023\VerticalUnreal2022\Content\Blueprints\BP_AircraftPawn.uasset: [Compiler] Get Input Axis references unknown Axis 'RollAxis' for  Get RollAxis
+[2023.05.21-17.05.43:535][151]LogWorldPartition: Display: WorldPartition initialize took 518 ms
+[2023.05.21-17.05.43:822][151]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.21-17.05.43:851][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.21-17.05.43:864][151]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.21-17.05.43:864][151]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,556ms to complete.
+[2023.05.21-17.05.43:864][151]LogFileHelpers: Loading map 'GameMap1' took 1.017
+[2023.05.21-17.05.43:890][151]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.21-17.05.43:890][151]LogContentValidation: Display: Validating SoundWave /Game/Imports/Audio/mus_3_layer_3.mus_3_layer_3
+[2023.05.21-17.05.43:890][151]LogContentValidation: Display: Validating SoundWave /Game/Imports/Audio/mus_9_layer_3.mus_9_layer_3
+[2023.05.21-17.05.47:927][459]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.21-17.05.47:927][459]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.21-17.05.48:364][509]LogObjectTools: Deleting 1 worlds: /Game/Maps/GameMap1.GameMap1
+[2023.05.21-17.05.48:364][509]LogObjectTools: Currently 11 active worlds: /Game/Maps/GameMap1.GameMap1, /Engine/Transient.World_2, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_22, /Engine/Transient.World_23, /Engine/Transient.World_25, /Engine/Transient.World_29, /Engine/Transient.World_34, /Engine/Transient.World_35, /Engine/Transient.World_38
+[2023.05.21-17.05.49:648][509]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.05.21-17.05.49:651][509]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2023.05.21-17.05.50:662][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.21-17.05.50:997][614]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Example_Map.Example_Map
+[2023.05.21-17.05.50:997][614]Cmd: MAP LOAD FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.21-17.05.50:997][614]LightingResults: New page: Lighting Build
+[2023.05.21-17.05.50:997][614]LoadErrors: New page: Loading map: Example_Map.umap
+[2023.05.21-17.05.51:028][614]LogWorld: UWorld::CleanupWorld for GameMap1, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.51:028][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.51:033][614]MapCheck: New page: Map Check
+[2023.05.21-17.05.51:033][614]LightingResults: New page: Lighting Build
+[2023.05.21-17.05.51:064][614]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-17.05.51:124][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.21-17.05.51:146][614]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.05.51:146][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.05.51:168][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.21-17.05.51:186][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.21-17.05.51:230][614]LogAudio: Display: Audio Device (ID: 1) registered with world 'Example_Map'.
+[2023.05.21-17.05.51:230][614]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-17.05.51:231][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-17.05.51:231][614]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-17.05.51:240][614]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.21-17.05.51:261][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.05.21-17.05.51:279][614]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.21-17.05.51:279][614]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,073ms to complete.
+[2023.05.21-17.05.51:279][614]LogFileHelpers: Loading map 'Example_Map' took 0.282
+[2023.05.21-17.05.53:885][855]LogObjectTools: Deleting 1 worlds: /Game/Maps/GameMap1.GameMap1
+[2023.05.21-17.05.53:885][855]LogObjectTools: Currently 11 active worlds: /Game/Maps/Example_Map.Example_Map, /Engine/Transient.World_2, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_22, /Engine/Transient.World_23, /Engine/Transient.World_25, /Engine/Transient.World_29, /Engine/Transient.World_34, /Engine/Transient.World_35, /Engine/Transient.World_38
+[2023.05.21-17.05.53:916][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.21-17.06.33:657][855]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.21-17.06.34:033][855]LogUObjectGlobals: Force Deleting 102 Package(s):
+	Asset Name: /Game/Maps/GameMap1.GameMap1
+	Asset Type: World
+	Asset Name: /Game/__ExternalActors__/Maps/GameMap1/2/Y3/DHABFJY7MJGZF15CEP7N54
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Maps/GameMap1/7/3W/Q9527BNOOOYF436LP3HCEK
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Maps/GameMap1/B/FY/UE2KTEUVIOFRIJ3TTLMEP2
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Maps/GameMap1/C/YJ/J5UW5DBU9FYTTFDBANVWC1
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Maps/GameMap1/D/WJ/8CNVDL7VOFAND832T6O1SG
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Maps/GameMap1/E/PK/PRGJ2D1FUJO7QVVDFQH6GK
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Maps/GameMap1/0/8A/1WPYMV7FZB31DISM2KHUGU
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Maps/GameMap1/0/FJ/V2JYMWIEX091ITJY65VVRS
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Maps/GameMap1/0/IG/232LAA4606PKV22L66TX1R
+	Asset Type: Package
+[2023.05.21-17.06.34:324][855]LogWorld: UWorld::CleanupWorld for GameMap1, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.06.34:324][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.07.05:211][855]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2023.05.21-17.07.05:211][855]LogWorld: UWorld::CleanupWorld for GameMap1, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.07.05:211][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.07.07:003][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.05.21-17.07.07:030][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.21-17.07.07:048][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.05.21-17.07.10:313][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.05.21-17.07.11:595][221]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.21-17.07.11:619][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.05.21-17.07.11:640][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.21-17.07.11:659][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
