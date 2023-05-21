@@ -5459,3 +5459,289 @@ Are you sure you want to delete it?
 [2023.05.21-16.23.31:338][283]LogContentValidation: Display: Validating Skeleton /Game/Assets/Jet/Mesh/SKEL_West_Fighter_Typhoon.SKEL_West_Fighter_Typhoon
 [2023.05.21-16.23.31:338][283]LogContentValidation: Display: Validating World /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap
 [2023.05.21-16.23.31:338][283]LogContentValidation: Display: Validating SoundWave /Game/Imports/72782-30_caliber_M1_carbine_semi_automatic_rifle_single_shot_close_perspective-BLASTWAVEFX-09494.72782-30_caliber_M1_carbine_semi_automatic_rifle_single_shot_close_perspective-BLASTWAVEFX-09494
+[2023.05.21-16.29.45:365][ 58]BlueprintLog: New page: Compile JetFighter_BP
+[2023.05.21-16.29.45:506][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.05.21-16.29.46:201][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.21-16.29.46:270][106]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.21-16.29.46:270][106]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP95337CAC44B46090B8CE939A000D213B.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.21-16.29.46:291][106]AssetCheck: New page: Asset Save: JetFighter_BP
+[2023.05.21-16.29.46:291][106]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.21-16.29.48:609][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.21-16.29.48:618][364]LogSavePackage: Moving output files for package: /Game/Assets/Jet/TestMap/NewTestMap
+[2023.05.21-16.29.48:618][364]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/NewTestMap5CE92C30428DB06805B1A28D02DA8117.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/TestMap/NewTestMap.umap'
+[2023.05.21-16.29.48:628][364]LogFileHelpers: No new changes to save!
+[2023.05.21-16.29.48:645][364]AssetCheck: New page: Asset Save: NewTestMap
+[2023.05.21-16.29.48:646][364]LogContentValidation: Display: Validating World /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap
+[2023.05.21-16.29.49:512][467]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-16.29.49:517][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-16.29.49:517][467]PIE: New page: PIE session: NewTestMap (21 de maig 2023, 20:29:49)
+[2023.05.21-16.29.49:546][467]LogPlayLevel: Creating play world package: /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.21-16.29.49:548][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002267s)
+[2023.05.21-16.29.49:548][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap to /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap (0.002352s)
+[2023.05.21-16.29.49:549][467]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-16.29.49:549][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-16.29.49:549][467]LogAIModule: Creating AISystem for world NewTestMap
+[2023.05.21-16.29.49:549][467]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2023.05.21-16.29.49:596][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.21-16.29.49:599][467]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.05.21-16.29.49:599][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-16.29.49:599][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-16.29.49:599][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-16.29.49:599][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-16.29.49:599][467]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-16.29.49:599][467]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-16.29.49:599][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-16.29.49:599][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-16.29.49:600][467]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-16.29.49:600][467]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-16.29.49:600][467]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-16.29.49:602][467]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-16.29.49:631][467]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-16.29.49:631][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-16.29.49:631][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-16.29.49:631][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-16.29.49:632][467]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.05.21-16.29.49:632][467]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2023.05.21-16.29.49:633][467]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.05.21-16.29.49:633][467]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.05.21-16.29.49:633][467]LogInit: FAudioDevice initialized.
+[2023.05.21-16.29.49:633][467]LogAudio: Display: Audio Device (ID: 38) registered with world 'NewTestMap'.
+[2023.05.21-16.29.49:641][467]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-16.29.49:642][467]LogWorld: Bringing World /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap up for play (max tick rate 0) at 2023.05.21-18.29.49
+[2023.05.21-16.29.49:643][467]LogWorld: Bringing up level for play took: 0.001565
+[2023.05.21-16.29.49:644][467]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2023.05.21-16.29.49:647][467]PIE: Server logged in
+[2023.05.21-16.29.49:647][467]PIE: Play in editor total start time 0,13 seconds.
+[2023.05.21-16.30.10:726][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-16.30.10:726][986]LogWorld: BeginTearingDown for /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.21-16.30.10:726][986]LogWorld: UWorld::CleanupWorld for NewTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-16.30.10:726][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-16.30.10:740][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-16.30.10:750][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-16.30.10:799][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-16.30.10:800][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.05.21-16.30.10:801][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.05.21-16.30.10:808][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.05.21-16.30.10:859][987]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.05.21-16.32.45:620][ 87]BlueprintLog: New page: Compile JetFighter_BP
+[2023.05.21-16.32.45:765][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.05.21-16.32.47:199][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.21-16.32.47:268][221]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.21-16.32.47:268][221]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BPABD2DDB44957673C62799BBB9E1C91E4.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.21-16.32.47:287][221]AssetCheck: New page: Asset Save: JetFighter_BP
+[2023.05.21-16.32.47:287][221]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.21-16.32.48:821][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.05.21-16.32.48:917][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.05.21-16.32.48:924][395]LogSavePackage: Moving output files for package: /Game/Assets/Jet/TestMap/NewTestMap
+[2023.05.21-16.32.48:925][395]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/NewTestMap869ADB8E4A5BF4C96813E09089F241D0.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/TestMap/NewTestMap.umap'
+[2023.05.21-16.32.48:934][395]LogFileHelpers: No new changes to save!
+[2023.05.21-16.32.48:934][395]LogFileHelpers: Saving map 'NewTestMap' took 0.064
+[2023.05.21-16.32.48:952][395]AssetCheck: New page: Asset Save: NewTestMap
+[2023.05.21-16.32.48:952][395]LogContentValidation: Display: Validating World /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap
+[2023.05.21-16.32.49:927][512]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-16.32.49:932][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-16.32.49:932][512]PIE: New page: PIE session: NewTestMap (21 de maig 2023, 20:32:49)
+[2023.05.21-16.32.49:932][512]LogPlayLevel: Creating play world package: /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.21-16.32.49:934][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002173s)
+[2023.05.21-16.32.49:934][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap to /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap (0.002228s)
+[2023.05.21-16.32.49:935][512]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-16.32.49:935][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-16.32.49:935][512]LogAIModule: Creating AISystem for world NewTestMap
+[2023.05.21-16.32.49:935][512]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2023.05.21-16.32.49:983][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.21-16.32.49:986][512]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.05.21-16.32.49:986][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-16.32.49:986][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-16.32.49:986][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-16.32.49:986][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-16.32.49:986][512]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-16.32.49:986][512]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-16.32.49:986][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-16.32.49:986][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-16.32.49:987][512]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-16.32.49:987][512]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-16.32.49:987][512]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-16.32.49:988][512]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-16.32.50:018][512]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-16.32.50:018][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-16.32.50:018][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-16.32.50:018][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-16.32.50:018][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.05.21-16.32.50:018][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.05.21-16.32.50:020][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.05.21-16.32.50:020][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.05.21-16.32.50:020][512]LogInit: FAudioDevice initialized.
+[2023.05.21-16.32.50:020][512]LogAudio: Display: Audio Device (ID: 39) registered with world 'NewTestMap'.
+[2023.05.21-16.32.50:070][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-16.32.50:071][512]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-16.32.50:072][512]LogWorld: Bringing World /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap up for play (max tick rate 0) at 2023.05.21-18.32.50
+[2023.05.21-16.32.50:072][512]LogWorld: Bringing up level for play took: 0.001560
+[2023.05.21-16.32.50:075][512]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2023.05.21-16.32.50:075][512]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.21-16.32.50:086][512]PIE: Server logged in
+[2023.05.21-16.32.50:093][512]PIE: Play in editor total start time 0,161 seconds.
+[2023.05.21-16.32.50:104][512]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.21-16.33.17:303][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-16.33.17:303][730]LogWorld: BeginTearingDown for /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.21-16.33.17:304][730]LogSlate: Window 'Aircraft Physics Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.21-16.33.17:307][730]LogWorld: UWorld::CleanupWorld for NewTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-16.33.17:307][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-16.33.17:321][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-16.33.17:331][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-16.33.17:380][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-16.33.17:381][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.05.21-16.33.17:382][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.05.21-16.33.17:389][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.05.21-16.33.17:428][731]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.05.21-16.35.13:805][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.21-16.35.13:886][397]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.21-16.35.13:886][397]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP7FA5D8F34FF6D92CE57F9794DFC97646.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.21-16.35.13:922][397]AssetCheck: New page: Asset Save: JetFighter_BP
+[2023.05.21-16.35.13:923][397]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.21-16.36.20:469][503]BlueprintLog: New page: Compile JetFighter_BP
+[2023.05.21-16.36.20:617][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.05.21-16.36.21:305][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.21-16.36.21:379][552]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.21-16.36.21:379][552]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP2AF6B5DE452A4068D3F5299210F4D735.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.21-16.36.21:400][552]AssetCheck: New page: Asset Save: JetFighter_BP
+[2023.05.21-16.36.21:400][552]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.21-16.36.23:610][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.05.21-16.36.23:721][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.05.21-16.36.23:729][806]LogSavePackage: Moving output files for package: /Game/Assets/Jet/TestMap/NewTestMap
+[2023.05.21-16.36.23:729][806]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/NewTestMap1CE6752F40BDA1B6264B6C8628CDF729.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/TestMap/NewTestMap.umap'
+[2023.05.21-16.36.23:739][806]LogFileHelpers: No new changes to save!
+[2023.05.21-16.36.23:739][806]LogFileHelpers: Saving map 'NewTestMap' took 0.071
+[2023.05.21-16.36.23:757][806]AssetCheck: New page: Asset Save: NewTestMap
+[2023.05.21-16.36.23:757][806]LogContentValidation: Display: Validating World /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap
+[2023.05.21-16.36.25:041][951]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-16.36.25:046][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-16.36.25:046][951]PIE: New page: PIE session: NewTestMap (21 de maig 2023, 20:36:25)
+[2023.05.21-16.36.25:046][951]LogPlayLevel: Creating play world package: /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.21-16.36.25:049][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002691s)
+[2023.05.21-16.36.25:049][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap to /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap (0.002768s)
+[2023.05.21-16.36.25:049][951]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-16.36.25:049][951]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-16.36.25:049][951]LogAIModule: Creating AISystem for world NewTestMap
+[2023.05.21-16.36.25:050][951]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2023.05.21-16.36.25:098][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.21-16.36.25:101][951]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.05.21-16.36.25:102][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-16.36.25:102][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-16.36.25:102][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-16.36.25:102][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-16.36.25:102][951]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-16.36.25:102][951]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-16.36.25:102][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-16.36.25:102][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-16.36.25:102][951]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-16.36.25:102][951]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-16.36.25:102][951]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-16.36.25:104][951]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-16.36.25:132][951]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-16.36.25:133][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-16.36.25:133][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-16.36.25:133][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-16.36.25:133][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.05.21-16.36.25:133][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.05.21-16.36.25:134][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.05.21-16.36.25:134][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.05.21-16.36.25:134][951]LogInit: FAudioDevice initialized.
+[2023.05.21-16.36.25:134][951]LogAudio: Display: Audio Device (ID: 40) registered with world 'NewTestMap'.
+[2023.05.21-16.36.25:184][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-16.36.25:184][951]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-16.36.25:185][951]LogWorld: Bringing World /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap up for play (max tick rate 0) at 2023.05.21-18.36.25
+[2023.05.21-16.36.25:186][951]LogWorld: Bringing up level for play took: 0.001552
+[2023.05.21-16.36.25:188][951]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2023.05.21-16.36.25:188][951]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.21-16.36.25:200][951]PIE: Server logged in
+[2023.05.21-16.36.25:207][951]PIE: Play in editor total start time 0,161 seconds.
+[2023.05.21-16.36.25:217][951]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.21-16.36.55:730][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-16.36.55:730][581]LogWorld: BeginTearingDown for /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.21-16.36.55:731][581]LogSlate: Window 'Aircraft Physics Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.21-16.36.55:735][581]LogWorld: UWorld::CleanupWorld for NewTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-16.36.55:735][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-16.36.55:747][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-16.36.55:758][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-16.36.55:809][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.05.21-16.36.55:811][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.05.21-16.36.55:817][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.05.21-16.36.55:856][582]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.05.21-16.39.50:269][555]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.179 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.21-16.43.12:648][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.21-16.43.12:720][471]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.21-16.43.12:720][471]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP2EF9C82F4DF0BFB9DC8658A31CAEB4E2.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.21-16.43.12:745][471]AssetCheck: New page: Asset Save: JetFighter_BP
+[2023.05.21-16.43.12:745][471]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.21-16.45.23:632][162]BlueprintLog: New page: Compile JetFighter_BP
+[2023.05.21-16.45.23:777][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.05.21-16.45.24:464][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.21-16.45.24:532][209]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.21-16.45.24:532][209]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP6591CB4B4F26CC0E36A013860A37B8D6.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.21-16.45.24:554][209]AssetCheck: New page: Asset Save: JetFighter_BP
+[2023.05.21-16.45.24:554][209]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.21-16.45.25:483][316]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-16.45.25:490][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-16.45.25:490][316]PIE: New page: PIE session: NewTestMap (21 de maig 2023, 20:45:25)
+[2023.05.21-16.45.25:490][316]LogPlayLevel: Creating play world package: /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.21-16.45.25:492][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002056s)
+[2023.05.21-16.45.25:492][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap to /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap (0.002116s)
+[2023.05.21-16.45.25:493][316]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-16.45.25:493][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-16.45.25:493][316]LogAIModule: Creating AISystem for world NewTestMap
+[2023.05.21-16.45.25:493][316]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2023.05.21-16.45.25:544][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.05.21-16.45.25:548][316]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.05.21-16.45.25:548][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-16.45.25:548][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-16.45.25:548][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-16.45.25:548][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-16.45.25:548][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-16.45.25:548][316]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-16.45.25:548][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-16.45.25:548][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-16.45.25:548][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-16.45.25:548][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-16.45.25:548][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-16.45.25:550][316]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-16.45.25:579][316]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-16.45.25:579][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-16.45.25:579][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-16.45.25:579][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-16.45.25:580][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.05.21-16.45.25:580][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2023.05.21-16.45.25:581][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.05.21-16.45.25:581][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.05.21-16.45.25:581][316]LogInit: FAudioDevice initialized.
+[2023.05.21-16.45.25:581][316]LogAudio: Display: Audio Device (ID: 41) registered with world 'NewTestMap'.
+[2023.05.21-16.45.25:627][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-16.45.25:627][316]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-16.45.25:628][316]LogWorld: Bringing World /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap up for play (max tick rate 0) at 2023.05.21-18.45.25
+[2023.05.21-16.45.25:628][316]LogWorld: Bringing up level for play took: 0.001474
+[2023.05.21-16.45.25:631][316]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2023.05.21-16.45.25:631][316]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.21-16.45.25:641][316]PIE: Server logged in
+[2023.05.21-16.45.25:648][316]PIE: Play in editor total start time 0,157 seconds.
+[2023.05.21-16.45.25:657][316]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.21-16.45.46:034][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-16.45.46:034][726]LogWorld: BeginTearingDown for /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.21-16.45.46:035][726]LogSlate: Window 'Aircraft Physics Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.21-16.45.46:038][726]LogWorld: UWorld::CleanupWorld for NewTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-16.45.46:038][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-16.45.46:049][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-16.45.46:060][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-16.45.46:107][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.05.21-16.45.46:109][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.05.21-16.45.46:115][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.21-16.45.46:153][727]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.05.21-16.45.54:711][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.21-16.45.54:778][143]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.21-16.45.54:778][143]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP2A4826554F3D12F82718CC97A4E74F00.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.21-16.45.54:800][143]AssetCheck: New page: Asset Save: JetFighter_BP
+[2023.05.21-16.45.54:800][143]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.21-16.45.56:902][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.05.21-16.45.56:910][356]LogSavePackage: Moving output files for package: /Game/Assets/Jet/TestMap/NewTestMap
+[2023.05.21-16.45.56:910][356]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/NewTestMapE4A925B64CD3DB229504FE82E77FF0E8.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/TestMap/NewTestMap.umap'
+[2023.05.21-16.45.56:921][356]LogFileHelpers: No new changes to save!
+[2023.05.21-16.45.56:940][356]AssetCheck: New page: Asset Save: NewTestMap
+[2023.05.21-16.45.56:940][356]LogContentValidation: Display: Validating World /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap
