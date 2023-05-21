@@ -1053,3 +1053,509 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.21-10.06.08:580][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.05.21-10.06.08:583][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
 [2023.05.21-10.06.08:606][242]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.05.21-10.06.51:086][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.21-10.06.51:093][831]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Jet/TestMap/NewTestMap_Auto2
+[2023.05.21-10.06.51:093][831]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/NewTestMap_Auto27185108A4694F4B328671EA67426C7FA.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Assets/Jet/TestMap/NewTestMap_Auto2.umap'
+[2023.05.21-10.06.51:100][831]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Jet/TestMap/NewTestMap' took 0.050
+[2023.05.21-10.06.51:100][831]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2023.05.21-10.08.35:285][584]BlueprintLog: New page: Compile Jet_UI
+[2023.05.21-10.08.35:333][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.05.21-10.08.35:348][584]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.21-10.08.36:285][686]BlueprintLog: New page: Compile Jet_UI
+[2023.05.21-10.08.36:324][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.05.21-10.08.43:781][552]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.21-10.08.45:165][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/HUD/Jet_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/Jet_UI.uasset" SILENT=true
+[2023.05.21-10.08.45:168][709]LogSavePackage: Moving output files for package: /Game/Assets/Jet/HUD/Jet_UI
+[2023.05.21-10.08.45:169][709]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Jet_UI15BB74E645BD700B7B3A77ABC04C665D.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/Jet_UI.uasset'
+[2023.05.21-10.08.45:184][709]AssetCheck: New page: Asset Save: Jet_UI
+[2023.05.21-10.08.45:184][709]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Jet/HUD/Jet_UI.Jet_UI
+[2023.05.21-10.08.46:396][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/HUD/Jet_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/Jet_UI.uasset" SILENT=true
+[2023.05.21-10.08.46:398][845]LogSavePackage: Moving output files for package: /Game/Assets/Jet/HUD/Jet_UI
+[2023.05.21-10.08.46:399][845]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Jet_UI2049F6B944145D0A3FBA6C8948F645F1.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/Jet_UI.uasset'
+[2023.05.21-10.08.46:413][845]AssetCheck: New page: Asset Save: Jet_UI
+[2023.05.21-10.08.46:413][845]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Jet/HUD/Jet_UI.Jet_UI
+[2023.05.21-10.08.46:663][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/HUD/Jet_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/Jet_UI.uasset" SILENT=true
+[2023.05.21-10.08.46:666][869]LogSavePackage: Moving output files for package: /Game/Assets/Jet/HUD/Jet_UI
+[2023.05.21-10.08.46:666][869]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Jet_UIEE06D1704412395CC683E284E00C2592.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/Jet_UI.uasset'
+[2023.05.21-10.08.46:681][869]AssetCheck: New page: Asset Save: Jet_UI
+[2023.05.21-10.08.46:681][869]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Jet/HUD/Jet_UI.Jet_UI
+[2023.05.21-10.08.47:510][968]BlueprintLog: New page: Compile Jet_UI
+[2023.05.21-10.08.47:564][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.05.21-10.10.02:969][701]LogEditorTransaction: Undo Resize Widget
+[2023.05.21-10.12.23:176][873]LogEditorTransaction: Undo Edit Image
+[2023.05.21-10.13.22:135][420]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.21-10.13.39:903][899]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.21-10.13.48:347][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/HUD/Jet_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/Jet_UI.uasset" SILENT=true
+[2023.05.21-10.13.48:350][  5]LogSavePackage: Moving output files for package: /Game/Assets/Jet/HUD/Jet_UI
+[2023.05.21-10.13.48:350][  5]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Jet_UI766297F44830BE6529498980D720A6C7.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/Jet_UI.uasset'
+[2023.05.21-10.13.48:367][  5]AssetCheck: New page: Asset Save: Jet_UI
+[2023.05.21-10.13.48:367][  5]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Jet/HUD/Jet_UI.Jet_UI
+[2023.05.21-10.13.49:356][123]BlueprintLog: New page: Compile Jet_UI
+[2023.05.21-10.13.49:409][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.05.21-10.13.51:090][300]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-10.13.51:094][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-10.13.51:094][300]PIE: New page: PIE session: NewTestMap (21 de maig 2023, 14:13:51)
+[2023.05.21-10.13.51:095][300]LogPlayLevel: Creating play world package: /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.21-10.13.51:097][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001955s)
+[2023.05.21-10.13.51:097][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap to /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap (0.002006s)
+[2023.05.21-10.13.51:097][300]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-10.13.51:097][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-10.13.51:097][300]LogAIModule: Creating AISystem for world NewTestMap
+[2023.05.21-10.13.51:097][300]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2023.05.21-10.13.51:132][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.05.21-10.13.51:135][300]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.21-10.13.51:135][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-10.13.51:135][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-10.13.51:135][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-10.13.51:135][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-10.13.51:135][300]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-10.13.51:135][300]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-10.13.51:135][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-10.13.51:135][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-10.13.51:135][300]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-10.13.51:135][300]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-10.13.51:135][300]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-10.13.51:137][300]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-10.13.51:166][300]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-10.13.51:166][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-10.13.51:166][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-10.13.51:166][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-10.13.51:166][300]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.05.21-10.13.51:166][300]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.05.21-10.13.51:168][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.05.21-10.13.51:168][300]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.05.21-10.13.51:168][300]LogInit: FAudioDevice initialized.
+[2023.05.21-10.13.51:168][300]LogAudio: Display: Audio Device (ID: 4) registered with world 'NewTestMap'.
+[2023.05.21-10.13.51:206][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-10.13.51:207][300]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-10.13.51:208][300]LogWorld: Bringing World /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap up for play (max tick rate 0) at 2023.05.21-12.13.51
+[2023.05.21-10.13.51:209][300]LogWorld: Bringing up level for play took: 0.001403
+[2023.05.21-10.13.51:211][300]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.05.21-10.13.51:211][300]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.21-10.13.51:213][300]PIE: Server logged in
+[2023.05.21-10.13.51:214][300]PIE: Play in editor total start time 0,12 seconds.
+[2023.05.21-10.13.51:220][300]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.21-10.13.55:901][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-10.13.55:901][837]LogWorld: BeginTearingDown for /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.21-10.13.55:902][837]LogSlate: Window 'Aircraft Physics Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.21-10.13.55:906][837]LogWorld: UWorld::CleanupWorld for NewTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-10.13.55:906][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-10.13.55:916][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-10.13.55:922][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-10.13.55:956][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-10.13.55:956][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.21-10.13.55:958][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.21-10.13.55:963][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.05.21-10.13.55:980][838]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.05.21-10.14.26:184][702]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.05.21-10.14.26:190][702]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.05.21-10.14.26:198][703]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.05.21-10.14.49:589][872]LogContentBrowser: Attempting asset rename: NewMaterial -> CCurvedHUD_Mat
+[2023.05.21-10.14.49:590][872]LogContentBrowser: End creating deferred item NewMaterial
+[2023.05.21-10.14.54:191][ 29]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Jet/HUD/CCurvedHUD_Mat.CCurvedHUD_Mat
+[2023.05.21-10.14.54:194][ 29]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 57A41EEEB919DEFA09689DA7AAF8EE49AF23631C), compiling. 
+[2023.05.21-10.14.54:257][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-10.14.54:368][ 29]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0B8A12ED4D2B5264905F2C1D33A5067D08EBF001), compiling. 
+[2023.05.21-10.14.54:396][ 29]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-10.14.54:396][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-10.14.54:396][ 29]MaterialEditorStats: Shader Count: 0
+[2023.05.21-10.14.54:403][ 29]LogViewport: Scene viewport resized to 376x469, mode Windowed.
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: ================================================
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Total job queries 22, among them cache hits 0 (0.00%)
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Tracking 7 distinct input hashes that result in 7 distinct outputs (100.00%)
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Shaders Compiled: 13
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Jobs assigned 10, completed 7 (70.00%)
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Average time worker was idle: 1950.84 s
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 1.21 s
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 1.21
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.78 s
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Average processing rate: 3.93 jobs/sec
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Effective parallelization: 0.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    6 times, average 0.16 sec, max 0.30 sec, min 0.07 sec)
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display:                                               FNiagaraShader - 79.52% of total time (compiled    6 times, average 0.16 sec, max 0.30 sec, min 0.07 sec)
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 20.48% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.05.21-10.14.54:982][ 90]LogShaderCompilers: Display: ================================================
+[2023.05.21-10.14.55:392][129]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-10.14.55:392][129]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-10.14.55:392][129]MaterialEditorStats: Shader Count: 3
+[2023.05.21-10.15.31:714][459]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D20C03848359CC34FFB536D80203770912741D7B), compiling. 
+[2023.05.21-10.15.31:721][459]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-10.15.31:721][459]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-10.15.31:721][459]MaterialEditorStats: Shader Count: 0
+[2023.05.21-10.15.31:764][462]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-10.15.31:765][462]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-10.15.31:765][462]MaterialEditorStats: Shader Count: 4
+[2023.05.21-10.15.32:973][599]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9B836235A619F643CAD94048111B18F5A069152C), compiling. 
+[2023.05.21-10.15.32:980][599]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6A82E683028F4254F67E01A98CA03B955A02F14D), compiling. 
+[2023.05.21-10.15.32:983][599]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8292B0F8DB20EE25A6AB8E2B93E08A0D1C65AE85), compiling. 
+[2023.05.21-10.15.32:988][599]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-10.15.32:988][599]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-10.15.32:988][599]MaterialEditorStats: Shader Count: 0
+[2023.05.21-10.15.37:556][699]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 69DA63671A99C48C6885765857ABB857B289E145), compiling. 
+[2023.05.21-10.15.38:811][820]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2C6BE70D72A3E14F0D47A40D0324B282913AC16D), compiling. 
+[2023.05.21-10.15.38:814][820]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 77D2B6F808AB3F6B358FF00212626880042B03A3), compiling. 
+[2023.05.21-10.15.38:817][820]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D255EAA0509FBB75EC2D5FE1AF7DF31E192676CE), compiling. 
+[2023.05.21-10.15.55:698][506]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A8545338D10672652758070DFB27F9C91591A9FE), compiling. 
+[2023.05.21-10.16.06:374][187]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 59B7877820D258CE9D024EB5E9BB005A0872F8D9), compiling. 
+[2023.05.21-10.16.06:378][187]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0C4BAF2FB9331B77AEDAD18763FEFBDEF61B3D1D), compiling. 
+[2023.05.21-10.16.12:547][532]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2406E0164EBDAF0EC215AA02238FC0DFE4EA5F77), compiling. 
+[2023.05.21-10.16.12:551][532]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 18051E8B5526D52E5BE43DAAB7446BB2DC947EAD), compiling. 
+[2023.05.21-10.16.21:058][188]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CF23CA5282B1C685E291ED8416F6CDA6B4D16D52), compiling. 
+[2023.05.21-10.16.21:061][188]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7234892A96604BF1ACFFF7B4AA97934E87AE63F7), compiling. 
+[2023.05.21-10.16.30:089][875]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0C388B15F24179332FF563DD064E690C66BB8BFE), compiling. 
+[2023.05.21-10.16.30:093][875]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 98D20A1CEE869907CD78D6213F0A2D60BC4E4BE2), compiling. 
+[2023.05.21-10.16.40:899][419]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_0.MaterialExpressionTextureCoordinate_0"')'
+[2023.05.21-10.16.40:904][419]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 00E82B8C48DB6523FADF44B02A3301C445E0C9F6), compiling. 
+[2023.05.21-10.16.44:713][874]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 855F4761142874BEC5BD2CE2181C87B361968B1A), compiling. 
+[2023.05.21-10.16.44:717][874]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 828671E7F876286D295D8B2010970DFAA1D2A705), compiling. 
+[2023.05.21-10.16.45:148][924]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2BFC022874E4FD405BE3A14322C9E810DFEDA2A9), compiling. 
+[2023.05.21-10.16.45:151][924]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 46BC6024D703870AF93C28AF642D3D83AB83A2BA), compiling. 
+[2023.05.21-10.16.53:608][657]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 92E50D58A11386779667ADC39CBEBBB5EA87340B), compiling. 
+[2023.05.21-10.16.53:611][657]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 00FA00C46068D6AF63C99493D3BDA988976990B9), compiling. 
+[2023.05.21-10.17.02:383][271]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 65A54CE4734AD44C971597FC58A72B02A75A7E55), compiling. 
+[2023.05.21-10.17.02:386][271]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 005F1587EF90E04CAD4AAAE64EA2237925F63F90), compiling. 
+[2023.05.21-10.17.11:431][954]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 32E7C935F648363394F9B3682A407D0234DC46DA), compiling. 
+[2023.05.21-10.17.19:366][622]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 55D5808C8108FF2BE7CB615B9B90E00E59118B50), compiling. 
+[2023.05.21-10.17.19:370][622]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 953F62A9800533744E44EBDA81AEE6C2D505EAE8), compiling. 
+[2023.05.21-10.17.23:856][801]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0063C9759B56F3F04B0748CE03383054BAD2E0A5), compiling. 
+[2023.05.21-10.17.31:670][151]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7DA6085B75A747830D4DD966D2A0B0E2F2BF31A3), compiling. 
+[2023.05.21-10.17.31:673][151]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F0DF3B5C23A2DDC3BC04BD3B6DA0A80677E01138), compiling. 
+[2023.05.21-10.17.32:702][269]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 536FB1DB68DD8095365B383AA82595F0A4AE14E7), compiling. 
+[2023.05.21-10.17.39:991][134]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 35E8201C5874E937005815CFA2A7E50685160070), compiling. 
+[2023.05.21-10.17.39:995][134]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A3FB87AEB43445A0975BC48F11309DF078DC0BF2), compiling. 
+[2023.05.21-10.17.42:039][371]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C07DFEFEECED22C657619D912F29E293E85B5E5E), compiling. 
+[2023.05.21-10.17.56:716][335]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2D37265D6D34A6F7FA0B5B4439ED3183590702C9), compiling. 
+[2023.05.21-10.17.56:720][335]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 999A3F350DB1279F5E2BC7A180ED7713BD498432), compiling. 
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: ================================================
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Total job queries 70, among them cache hits 44 (62.86%)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Tracking 14 distinct input hashes that result in 12 distinct outputs (85.71%)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: RAM used: 0.10 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Shaders Compiled: 17
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100.00%)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Average time worker was idle: 986.23 s
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Job execution time: average 0.71 s, max 1.21 s
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Job life time (pending + execution): average 0.78 s, max 1.21
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.99 s
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Average processing rate: 4.68 jobs/sec
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Effective parallelization: 1.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    6 times, average 0.16 sec, max 0.30 sec, min 0.07 sec)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display:                                               FNiagaraShader - 26.27% of total time (compiled    6 times, average 0.16 sec, max 0.30 sec, min 0.07 sec)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.64% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.47% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.00% of total time (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 7.88% of total time (compiled    2 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2023.05.21-10.17.56:746][337]LogShaderCompilers: Display: ================================================
+[2023.05.21-10.18.00:047][726]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A4CAA19F0F478171115FF5CC2F76B904C3522599), compiling. 
+[2023.05.21-10.18.00:779][810]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: BE154AE832C99EEA3811E394AF1B6ABB317B5819), compiling. 
+[2023.05.21-10.18.00:783][810]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6FAC18E5F649A33012947E437DB371F1A089504E), compiling. 
+[2023.05.21-10.18.01:709][916]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FC818FE5476D4B0D0CDC10A992813BD0EA328C25), compiling. 
+[2023.05.21-10.18.16:060][757]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7718BBF9A95927534BDFD699632ACFD0AF2E5221), compiling. 
+[2023.05.21-10.18.16:063][757]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B3CA97D89BF8E123F87D76FEED8898900F7053D2), compiling. 
+[2023.05.21-10.18.42:357][ 69]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B3532E9FED0641E10A36C27637A745A2E1728110), compiling. 
+[2023.05.21-10.18.42:361][ 69]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4227BC217013C86FC8E6238C33920A06F2CCE44E), compiling. 
+[2023.05.21-10.18.53:429][798]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8C43F96294464ADB37DEC3EE31223B3BD5EB2AE4), compiling. 
+[2023.05.21-10.18.53:432][798]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B21CE77B6F9589980D46984C19D5C2FC23491A8E), compiling. 
+[2023.05.21-10.18.59:222][131]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5C9D83B2E5A7EF14652F63320B56C4A6EB70D334), compiling. 
+[2023.05.21-10.18.59:993][220]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D3DA4552744CAA9EDCBCC07557FAC2E5EF7BDF7C), compiling. 
+[2023.05.21-10.18.59:996][220]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 79FDA6D8038E1B296015B6DEE0F1861ABDDEAA3E), compiling. 
+[2023.05.21-10.19.00:933][327]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C68829B5E486050382DF6C9B994BBC1824E1FC70), compiling. 
+[2023.05.21-10.19.18:350][786]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_3.MaterialExpressionTextureCoordinate_0"')'
+[2023.05.21-10.19.18:356][786]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 96DC7B193D2C33068C5A7B7ABA94F5E0BC74D602), compiling. 
+[2023.05.21-10.19.26:871][ 95]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2C2A93E6964E014B5E13280DF93B585C33B40EC4), compiling. 
+[2023.05.21-10.19.33:941][931]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 10AF9D9D71D8FF2A47BD7CFA1C57605BF0EB4E76), compiling. 
+[2023.05.21-10.19.33:944][931]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 84A66A0F6584806B040BD70E27FBDCD93CD92D89), compiling. 
+[2023.05.21-10.19.41:755][851]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 28E05BB02510FD859B7D389E3C3BE16B8A27E009), compiling. 
+[2023.05.21-10.19.42:907][989]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0E010613273C9828563C9A6A354DFEA342B3F0AC), compiling. 
+[2023.05.21-10.19.42:911][989]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F419D8A97B64BCA27F857114AFE5AA88DEFF41F9), compiling. 
+[2023.05.21-10.19.43:784][ 92]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A04D0F8B631B70DB84E6D08327C572975AF4C433), compiling. 
+[2023.05.21-10.19.55:874][831]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_3.MaterialExpressionTextureCoordinate_2"')'
+[2023.05.21-10.19.55:880][831]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 44EDEBD620AFAD14F8FB8477DB82E757118C931B), compiling. 
+[2023.05.21-10.19.59:420][252]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: DD814AE2191C7B3682D9844B46378B9423ACDC5D), compiling. 
+[2023.05.21-10.19.59:424][252]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 56408C1087048331F0B1856D525BD47F967E75D5), compiling. 
+[2023.05.21-10.19.59:904][309]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1BFF5C2D488091918C30B5D752A881FEB57F2E0B), compiling. 
+[2023.05.21-10.19.59:907][309]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 880D7A23519BF9F26CE36045991BD6E5998D6E12), compiling. 
+[2023.05.21-10.20.05:587][982]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E7423809F75F389B9CB4B5C8DEB232675125B87E), compiling. 
+[2023.05.21-10.20.17:541][780]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 351F5AB15E7FA00E400BD7670B4CF0C021A8A335), compiling. 
+[2023.05.21-10.20.17:544][780]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AA670DC871B427FBFB1C45231B3A8AE7977744B6), compiling. 
+[2023.05.21-10.20.24:764][212]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7543E2D19EE35AAF9A4589CC0B58AA4E9F488766), compiling. 
+[2023.05.21-10.20.24:767][212]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AF430583A5C1F2ED939362DEFD1EECA93F1069B4), compiling. 
+[2023.05.21-10.20.25:791][332]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 92D9802E027CD3E6A4A29122AC9AEC6C6EAAF2F1), compiling. 
+[2023.05.21-10.20.27:888][573]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 66A61A8567DA2AEAB909988FD323F40D0D0024A7), compiling. 
+[2023.05.21-10.20.37:253][134]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FEC09554FDA59B77DD2F5EFB715D33CF0DCAFE14), compiling. 
+[2023.05.21-10.20.45:445][528]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2642B49EDD7E1C51A6E64BE5780BF413A20D8BC3), compiling. 
+[2023.05.21-10.20.48:195][838]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3054A0A3F7D51FAE22132B659576DC22884FF126), compiling. 
+[2023.05.21-10.20.58:495][637]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8CF5CBC44D685448FF0113FE68AA7514CD72881E), compiling. 
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: ================================================
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Total job queries 126, among them cache hits 100 (79.37%)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Tracking 14 distinct input hashes that result in 12 distinct outputs (85.71%)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: RAM used: 0.10 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Shaders Compiled: 17
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100.00%)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Average time worker was idle: 986.23 s
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Job execution time: average 0.71 s, max 1.21 s
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Job life time (pending + execution): average 0.78 s, max 1.21
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.99 s
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Average processing rate: 4.68 jobs/sec
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Effective parallelization: 1.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    6 times, average 0.16 sec, max 0.30 sec, min 0.07 sec)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display:                                               FNiagaraShader - 26.27% of total time (compiled    6 times, average 0.16 sec, max 0.30 sec, min 0.07 sec)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.64% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.47% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.00% of total time (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 7.88% of total time (compiled    2 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2023.05.21-10.20.58:525][639]LogShaderCompilers: Display: ================================================
+[2023.05.21-10.21.09:362][990]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C7EEB9C7B115CF1A4FA8D151D35C84B2993D6B3A), compiling. 
+[2023.05.21-10.21.10:579][129]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C1401D8106BD55E3EF06C16F0311BF7E49E3B436), compiling. 
+[2023.05.21-10.21.32:933][199]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F3ECCD9FC5DDA540E900C3573060D0387AD63F50), compiling. 
+[2023.05.21-10.21.32:935][199]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 206828C32AF7872789355A25B1FF96A69179D123), compiling. 
+[2023.05.21-10.21.32:938][199]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6C435176387BE003AC081085162DCD9AFDDCFC66), compiling. 
+[2023.05.21-10.21.32:940][199]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2CB16488490E5AB6084C3E2C53B1A1E04F84917C), compiling. 
+[2023.05.21-10.22.08:322][663]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 48B76C2C73F15F5E956377C987AA71870F05B424), compiling. 
+[2023.05.21-10.22.08:323][663]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 92470EF580B0E57BEF3E9F8D86E3BAEFEE11F428), compiling. 
+[2023.05.21-10.22.08:327][663]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8A97559C2115BCD10BB4842DA97952279A43BCFF), compiling. 
+[2023.05.21-10.22.27:273][438]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 733A7DDCCFD15C8DBF74EC0934C3EEF42D1AEF70), compiling. 
+[2023.05.21-10.22.27:274][438]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 48A7172956867936717991E29829BDEC5B9952C1), compiling. 
+[2023.05.21-10.22.27:278][438]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D2A7DE6B2913BBEA5BCA4252AD89E82235A5B827), compiling. 
+[2023.05.21-10.22.32:371][ 21]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: EA7ABA7895654AD17485928ECBCAFC432DFDB5EA), compiling. 
+[2023.05.21-10.22.32:373][ 21]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 370D037C07E0E1861BB3CA733ECCB8E05AC5BD86), compiling. 
+[2023.05.21-10.22.32:377][ 21]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E8786761519494FA64CC63556D493D0C855C42A6), compiling. 
+[2023.05.21-10.22.39:216][801]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 63931F9D168F213EEDDB53F1A6F1EE44460A361E), compiling. 
+[2023.05.21-10.22.39:217][801]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 207F15E4F896C6FC4164C56B8618AF5F9E995986), compiling. 
+[2023.05.21-10.22.39:221][801]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F5B0B27806BF6D52B77C0AD7C8649CA52B6E7D20), compiling. 
+[2023.05.21-10.22.51:638][267]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1405AE0C0D79015732FB7D72B4C01558136B50DB), compiling. 
+[2023.05.21-10.22.51:640][267]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 00FFBECC7BC17BF13AA67C0AD730D8919D48F38A), compiling. 
+[2023.05.21-10.22.51:643][267]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C33EB9956E9579DD62556B400D1E8C2118E35BB4), compiling. 
+[2023.05.21-10.22.59:928][822]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A61AA55DD6990E09286013CE8C2CDED3BE03A7FA), compiling. 
+[2023.05.21-10.22.59:930][822]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 93A26933941DA6C4F87EBDF1EFEA284CD2C15E27), compiling. 
+[2023.05.21-10.22.59:935][822]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-10.22.59:935][822]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.21-10.22.59:935][822]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.21-10.22.59:935][822]MaterialEditorStats: Shader Count: 0
+[2023.05.21-10.23.00:294][863]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.21-10.23.00:294][863]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.21-10.23.00:294][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.21-10.23.00:294][863]MaterialEditorStats: Shader Count: 2
+[2023.05.21-10.23.03:969][940]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5142C298D98FD3B90E6E5ED946DAA08F4872A2B9), compiling. 
+[2023.05.21-10.23.03:971][940]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 30D9171523A7F60B08D88B83FD840B96B7AFA822), compiling. 
+[2023.05.21-10.23.03:975][940]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-10.23.03:975][940]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.21-10.23.03:975][940]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.21-10.23.03:975][940]MaterialEditorStats: Shader Count: 0
+[2023.05.21-10.23.04:258][973]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.21-10.23.04:259][973]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.21-10.23.04:259][973]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.21-10.23.04:259][973]MaterialEditorStats: Shader Count: 2
+[2023.05.21-10.23.19:178][939]LogMaterialEditor: Saving and Compiling material CCurvedHUD_Mat
+[2023.05.21-10.23.19:520][939]LogMaterial: Display: Missing cached shadermap for Preview:CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D0F17C99D1359EC27FD1B8A977841C7F2F45595A), compiling. 
+[2023.05.21-10.23.19:527][939]LogMaterial: Display: Missing cached shadermap for CCurvedHUD_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1943F047D22FF2C873007ACC8D5C6D1EFC3CDD1A), compiling. 
+[2023.05.21-10.23.19:570][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.05.21-10.23.19:657][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.21-10.23.21:280][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/HUD/CCurvedHUD_Mat" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/CCurvedHUD_Mat.uasset" SILENT=true
+[2023.05.21-10.23.21:282][939]LogSavePackage: Moving output files for package: /Game/Assets/Jet/HUD/CCurvedHUD_Mat
+[2023.05.21-10.23.21:282][939]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/CCurvedHUD_Mat1C73978A44374B1E39F7BCA535C17FAC.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/CCurvedHUD_Mat.uasset'
+[2023.05.21-10.23.21:296][939]AssetCheck: New page: Asset Save: CCurvedHUD_Mat
+[2023.05.21-10.23.21:296][939]LogContentValidation: Display: Validating Material /Game/Assets/Jet/HUD/CCurvedHUD_Mat.CCurvedHUD_Mat
+[2023.05.21-10.23.21:298][939]MaterialEditorStats: Default UI Pixel Shader: 34 instructions
+[2023.05.21-10.23.21:298][939]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2023.05.21-10.23.21:298][939]MaterialEditorStats: Instanced UI Vertex Shader: 26 instructions
+[2023.05.21-10.23.21:298][939]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.21-10.23.21:298][939]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.21-10.23.21:298][939]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.21-10.23.21:298][939]MaterialEditorStats: Shader Count: 18
+[2023.05.21-10.23.42:792][742]LogContentBrowser: Attempting asset rename: CCurvedHUD_Mat -> CurvedHUD_Mat
+[2023.05.21-10.23.42:850][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/HUD/CurvedHUD_Mat" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/CurvedHUD_Mat.uasset" SILENT=true
+[2023.05.21-10.23.42:852][742]LogSavePackage: Moving output files for package: /Game/Assets/Jet/HUD/CurvedHUD_Mat
+[2023.05.21-10.23.42:852][742]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/CurvedHUD_MatA9374DCD4DB52046677EA1AEA1686A41.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/CurvedHUD_Mat.uasset'
+[2023.05.21-10.23.42:902][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.05.21-10.23.42:937][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.21-10.23.42:973][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.21-10.23.42:981][742]AssetCheck: New page: Asset Save: CurvedHUD_Mat
+[2023.05.21-10.23.42:981][742]LogContentValidation: Display: Validating Material /Game/Assets/Jet/HUD/CurvedHUD_Mat.CurvedHUD_Mat
+[2023.05.21-10.23.44:630][940]LogContentBrowser: Deferred new asset file creation: CurvedHUD_Mat1
+[2023.05.21-10.23.44:633][940]LogContentBrowser: Creating deferred item: CurvedHUD_Mat1
+[2023.05.21-10.23.44:642][941]LogContentBrowser: Renaming the item being created (Deferred Item: CurvedHUD_Mat1).
+[2023.05.21-10.23.55:265][ 67]LogContentBrowser: Attempting asset rename: CurvedHUD_Mat1 -> CurvedHUD_Mat1
+[2023.05.21-10.23.55:269][ 67]LogMaterial: Display: Missing cached shadermap for CurvedHUD_Mat1 in PCD3D_SM5, Default, SM5 (DDC key hash: 368D777178F660724C319A94AD1A51D3ED3A1BAD), compiling. 
+[2023.05.21-10.23.55:285][ 67]LogContentBrowser: End creating deferred item CurvedHUD_Mat1
+[2023.05.21-10.24.11:916][981]LogContentBrowser: Attempting asset rename: CurvedHUD_Mat1 -> CurvedHUD_Mat_Inst
+[2023.05.21-10.24.11:986][981]LogSavePackage: Moving output files for package: /Game/Assets/Jet/HUD/CurvedHUD_Mat_Inst
+[2023.05.21-10.24.11:986][981]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/CurvedHUD_Mat_Inst7136EB4143748A2CD60F95BF656C777B.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/CurvedHUD_Mat_Inst.uasset'
+[2023.05.21-10.24.12:038][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.21-10.24.12:076][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.21-10.24.12:109][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.21-10.24.12:117][981]AssetCheck: New page: Asset Save: CurvedHUD_Mat_Inst
+[2023.05.21-10.24.12:117][981]LogContentValidation: Display: Validating Material /Game/Assets/Jet/HUD/CurvedHUD_Mat_Inst.CurvedHUD_Mat_Inst
+[2023.05.21-10.24.16:250][243]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Jet/HUD/CurvedHUD_Mat_Inst.CurvedHUD_Mat_Inst
+[2023.05.21-10.24.16:252][243]LogMaterial: Display: Missing cached shadermap for Preview:CurvedHUD_Mat_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 4B9D82533FFBDA1118545C2676B63B9B7632F236), compiling. 
+[2023.05.21-10.24.16:267][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-10.24.16:315][243]LogMaterial: Display: Missing cached shadermap for Preview:CurvedHUD_Mat_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: D0E938127C679D3044F8A2689B729B17EC59CC75), compiling. 
+[2023.05.21-10.24.16:317][243]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 88B47F220CBEBF024804E5C8149B389B211F8EE3), compiling. 
+[2023.05.21-10.24.16:344][243]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-10.24.16:345][243]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.21-10.24.16:345][243]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.21-10.24.16:345][243]MaterialEditorStats: Shader Count: 0
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: ================================================
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Total job queries 221, among them cache hits 136 (61.54%)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 30 distinct outputs (55.56%)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Shaders Compiled: 72
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Jobs assigned 54, completed 54 (100.00%)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Average time worker was idle: 439.28 s
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 1.19 s
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 2.00 s
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Job life time (pending + execution): average 1.16 s, max 2.04
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.97 s
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Jobs were issued in 42 batches (only local compilation was used), average 1.29 jobs/batch
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Average processing rate: 6.78 jobs/sec
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Effective parallelization: 2.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> (compiled    2 times, average 0.86 sec, max 0.87 sec, min 0.85 sec)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> (compiled    2 times, average 0.85 sec, max 0.85 sec, min 0.84 sec)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.79 sec, max 1.06 sec, min 0.53 sec)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    2 times, average 0.79 sec, max 0.83 sec, min 0.74 sec)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.78 sec, max 0.86 sec, min 0.62 sec)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.38% of total time (compiled    4 times, average 0.79 sec, max 1.06 sec, min 0.53 sec)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.41% of total time (compiled    4 times, average 0.62 sec, max 0.73 sec, min 0.44 sec)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.64% of total time (compiled    3 times, average 0.78 sec, max 0.86 sec, min 0.62 sec)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> - 7.86% of total time (compiled    2 times, average 0.86 sec, max 0.87 sec, min 0.85 sec)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> - 7.72% of total time (compiled    2 times, average 0.85 sec, max 0.85 sec, min 0.84 sec)
+[2023.05.21-10.24.16:391][246]LogShaderCompilers: Display: ================================================
+[2023.05.21-10.24.16:665][279]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.21-10.24.16:665][279]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.21-10.24.16:665][279]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.21-10.24.16:665][279]MaterialEditorStats: Shader Count: 2
+[2023.05.21-10.24.58:209][ 95]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-10.24.58:210][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-10.25.02:064][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.21-10.25.03:754][508]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.21-10.25.03:793][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.05.21-10.25.03:827][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.21-10.25.03:859][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.05.21-10.25.10:317][778]LogContentBrowser: Deferred new asset file creation: CurvedHUD_Mat_Inst
+[2023.05.21-10.25.10:346][778]LogContentBrowser: Creating deferred item: CurvedHUD_Mat_Inst
+[2023.05.21-10.25.10:354][779]LogContentBrowser: Renaming the item being created (Deferred Item: CurvedHUD_Mat_Inst).
+[2023.05.21-10.25.11:133][873]LogContentBrowser: Attempting asset rename: CurvedHUD_Mat_Inst -> CurvedHUD_Mat_Inst
+[2023.05.21-10.25.11:134][873]LogContentBrowser: End creating deferred item CurvedHUD_Mat_Inst
+[2023.05.21-10.25.11:273][890]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Jet/HUD/CurvedHUD_Mat_Inst.CurvedHUD_Mat_Inst
+[2023.05.21-10.25.11:275][890]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-10.25.49:238][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.21-10.25.49:271][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.21-10.25.49:273][117]LogSavePackage: Moving output files for package: /Game/Assets/Jet/HUD/CurvedHUD_Mat_Inst
+[2023.05.21-10.25.49:273][117]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/CurvedHUD_Mat_InstFAD602694DDAC1202ABCA399DD6637DF.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/CurvedHUD_Mat_Inst.uasset'
+[2023.05.21-10.25.49:285][117]AssetCheck: New page: Asset Save: CurvedHUD_Mat_Inst
+[2023.05.21-10.25.49:285][117]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Jet/HUD/CurvedHUD_Mat_Inst.CurvedHUD_Mat_Inst
+[2023.05.21-10.25.58:352][453]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-10.25.58:352][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-10.25.58:836][505]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-10.25.58:836][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-10.27.19:507][328]BlueprintLog: New page: Compile Jet_UI
+[2023.05.21-10.27.19:579][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.05.21-10.27.21:365][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/HUD/Jet_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/Jet_UI.uasset" SILENT=true
+[2023.05.21-10.27.21:368][523]LogSavePackage: Moving output files for package: /Game/Assets/Jet/HUD/Jet_UI
+[2023.05.21-10.27.21:369][523]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Jet_UI92C83D554DE50C97D93A23BB88BC83F3.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/Jet_UI.uasset'
+[2023.05.21-10.27.21:384][523]AssetCheck: New page: Asset Save: Jet_UI
+[2023.05.21-10.27.21:384][523]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Jet/HUD/Jet_UI.Jet_UI
+[2023.05.21-10.28.00:735][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.21-10.28.00:744][681]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Jet/TestMap/NewTestMap_Auto3
+[2023.05.21-10.28.00:744][681]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/NewTestMap_Auto3F90E1E0943970A7600D9C4BB36E45A74.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Assets/Jet/TestMap/NewTestMap_Auto3.umap'
+[2023.05.21-10.28.00:754][681]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Jet/TestMap/NewTestMap' took 0.060
+[2023.05.21-10.28.00:754][681]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2023.05.21-10.28.00:754][681]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Jet/HUD/Jet_UI] ([2] browsable assets)...
+[2023.05.21-10.28.00:756][681]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/Jet/HUD/Jet_UI.Jet_UI]
+[2023.05.21-10.28.00:756][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Jet/HUD/Jet_UI]
+[2023.05.21-10.28.00:759][681]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Jet/HUD/Jet_UI_Auto3
+[2023.05.21-10.28.00:759][681]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Jet_UI_Auto3C1F96C2C40DD58D31307E8A419B8AC57.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Assets/Jet/HUD/Jet_UI_Auto3.uasset'
+[2023.05.21-10.28.00:759][681]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.05.21-10.28.31:886][851]BlueprintLog: New page: Compile Jet_UI
+[2023.05.21-10.28.31:936][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.21-10.28.32:764][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/HUD/Jet_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/Jet_UI.uasset" SILENT=true
+[2023.05.21-10.28.32:768][932]LogSavePackage: Moving output files for package: /Game/Assets/Jet/HUD/Jet_UI
+[2023.05.21-10.28.32:768][932]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Jet_UI3556DE1D455523FBAD09A4A40AD7C15A.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/HUD/Jet_UI.uasset'
+[2023.05.21-10.28.32:782][932]AssetCheck: New page: Asset Save: Jet_UI
+[2023.05.21-10.28.32:782][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Jet/HUD/Jet_UI.Jet_UI
+[2023.05.21-10.28.33:747][ 41]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-10.28.33:752][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-10.28.33:752][ 41]PIE: New page: PIE session: NewTestMap (21 de maig 2023, 14:28:33)
+[2023.05.21-10.28.33:752][ 41]LogPlayLevel: Creating play world package: /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.21-10.28.33:754][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002040s)
+[2023.05.21-10.28.33:754][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap to /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap (0.002091s)
+[2023.05.21-10.28.33:754][ 41]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-10.28.33:754][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-10.28.33:755][ 41]LogAIModule: Creating AISystem for world NewTestMap
+[2023.05.21-10.28.33:755][ 41]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2023.05.21-10.28.33:794][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.21-10.28.33:799][ 41]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.21-10.28.33:799][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-10.28.33:799][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-10.28.33:799][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-10.28.33:799][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-10.28.33:799][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-10.28.33:799][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-10.28.33:799][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-10.28.33:799][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-10.28.33:799][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-10.28.33:799][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-10.28.33:799][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-10.28.33:801][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-10.28.33:831][ 41]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-10.28.33:831][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-10.28.33:832][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-10.28.33:832][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-10.28.33:832][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.05.21-10.28.33:832][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.05.21-10.28.33:833][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.05.21-10.28.33:833][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.05.21-10.28.33:833][ 41]LogInit: FAudioDevice initialized.
+[2023.05.21-10.28.33:833][ 41]LogAudio: Display: Audio Device (ID: 5) registered with world 'NewTestMap'.
+[2023.05.21-10.28.33:880][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-10.28.33:880][ 41]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-10.28.33:881][ 41]LogWorld: Bringing World /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap.NewTestMap up for play (max tick rate 0) at 2023.05.21-12.28.33
+[2023.05.21-10.28.33:882][ 41]LogWorld: Bringing up level for play took: 0.001555
+[2023.05.21-10.28.33:883][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.05.21-10.28.33:884][ 41]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.21-10.28.33:886][ 41]PIE: Server logged in
+[2023.05.21-10.28.33:887][ 41]PIE: Play in editor total start time 0,136 seconds.
+[2023.05.21-10.28.33:894][ 41]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.21-10.28.39:380][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-10.28.39:380][671]LogWorld: BeginTearingDown for /Game/Assets/Jet/TestMap/UEDPIE_0_NewTestMap
+[2023.05.21-10.28.39:381][671]LogSlate: Window 'Aircraft Physics Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.21-10.28.39:384][671]LogWorld: UWorld::CleanupWorld for NewTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-10.28.39:384][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-10.28.39:395][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-10.28.39:401][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-10.28.39:435][671]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-10.28.39:435][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.21-10.28.39:437][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.21-10.28.39:442][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.05.21-10.28.39:459][672]LogPlayLevel: Display: Destroying online subsystem :Context_13
