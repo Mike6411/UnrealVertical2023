@@ -4486,3 +4486,15 @@ The asset is referenced by other content.
 [2023.05.21-00.21.21:591][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
 [2023.05.21-00.21.21:596][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
 [2023.05.21-00.21.21:707][771]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.05.21-00.25.36:705][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.05.21-00.25.36:801][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.05.21-00.25.36:809][702]LogSavePackage: Moving output files for package: /Game/Assets/Jet/TestMap/NewTestMap
+[2023.05.21-00.25.36:809][702]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/NewTestMap54ADE9484F74BCC647339DAE11160F9A.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/TestMap/NewTestMap.umap'
+[2023.05.21-00.25.36:820][702]LogFileHelpers: No new changes to save!
+[2023.05.21-00.25.36:820][702]LogFileHelpers: Saving map 'NewTestMap' took 0.054
+[2023.05.21-00.25.36:841][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.21-00.25.36:878][702]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.21-00.25.36:878][702]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP771EBC9A4AE63970DEB0B8AA93DA7C68.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.21-00.25.36:895][702]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.21-00.25.36:895][702]LogContentValidation: Display: Validating World /Game/Assets/Jet/TestMap/NewTestMap.NewTestMap
+[2023.05.21-00.25.36:895][702]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
