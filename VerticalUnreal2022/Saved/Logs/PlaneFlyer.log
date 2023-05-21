@@ -8589,3 +8589,89 @@ Saving these assets will allow them to be unloaded.
 [2023.05.21-19.20.22:040][846]Cmd: MAP CHECKDEP NOCLEARLOG
 [2023.05.21-19.20.22:041][846]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,095ms to complete.
 [2023.05.21-19.20.22:041][846]LogFileHelpers: Loading map 'Example_Map' took 10.511
+[2023.05.21-19.23.19:603][904]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.21-19.23.19:630][904]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.21-19.23.19:638][905]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.21-19.23.22:408][238]LogContentBrowser: Attempting asset rename: NewFolder -> HardMap
+[2023.05.21-19.23.22:408][238]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.21-19.23.26:686][709]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.21-19.23.26:696][709]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.21-19.23.26:703][710]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.21-19.23.29:678][ 67]LogContentBrowser: Attempting asset rename: NewFolder -> Tutorialmap
+[2023.05.21-19.23.29:678][ 67]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.21-19.23.47:937][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Points.Points_C
+[2023.05.21-19.23.47:937][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Points.Points_C
+[2023.05.21-19.23.47:938][233]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Points.Points as actor: Points_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.Points_C_0
+[2023.05.21-19.23.47:939][233]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Points.Points as actor: Points_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.Points_C_0
+[2023.05.21-19.23.48:888][327]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Points.Points_C
+[2023.05.21-19.23.48:888][327]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Points.Points_C
+[2023.05.21-19.23.48:890][327]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Points.Points as actor: Points_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.Points_C_3
+[2023.05.21-19.23.48:891][327]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Points.Points as actor: Points_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.Points_C_3
+[2023.05.21-19.23.52:765][761]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-19.23.52:771][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-19.23.52:771][761]PIE: New page: PIE session: Example_Map (21 de maig 2023, 23:23:52)
+[2023.05.21-19.23.52:772][761]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-19.23.52:775][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003284s)
+[2023.05.21-19.23.52:775][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003340s)
+[2023.05.21-19.23.52:775][761]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-19.23.52:775][761]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-19.23.52:776][761]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-19.23.52:776][761]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2023.05.21-19.23.52:826][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.05.21-19.23.52:833][761]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2023.05.21-19.23.52:833][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-19.23.52:833][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-19.23.52:833][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-19.23.52:833][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-19.23.52:833][761]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-19.23.52:833][761]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-19.23.52:833][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-19.23.52:833][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-19.23.52:833][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-19.23.52:833][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-19.23.52:833][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-19.23.52:835][761]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-19.23.52:866][761]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-19.23.52:866][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-19.23.52:866][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-19.23.52:866][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-19.23.52:867][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=69
+[2023.05.21-19.23.52:867][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=69
+[2023.05.21-19.23.52:868][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=69
+[2023.05.21-19.23.52:868][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=69
+[2023.05.21-19.23.52:868][761]LogInit: FAudioDevice initialized.
+[2023.05.21-19.23.52:868][761]LogAudio: Display: Audio Device (ID: 69) registered with world 'Example_Map'.
+[2023.05.21-19.23.52:876][761]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-19.23.52:877][761]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-21.23.52
+[2023.05.21-19.23.52:877][761]LogWorld: Bringing up level for play took: 0.000665
+[2023.05.21-19.23.52:879][761]LogOnline: OSS: Created online subsystem instance for: :Context_115
+[2023.05.21-19.23.52:884][761]PIE: Server logged in
+[2023.05.21-19.23.52:885][761]PIE: Play in editor total start time 0,116 seconds.
+[2023.05.21-19.24.06:281][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-19.24.06:281][351]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-19.24.06:281][351]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-19.24.06:281][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-19.24.06:302][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-19.24.06:309][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-19.24.06:352][351]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-19.24.06:352][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2023.05.21-19.24.06:354][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2023.05.21-19.24.06:357][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-19.24.06:361][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.05.21-19.24.06:398][352]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2023.05.21-19.24.13:471][163]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-19.24.13:471][163]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-19.24.33:053][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMap/BaseGame_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/MainMap/BaseGame_UI.uasset" SILENT=true
+[2023.05.21-19.24.33:061][ 39]LogSavePackage: Moving output files for package: /Game/Blueprints/MainMap/BaseGame_UI
+[2023.05.21-19.24.33:061][ 39]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGame_UI00E18C68470C6D7210B822B8DD271FCD.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/MainMap/BaseGame_UI.uasset'
+[2023.05.21-19.24.33:077][ 39]AssetCheck: New page: Asset Save: BaseGame_UI
+[2023.05.21-19.24.33:077][ 39]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/MainMap/BaseGame_UI.BaseGame_UI
+[2023.05.21-19.24.34:063][157]BlueprintLog: New page: Compile BaseGame_UI
+[2023.05.21-19.24.34:127][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.21-19.30.23:588][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.21-19.30.23:603][287]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Example_Map_Auto1
+[2023.05.21-19.30.23:603][287]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map_Auto1FED412D24A8AEDE4C9828D941E0A9489.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Maps/Example_Map_Auto1.umap'
+[2023.05.21-19.30.23:612][287]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Example_Map' took 0.074
+[2023.05.21-19.30.23:612][287]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2023.05.21-19.35.37:899][496]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Miquel Nadal\Downloads\background.png)
+[2023.05.21-19.35.37:945][496]LogTexture: Display: Building textures: /Game/Imports/background.background (TFO_BC5, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
