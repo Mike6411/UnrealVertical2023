@@ -6897,3 +6897,1163 @@ JetFighter_BP_C.ReceiveBeginPlay
 [2023.05.21-17.21.03:085][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
 [2023.05.21-17.21.03:118][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
 [2023.05.21-17.21.03:150][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.21-17.21.38:057][250]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.21-17.21.38:064][250]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.21-17.21.38:069][250]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.21-17.21.38:077][251]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.05.21-17.21.40:014][484]LogContentBrowser: Attempting asset rename: NewBlueprint -> Points
+[2023.05.21-17.21.40:020][484]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.21-17.21.44:175][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Points.Points
+[2023.05.21-17.21.44:176][826]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-17.21.44:537][826]LogViewport: Scene viewport resized to 819x422, mode Windowed.
+[2023.05.21-17.21.46:611][ 37]LogViewport: Scene viewport resized to 816x441, mode Windowed.
+[2023.05.21-17.21.46:711][ 39]LogViewport: Scene viewport resized to 527x246, mode Windowed.
+[2023.05.21-17.21.46:743][ 40]LogViewport: Scene viewport resized to 518x239, mode Windowed.
+[2023.05.21-17.21.46:864][ 52]LogViewport: Scene viewport resized to 1267x725, mode Windowed.
+[2023.05.21-17.21.48:013][187]LogSlate: Window 'Points' being destroyed
+[2023.05.21-17.22.29:553][ 84]BlueprintLog: New page: Compile Points
+[2023.05.21-17.22.29:608][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.05.21-17.22.30:603][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Points" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset" SILENT=true
+[2023.05.21-17.22.30:606][180]LogSavePackage: Moving output files for package: /Game/Blueprints/Points
+[2023.05.21-17.22.30:606][180]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Points28C6A9544742DB7196E61591CCB6712E.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset'
+[2023.05.21-17.22.30:618][180]AssetCheck: New page: Asset Save: Points
+[2023.05.21-17.22.30:618][180]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Points.Points
+[2023.05.21-17.22.37:465][981]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Points.Points_C
+[2023.05.21-17.22.37:465][981]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Points.Points_C
+[2023.05.21-17.22.37:466][981]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Points.Points as actor: Points_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.Points_C_0
+[2023.05.21-17.22.37:466][981]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Points.Points as actor: Points_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.Points_C_0
+[2023.05.21-17.22.37:892][ 26]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Points.Points_C
+[2023.05.21-17.22.37:892][ 26]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Points.Points_C
+[2023.05.21-17.22.37:893][ 26]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Points.Points as actor: Points_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.Points_C_1
+[2023.05.21-17.22.37:894][ 26]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Points.Points as actor: Points_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.Points_C_1
+[2023.05.21-17.23.01:220][751]BlueprintLog: New page: Compile Points
+[2023.05.21-17.23.01:276][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.05.21-17.23.01:938][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Points" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset" SILENT=true
+[2023.05.21-17.23.01:940][812]LogSavePackage: Moving output files for package: /Game/Blueprints/Points
+[2023.05.21-17.23.01:941][812]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Points1A57C2E34EAD3DE09FD6678BB82C079F.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset'
+[2023.05.21-17.23.01:957][812]AssetCheck: New page: Asset Save: Points
+[2023.05.21-17.23.01:957][812]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Points.Points
+[2023.05.21-17.23.12:827][ 39]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-17.23.12:835][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-17.23.12:835][ 39]PIE: New page: PIE session: Example_Map (21 de maig 2023, 21:23:12)
+[2023.05.21-17.23.12:863][ 39]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-17.23.12:867][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003150s)
+[2023.05.21-17.23.12:867][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003245s)
+[2023.05.21-17.23.12:867][ 39]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-17.23.12:867][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-17.23.12:867][ 39]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-17.23.12:867][ 39]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2023.05.21-17.23.12:910][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.21-17.23.12:917][ 39]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2023.05.21-17.23.12:918][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-17.23.12:918][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-17.23.12:918][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-17.23.12:918][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-17.23.12:918][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-17.23.12:918][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-17.23.12:918][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-17.23.12:918][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-17.23.12:918][ 39]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-17.23.12:918][ 39]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-17.23.12:918][ 39]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-17.23.12:920][ 39]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-17.23.12:951][ 39]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-17.23.12:951][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-17.23.12:951][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-17.23.12:951][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-17.23.12:951][ 39]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2023.05.21-17.23.12:951][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2023.05.21-17.23.12:953][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2023.05.21-17.23.12:953][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2023.05.21-17.23.12:953][ 39]LogInit: FAudioDevice initialized.
+[2023.05.21-17.23.12:953][ 39]LogAudio: Display: Audio Device (ID: 54) registered with world 'Example_Map'.
+[2023.05.21-17.23.12:965][ 39]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-17.23.12:966][ 39]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-19.23.12
+[2023.05.21-17.23.12:966][ 39]LogWorld: Bringing up level for play took: 0.000577
+[2023.05.21-17.23.12:967][ 39]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2023.05.21-17.23.12:972][ 39]PIE: Server logged in
+[2023.05.21-17.23.12:973][ 39]PIE: Play in editor total start time 0,14 seconds.
+[2023.05.21-17.23.28:944][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-17.23.28:944][948]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-17.23.28:944][948]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.23.28:944][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.23.28:954][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-17.23.28:960][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.23.28:995][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-17.23.28:995][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.05.21-17.23.28:997][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.05.21-17.23.29:000][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-17.23.29:003][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.21-17.23.29:037][949]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2023.05.21-17.23.40:497][307]LogViewport: Scene viewport resized to 1267x723, mode Windowed.
+[2023.05.21-17.23.47:038][ 52]BlueprintLog: New page: Compile Points
+[2023.05.21-17.23.47:091][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.21-17.23.47:586][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Points" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset" SILENT=true
+[2023.05.21-17.23.47:589][ 93]LogSavePackage: Moving output files for package: /Game/Blueprints/Points
+[2023.05.21-17.23.47:589][ 93]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/PointsE59194F14A5611CB3190A2A139B14ABC.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset'
+[2023.05.21-17.23.47:605][ 93]AssetCheck: New page: Asset Save: Points
+[2023.05.21-17.23.47:605][ 93]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Points.Points
+[2023.05.21-17.23.49:760][334]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-17.23.49:767][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-17.23.49:767][334]PIE: New page: PIE session: Example_Map (21 de maig 2023, 21:23:49)
+[2023.05.21-17.23.49:794][334]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-17.23.49:798][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003793s)
+[2023.05.21-17.23.49:798][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003886s)
+[2023.05.21-17.23.49:798][334]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-17.23.49:798][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-17.23.49:798][334]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-17.23.49:799][334]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2023.05.21-17.23.49:835][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.05.21-17.23.49:842][334]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2023.05.21-17.23.49:842][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-17.23.49:842][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-17.23.49:842][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-17.23.49:842][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-17.23.49:842][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-17.23.49:842][334]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-17.23.49:842][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-17.23.49:842][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-17.23.49:842][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-17.23.49:842][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-17.23.49:842][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-17.23.49:844][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-17.23.49:873][334]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-17.23.49:873][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-17.23.49:873][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-17.23.49:873][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-17.23.49:873][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2023.05.21-17.23.49:873][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2023.05.21-17.23.49:874][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2023.05.21-17.23.49:874][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2023.05.21-17.23.49:874][334]LogInit: FAudioDevice initialized.
+[2023.05.21-17.23.49:874][334]LogAudio: Display: Audio Device (ID: 55) registered with world 'Example_Map'.
+[2023.05.21-17.23.49:882][334]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-17.23.49:883][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-19.23.49
+[2023.05.21-17.23.49:883][334]LogWorld: Bringing up level for play took: 0.000627
+[2023.05.21-17.23.49:884][334]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2023.05.21-17.23.49:888][334]PIE: Server logged in
+[2023.05.21-17.23.49:889][334]PIE: Play in editor total start time 0,124 seconds.
+[2023.05.21-17.24.12:663][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-17.24.12:663][ 58]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-17.24.12:664][ 58]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.24.12:664][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.24.12:675][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-17.24.12:682][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.24.12:718][ 58]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-17.24.12:719][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2023.05.21-17.24.12:720][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2023.05.21-17.24.12:724][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-17.24.12:726][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.21-17.24.12:760][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2023.05.21-17.25.07:362][489]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.21-17.25.07:362][489]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.21-17.25.07:914][550]LogContentBrowser: Deferred new asset file creation: BasicShapeMaterial1
+[2023.05.21-17.25.07:941][550]LogContentBrowser: Creating deferred item: BasicShapeMaterial1
+[2023.05.21-17.25.07:950][551]LogContentBrowser: Renaming the item being created (Deferred Item: BasicShapeMaterial1).
+[2023.05.21-17.25.14:415][327]LogContentBrowser: Attempting asset rename: BasicShapeMaterial1 -> EmissiveGreen
+[2023.05.21-17.25.14:420][327]LogMaterial: Display: Missing cached shadermap for EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: FAEDA464CA8BD5E0A9FD09155FF51B85487FC7EE), compiling. 
+[2023.05.21-17.25.14:512][327]LogContentBrowser: End creating deferred item BasicShapeMaterial1
+[2023.05.21-17.25.18:748][556]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/EmissiveGreen.EmissiveGreen
+[2023.05.21-17.25.18:751][556]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 23F472B07D0D3885D1662C9EA9ACC8B9A772FCEC), compiling. 
+[2023.05.21-17.25.18:774][556]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-17.25.18:884][556]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: F6042256A9D29F4830E9C43F7191181A75E0EF37), compiling. 
+[2023.05.21-17.25.18:891][556]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: D07717D325E7A3D96C7EC0F250D20A89F70BF719), compiling. 
+[2023.05.21-17.25.18:896][556]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CD0D44EBAEAC4B7C83B3D8665947F660AE19E6FB), compiling. 
+[2023.05.21-17.25.18:955][556]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.25.18:955][556]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.18:955][556]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.25.18:965][556]LogViewport: Scene viewport resized to 376x469, mode Windowed.
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: ================================================
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Total job queries 3566, among them cache hits 176 (4.94%)
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Tracking 3114 distinct input hashes that result in 1618 distinct outputs (51.96%)
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: RAM used: 4.32 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.26%
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Shaders Compiled: 3293
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Jobs assigned 3185, completed 3114 (97.77%)
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Average time worker was idle: 460.58 s
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Time job spent in pending queue: average 121.43 s, longest 258.02 s
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Job execution time: average 6.49 s, max 11.51 s
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Job life time (pending + execution): average 130.68 s, max 258.99
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 295.96 s
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Jobs were issued in 475 batches (only local compilation was used), average 6.71 jobs/batch
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Average processing rate: 10.52 jobs/sec
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Effective parallelization: 6.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 1.25 sec, max 1.60 sec, min 1.05 sec)
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    6 times, average 1.16 sec, max 1.48 sec, min 0.98 sec)
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    7 times, average 1.14 sec, max 1.73 sec, min 0.98 sec)
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ (compiled    6 times, average 1.09 sec, max 1.22 sec, min 0.98 sec)
+[2023.05.21-17.25.24:737][ 51]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    7 times, average 1.08 sec, max 1.46 sec, min 0.95 sec)
+[2023.05.21-17.25.24:738][ 51]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.21-17.25.24:738][ 51]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.63% of total time (compiled  230 times, average 0.95 sec, max 2.14 sec, min 0.29 sec)
+[2023.05.21-17.25.24:738][ 51]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.55% of total time (compiled  242 times, average 0.90 sec, max 1.98 sec, min 0.39 sec)
+[2023.05.21-17.25.24:738][ 51]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.11% of total time (compiled  244 times, average 0.77 sec, max 2.07 sec, min 0.44 sec)
+[2023.05.21-17.25.24:738][ 51]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.56% of total time (compiled  226 times, average 0.78 sec, max 1.92 sec, min 0.48 sec)
+[2023.05.21-17.25.24:738][ 51]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.94% of total time (compiled  240 times, average 0.68 sec, max 1.62 sec, min 0.27 sec)
+[2023.05.21-17.25.24:738][ 51]LogShaderCompilers: Display: ================================================
+[2023.05.21-17.25.24:750][ 52]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.25.24:750][ 52]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.24:750][ 52]MaterialEditorStats: Shader Count: 3
+[2023.05.21-17.25.29:900][531]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: AC046CBAA7F22A4288D5EF6C1CC28545FDFDC877), compiling. 
+[2023.05.21-17.25.29:903][531]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: EEC5D5F436798254956BCC960A1D744B8B0D40F4), compiling. 
+[2023.05.21-17.25.29:905][531]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5936E95E2CED91A03D3881121C9A525537AC9DB9), compiling. 
+[2023.05.21-17.25.29:908][531]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.25.29:908][531]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.29:908][531]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.25.29:961][533]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.25.29:961][533]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.29:961][533]MaterialEditorStats: Shader Count: 4
+[2023.05.21-17.25.30:795][632]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: E1FD17408050A638E094B94EE7AAD8FFC2C68291), compiling. 
+[2023.05.21-17.25.30:797][632]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.25.30:798][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.30:798][632]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.25.31:549][714]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.25.31:549][714]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.31:549][714]MaterialEditorStats: Shader Count: 2
+[2023.05.21-17.25.37:537][419]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: FEC706B9986A758F8FC9A82B8BC07E9DC00ED462), compiling. 
+[2023.05.21-17.25.37:543][419]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.25.37:543][419]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.37:543][419]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.25.37:569][421]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.25.37:569][421]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.37:569][421]MaterialEditorStats: Shader Count: 4
+[2023.05.21-17.25.41:457][874]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 274D63318782ABACF8B9DC328EB1FE9366F8CD12), compiling. 
+[2023.05.21-17.25.41:460][874]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 42BC332F9F80F1A47F9AA2BC023DFF8FA6EC3498), compiling. 
+[2023.05.21-17.25.41:466][874]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.25.41:466][874]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.41:466][874]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.25.41:491][876]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.25.41:491][876]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.41:491][876]MaterialEditorStats: Shader Count: 4
+[2023.05.21-17.25.46:094][422]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: A47237D47424D0CFB4DE90A5312A331541009FD6), compiling. 
+[2023.05.21-17.25.46:098][422]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.25.46:098][422]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.46:098][422]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.25.46:139][424]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.25.46:139][424]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.46:139][424]MaterialEditorStats: Shader Count: 4
+[2023.05.21-17.25.48:388][678]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: DA2A374FE82A14E3D787B6E346281BC974FA5483), compiling. 
+[2023.05.21-17.25.48:392][678]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.25.48:392][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.48:392][678]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.25.48:407][680]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.25.48:407][680]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.48:407][680]MaterialEditorStats: Shader Count: 4
+[2023.05.21-17.25.52:021][ 96]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 1D4E57A2EA57F4AD48B92753566B51A6C401A3A9), compiling. 
+[2023.05.21-17.25.52:023][ 96]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B8FDF61CB2DFFE7CCE4E728E527F34C6FBCA0FB1), compiling. 
+[2023.05.21-17.25.52:027][ 96]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.25.52:027][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.52:027][ 96]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.25.52:042][ 98]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.25.52:042][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.52:042][ 98]MaterialEditorStats: Shader Count: 4
+[2023.05.21-17.25.55:913][550]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: A44FF83EA2263876DA3CD99B5C9FC42541154B34), compiling. 
+[2023.05.21-17.25.55:917][550]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.25.55:917][550]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.55:917][550]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.25.56:819][653]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.25.56:820][653]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.56:820][653]MaterialEditorStats: Shader Count: 4
+[2023.05.21-17.25.57:949][784]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 7E2A0F2F38771CFB6C43188143220A582293971A), compiling. 
+[2023.05.21-17.25.57:951][784]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.25.57:951][784]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.57:951][784]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.25.58:749][875]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.25.58:749][875]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.25.58:749][875]MaterialEditorStats: Shader Count: 4
+[2023.05.21-17.26.10:445][253]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: AA8DBEDDD7F1C8EC50C6BA47699382574CD02FCE), compiling. 
+[2023.05.21-17.26.10:447][253]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6AA6E78E6372E7458E426524374FE89859A5AD96), compiling. 
+[2023.05.21-17.26.10:448][253]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B4E4134B4F0B5E57C808D6256300201C61750738), compiling. 
+[2023.05.21-17.26.10:451][253]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: CE8F3B6BDFC228B450B95715CE638974CB243860), compiling. 
+[2023.05.21-17.26.10:453][253]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2AE28224B79F5A77495EB4981EC06F7971DA9122), compiling. 
+[2023.05.21-17.26.10:455][253]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: E1B0D6BA138E56BE302B1BD0B6F0E2526D794C9B), compiling. 
+[2023.05.21-17.26.10:456][253]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.21-17.26.10:463][253]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.26.10:463][253]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.26.10:463][253]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.26.10:478][255]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.26.10:478][255]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.26.10:478][255]MaterialEditorStats: Shader Count: 4
+[2023.05.21-17.26.19:353][306]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: C79B24CC0B1BE08B57F015C56C1DF9619B8E152E), compiling. 
+[2023.05.21-17.26.19:357][306]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 5172522328A868C6C1967B2B54A6216B8A3A4AB8), compiling. 
+[2023.05.21-17.26.19:360][306]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.26.19:360][306]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.26.19:360][306]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.26.19:387][308]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.26.19:387][308]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.26.19:387][308]MaterialEditorStats: Shader Count: 4
+[2023.05.21-17.26.26:352][139]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 85A8E5B54078411FBFDD6F10120248A99517F14F), compiling. 
+[2023.05.21-17.26.26:356][139]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 862C1548BA0A2642F6B840A60E75F012F59F2658), compiling. 
+[2023.05.21-17.26.26:358][139]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.26.26:358][139]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.26.26:358][139]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.26.26:371][141]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.26.26:371][141]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.26.26:371][141]MaterialEditorStats: Shader Count: 2
+[2023.05.21-17.26.28:991][451]LogMaterialEditor: Saving and Compiling material EmissiveGreen
+[2023.05.21-17.26.29:371][451]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 5684E367743E92958E4E3C2C085EA59FDD37FCA5), compiling. 
+[2023.05.21-17.26.29:382][451]LogMaterial: Display: Missing cached shadermap for EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: CE4252B7EF6C381EEB665D5CE190773F1B7DCF88), compiling. 
+[2023.05.21-17.26.29:426][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.21-17.26.30:332][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.21-17.26.33:469][451]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.05.21-17.26.33:469][451]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049696s
+[2023.05.21-17.26.43:072][451]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000511s (9.652589s overbudget)
+[2023.05.21-17.26.43:095][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/EmissiveGreen" FILE="../../../Engine/Content/BasicShapes/EmissiveGreen.uasset" SILENT=true
+[2023.05.21-17.26.43:096][451]LogSavePackage: Moving output files for package: /Engine/BasicShapes/EmissiveGreen
+[2023.05.21-17.26.43:096][451]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/EmissiveGreen90892C494A9B92DD8576FEAC14375A7D.tmp' to '../../../Engine/Content/BasicShapes/EmissiveGreen.uasset'
+[2023.05.21-17.26.43:111][451]AssetCheck: New page: Asset Save: EmissiveGreen
+[2023.05.21-17.26.43:111][451]LogContentValidation: Display: Validating Material /Engine/BasicShapes/EmissiveGreen.EmissiveGreen
+[2023.05.21-17.26.43:113][451]MaterialEditorStats: Base pass shader: 124 instructions
+[2023.05.21-17.26.43:113][451]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2023.05.21-17.26.43:113][451]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.05.21-17.26.43:113][451]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.21-17.26.43:113][451]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.26.43:113][451]MaterialEditorStats: Shader Count: 91
+[2023.05.21-17.27.13:595][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Points" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset" SILENT=true
+[2023.05.21-17.27.13:598][620]LogSavePackage: Moving output files for package: /Game/Blueprints/Points
+[2023.05.21-17.27.13:598][620]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Points6D11EC2E42A13DBA3DB9058DB87A2660.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset'
+[2023.05.21-17.27.13:618][620]AssetCheck: New page: Asset Save: Points
+[2023.05.21-17.27.13:618][620]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Points.Points
+[2023.05.21-17.27.14:701][746]BlueprintLog: New page: Compile Points
+[2023.05.21-17.27.14:757][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.21-17.27.16:624][956]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-17.27.16:631][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-17.27.16:631][956]PIE: New page: PIE session: Example_Map (21 de maig 2023, 21:27:16)
+[2023.05.21-17.27.16:662][956]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-17.27.16:665][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003062s)
+[2023.05.21-17.27.16:665][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003151s)
+[2023.05.21-17.27.16:665][956]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-17.27.16:665][956]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-17.27.16:665][956]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-17.27.16:665][956]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2023.05.21-17.27.16:701][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.21-17.27.16:707][956]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.05.21-17.27.16:707][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-17.27.16:707][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-17.27.16:707][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-17.27.16:707][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-17.27.16:707][956]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-17.27.16:707][956]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-17.27.16:707][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-17.27.16:707][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-17.27.16:708][956]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-17.27.16:708][956]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-17.27.16:708][956]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-17.27.16:710][956]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-17.27.16:738][956]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-17.27.16:738][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-17.27.16:738][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-17.27.16:738][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-17.27.16:739][956]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2023.05.21-17.27.16:739][956]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2023.05.21-17.27.16:740][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2023.05.21-17.27.16:740][956]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2023.05.21-17.27.16:740][956]LogInit: FAudioDevice initialized.
+[2023.05.21-17.27.16:740][956]LogAudio: Display: Audio Device (ID: 56) registered with world 'Example_Map'.
+[2023.05.21-17.27.16:751][956]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-17.27.16:751][956]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-19.27.16
+[2023.05.21-17.27.16:752][956]LogWorld: Bringing up level for play took: 0.000534
+[2023.05.21-17.27.16:753][956]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2023.05.21-17.27.16:756][956]PIE: Server logged in
+[2023.05.21-17.27.16:757][956]PIE: Play in editor total start time 0,128 seconds.
+[2023.05.21-17.27.36:191][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-17.27.36:191][273]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-17.27.36:191][273]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.27.36:191][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.27.36:203][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-17.27.36:209][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.27.36:244][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-17.27.36:244][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.05.21-17.27.36:246][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.05.21-17.27.36:252][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.21-17.27.36:280][274]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2023.05.21-17.29.10:503][ 55]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Miquel Nadal\Downloads\389799-Party-Pack-Horn-Coil-01-Very-Short-09.wav)
+[2023.05.21-17.29.10:523][ 55]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave 389799-Party-Pack-Horn-Coil-01-Very-Short-09...
+[2023.05.21-17.29.10:524][ 55]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Imports/Audio/389799-Party-Pack-Horn-Coil-01-Very-Short-09.389799-Party-Pack-Horn-Coil-01-Very-Short-09 will be modified from 40 to 40.
+[2023.05.21-17.29.10:524][ 55]LogAudioDerivedData: Warning: [SoundWave /Game/Imports/Audio/389799-Party-Pack-Horn-Coil-01-Very-Short-09.389799-Party-Pack-Horn-Coil-01-Very-Short-09] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2023.05.21-17.29.10:542][ 55]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 399868 while cooking SoundWave /Game/Imports/Audio/389799-Party-Pack-Horn-Coil-01-Very-Short-09.389799-Party-Pack-Horn-Coil-01-Very-Short-09.
+[2023.05.21-17.29.10:542][ 55]LogAudio: Display: Chunk size for SoundWave /Game/Imports/Audio/389799-Party-Pack-Horn-Coil-01-Very-Short-09.389799-Party-Pack-Horn-Coil-01-Very-Short-09: 262144
+[2023.05.21-17.29.18:155][413]LogContentBrowser: Attempting asset rename: 389799-Party-Pack-Horn-Coil-01-Very-Short-09 -> yipee
+[2023.05.21-17.29.18:228][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imports/Audio/yipee" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Imports/Audio/yipee.uasset" SILENT=true
+[2023.05.21-17.29.18:229][413]LogSavePackage: Moving output files for package: /Game/Imports/Audio/yipee
+[2023.05.21-17.29.18:229][413]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/yipee97C053E1454BD4F794A7F19D4D12B95E.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Imports/Audio/yipee.uasset'
+[2023.05.21-17.29.18:457][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.21-17.29.18:496][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.21-17.29.18:534][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.21-17.29.18:543][413]AssetCheck: New page: Asset Save: yipee
+[2023.05.21-17.29.18:543][413]LogContentValidation: Display: Validating SoundWave /Game/Imports/Audio/yipee.yipee
+[2023.05.21-17.31.26:365][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.21-17.31.26:376][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Example_Map_Auto4
+[2023.05.21-17.31.26:376][384]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map_Auto4C2F9146140BF1F5B64A4A59149EE8BEC.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Maps/Example_Map_Auto4.umap'
+[2023.05.21-17.31.26:385][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Example_Map' took 0.059
+[2023.05.21-17.31.26:385][384]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2023.05.21-17.39.50:467][  8]LogDerivedDataCache: C:/Users/Miquel Nadal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.270 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.21-17.52.32:600][708]BlueprintLog: New page: Compile Points
+[2023.05.21-17.52.32:664][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.21-17.52.33:229][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Points" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset" SILENT=true
+[2023.05.21-17.52.33:232][757]LogSavePackage: Moving output files for package: /Game/Blueprints/Points
+[2023.05.21-17.52.33:232][757]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/PointsE9B60BBD49B04CB3F1A8C281CD538422.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset'
+[2023.05.21-17.52.33:250][757]AssetCheck: New page: Asset Save: Points
+[2023.05.21-17.52.33:250][757]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Points.Points
+[2023.05.21-17.52.34:454][898]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-17.52.34:461][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-17.52.34:461][898]PIE: New page: PIE session: Example_Map (21 de maig 2023, 21:52:34)
+[2023.05.21-17.52.34:461][898]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-17.52.34:464][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003082s)
+[2023.05.21-17.52.34:464][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003135s)
+[2023.05.21-17.52.34:464][898]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-17.52.34:464][898]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-17.52.34:465][898]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-17.52.34:465][898]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2023.05.21-17.52.34:505][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.05.21-17.52.34:511][898]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2023.05.21-17.52.34:511][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-17.52.34:511][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-17.52.34:511][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-17.52.34:511][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-17.52.34:511][898]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-17.52.34:511][898]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-17.52.34:511][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-17.52.34:511][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-17.52.34:511][898]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-17.52.34:511][898]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-17.52.34:511][898]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-17.52.34:514][898]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-17.52.34:543][898]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-17.52.34:544][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-17.52.34:544][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-17.52.34:544][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-17.52.34:544][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2023.05.21-17.52.34:544][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2023.05.21-17.52.34:545][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2023.05.21-17.52.34:545][898]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2023.05.21-17.52.34:545][898]LogInit: FAudioDevice initialized.
+[2023.05.21-17.52.34:545][898]LogAudio: Display: Audio Device (ID: 57) registered with world 'Example_Map'.
+[2023.05.21-17.52.34:558][898]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-17.52.34:558][898]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-19.52.34
+[2023.05.21-17.52.34:558][898]LogWorld: Bringing up level for play took: 0.000528
+[2023.05.21-17.52.34:560][898]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2023.05.21-17.52.34:564][898]PIE: Server logged in
+[2023.05.21-17.52.34:564][898]PIE: Play in editor total start time 0,105 seconds.
+[2023.05.21-17.52.40:502][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-17.52.40:502][604]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-17.52.40:502][604]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.52.40:502][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.52.40:511][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-17.52.40:518][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.52.40:554][604]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-17.52.40:554][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2023.05.21-17.52.40:556][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2023.05.21-17.52.40:559][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-17.52.40:562][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.21-17.52.40:595][605]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.05.21-17.52.53:706][134]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 3C5BA44D711A8EE41019979A918591B2EBADE554), compiling. 
+[2023.05.21-17.52.53:710][134]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 4B23A43B8D1B117044883EFEB54BBBD95FA5215E), compiling. 
+[2023.05.21-17.52.53:713][134]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.21-17.52.53:713][134]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.52.53:713][134]MaterialEditorStats: Shader Count: 0
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: ================================================
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Total job queries 3744, among them cache hits 255 (6.81%)
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Tracking 3296 distinct input hashes that result in 1716 distinct outputs (52.06%)
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: RAM used: 4.67 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.28%
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Shaders Compiled: 3293
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Jobs assigned 3296, completed 3296 (100.00%)
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Average time worker was idle: 374.90 s
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Time job spent in pending queue: average 117.50 s, longest 258.02 s
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Job execution time: average 6.45 s, max 18.52 s
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Job life time (pending + execution): average 123.95 s, max 258.99
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 319.22 s
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Jobs were issued in 583 batches (only local compilation was used), average 5.65 jobs/batch
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Average processing rate: 10.33 jobs/sec
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Effective parallelization: 7.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 1.35 sec, max 1.54 sec, min 1.16 sec)
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   14 times, average 1.29 sec, max 3.11 sec, min 0.84 sec)
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   14 times, average 1.27 sec, max 3.13 sec, min 0.87 sec)
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   14 times, average 1.26 sec, max 2.95 sec, min 0.80 sec)
+[2023.05.21-17.52.53:719][135]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   18 times, average 1.18 sec, max 2.58 sec, min 0.75 sec)
+[2023.05.21-17.52.53:720][135]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.21-17.52.53:720][135]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.97% of total time (compiled  251 times, average 0.90 sec, max 1.98 sec, min 0.39 sec)
+[2023.05.21-17.52.53:720][135]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.91% of total time (compiled  238 times, average 0.94 sec, max 2.14 sec, min 0.29 sec)
+[2023.05.21-17.52.53:720][135]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.74% of total time (compiled  253 times, average 0.78 sec, max 2.60 sec, min 0.44 sec)
+[2023.05.21-17.52.53:720][135]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.19% of total time (compiled  234 times, average 0.79 sec, max 1.92 sec, min 0.48 sec)
+[2023.05.21-17.52.53:720][135]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.49% of total time (compiled  247 times, average 0.69 sec, max 1.62 sec, min 0.27 sec)
+[2023.05.21-17.52.53:720][135]LogShaderCompilers: Display: ================================================
+[2023.05.21-17.52.53:726][136]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.21-17.52.53:726][136]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.52.53:726][136]MaterialEditorStats: Shader Count: 2
+[2023.05.21-17.52.55:194][311]LogMaterialEditor: Saving and Compiling material EmissiveGreen
+[2023.05.21-17.52.55:541][311]LogMaterial: Display: Missing cached shadermap for Preview:EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: DE50CACF490986AD7060C54EE30BFDBB9F7197DE), compiling. 
+[2023.05.21-17.52.55:552][311]LogMaterial: Display: Missing cached shadermap for EmissiveGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 71190AC1B31BEA089E24D54EEF17F540D064EA84), compiling. 
+[2023.05.21-17.52.55:599][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.21-17.52.55:800][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.21-17.52.55:975][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/EmissiveGreen" FILE="../../../Engine/Content/BasicShapes/EmissiveGreen.uasset" SILENT=true
+[2023.05.21-17.52.55:976][311]LogSavePackage: Moving output files for package: /Engine/BasicShapes/EmissiveGreen
+[2023.05.21-17.52.55:976][311]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/EmissiveGreenFE40E3D243F59BEC6E476489AFE5EDAC.tmp' to '../../../Engine/Content/BasicShapes/EmissiveGreen.uasset'
+[2023.05.21-17.52.55:990][311]AssetCheck: New page: Asset Save: EmissiveGreen
+[2023.05.21-17.52.55:990][311]LogContentValidation: Display: Validating Material /Engine/BasicShapes/EmissiveGreen.EmissiveGreen
+[2023.05.21-17.52.55:991][311]MaterialEditorStats: Base pass shader: 124 instructions
+[2023.05.21-17.52.55:991][311]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2023.05.21-17.52.55:991][311]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.05.21-17.52.55:991][311]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.21-17.52.55:991][311]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.21-17.52.55:991][311]MaterialEditorStats: Shader Count: 91
+[2023.05.21-17.52.57:945][542]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-17.52.57:953][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-17.52.57:953][542]PIE: New page: PIE session: Example_Map (21 de maig 2023, 21:52:57)
+[2023.05.21-17.52.57:953][542]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-17.52.57:958][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004341s)
+[2023.05.21-17.52.57:958][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.004425s)
+[2023.05.21-17.52.57:958][542]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-17.52.57:958][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-17.52.57:958][542]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-17.52.57:959][542]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2023.05.21-17.52.57:999][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.21-17.52.58:003][542]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2023.05.21-17.52.58:003][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-17.52.58:003][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-17.52.58:003][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-17.52.58:003][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-17.52.58:003][542]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-17.52.58:003][542]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-17.52.58:003][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-17.52.58:003][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-17.52.58:003][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-17.52.58:003][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-17.52.58:003][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-17.52.58:005][542]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-17.52.58:037][542]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-17.52.58:037][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-17.52.58:038][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-17.52.58:038][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-17.52.58:038][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2023.05.21-17.52.58:038][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2023.05.21-17.52.58:039][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2023.05.21-17.52.58:039][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2023.05.21-17.52.58:039][542]LogInit: FAudioDevice initialized.
+[2023.05.21-17.52.58:039][542]LogAudio: Display: Audio Device (ID: 58) registered with world 'Example_Map'.
+[2023.05.21-17.52.58:052][542]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-17.52.58:052][542]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-19.52.58
+[2023.05.21-17.52.58:053][542]LogWorld: Bringing up level for play took: 0.000561
+[2023.05.21-17.52.58:054][542]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2023.05.21-17.52.58:058][542]PIE: Server logged in
+[2023.05.21-17.52.58:059][542]PIE: Play in editor total start time 0,106 seconds.
+[2023.05.21-17.53.03:751][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-17.53.03:751][218]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-17.53.03:752][218]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.53.03:752][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.53.03:763][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-17.53.03:770][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.53.03:805][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-17.53.03:805][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2023.05.21-17.53.03:806][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2023.05.21-17.53.03:810][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-17.53.03:812][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.21-17.53.03:845][219]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2023.05.21-17.53.28:923][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.21-17.53.28:935][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Example_Map_Auto5
+[2023.05.21-17.53.28:935][362]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map_Auto57AEC1D5541782ABAAF99E6B27443BA83.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Maps/Example_Map_Auto5.umap'
+[2023.05.21-17.53.28:942][362]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Example_Map' took 0.062
+[2023.05.21-17.53.28:942][362]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2023.05.21-17.53.44:728][485]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2023.05.21-17.53.44:728][485]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-17.53.48:370][872]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-17.53.48:370][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-17.53.48:415][872]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2023.05.21-17.53.48:416][872]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.05.05:977][674]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.05.21-18.05.05:983][674]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.05.21-18.05.05:987][674]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.05.21-18.05.05:994][675]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.05.21-18.05.18:174][135]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BaseGame_UI
+[2023.05.21-18.05.18:180][135]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.05.21-18.06.22:649][597]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Example_Map.Example_Map:PersistentLevel.Example_Map
+[2023.05.21-18.06.22:650][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.06.28:675][260]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.06.28:676][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.06.30:242][427]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.21-18.06.30:243][427]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.06.30:243][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.06.31:327][543]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.06.31:328][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.07.49:567][572]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/BaseGame_UI.BaseGame_UI
+[2023.05.21-18.07.49:568][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.07.49:570][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.07.49:846][572]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-18.07.49:846][572]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.21-18.10.20:362][785]BlueprintLog: New page: Compile BaseGame_UI
+[2023.05.21-18.10.20:440][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.21-18.10.21:378][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGame_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset" SILENT=true
+[2023.05.21-18.10.21:381][872]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGame_UI
+[2023.05.21-18.10.21:381][872]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGame_UI935E01064F79DCA67134388D6A843431.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset'
+[2023.05.21-18.10.21:394][872]AssetCheck: New page: Asset Save: BaseGame_UI
+[2023.05.21-18.10.21:394][872]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BaseGame_UI.BaseGame_UI
+[2023.05.21-18.12.22:612][940]LogViewport: Scene viewport resized to 1267x725, mode Windowed.
+[2023.05.21-18.12.52:409][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.21-18.12.52:425][675]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Example_Map_Auto6
+[2023.05.21-18.12.52:425][675]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map_Auto67B2F5D874B3BC7195969328294C0CA09.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Maps/Example_Map_Auto6.umap'
+[2023.05.21-18.12.52:433][675]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Example_Map' took 0.071
+[2023.05.21-18.12.52:433][675]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2023.05.21-18.13.23:802][925]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.21-18.13.40:088][329]BlueprintLog: New page: Compile Example_Map
+[2023.05.21-18.13.40:158][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.21-18.13.41:259][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.21-18.13.41:299][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.21-18.13.41:313][449]LogSavePackage: Moving output files for package: /Game/Maps/Example_Map
+[2023.05.21-18.13.41:313][449]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_MapCE68A2C24860561AE2AF0A86B632812F.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap'
+[2023.05.21-18.13.41:326][449]LogFileHelpers: No new changes to save!
+[2023.05.21-18.13.41:326][449]LogFileHelpers: Saving map 'Example_Map' took 0.067
+[2023.05.21-18.13.41:339][449]AssetCheck: New page: Asset Save: Example_Map
+[2023.05.21-18.13.41:339][449]LogContentValidation: Display: Validating World /Game/Maps/Example_Map.Example_Map
+[2023.05.21-18.13.51:096][592]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-18.13.51:102][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-18.13.51:102][592]PIE: New page: PIE session: Example_Map (21 de maig 2023, 22:13:51)
+[2023.05.21-18.13.51:135][592]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.13.51:139][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003604s)
+[2023.05.21-18.13.51:139][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003708s)
+[2023.05.21-18.13.51:139][592]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-18.13.51:139][592]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.13.51:139][592]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-18.13.51:139][592]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2023.05.21-18.13.51:188][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.21-18.13.51:193][592]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2023.05.21-18.13.51:193][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-18.13.51:193][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-18.13.51:193][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-18.13.51:193][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-18.13.51:193][592]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-18.13.51:193][592]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-18.13.51:193][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-18.13.51:193][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-18.13.51:193][592]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-18.13.51:193][592]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-18.13.51:193][592]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-18.13.51:195][592]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-18.13.51:226][592]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-18.13.51:226][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-18.13.51:226][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-18.13.51:226][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-18.13.51:227][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2023.05.21-18.13.51:227][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2023.05.21-18.13.51:228][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2023.05.21-18.13.51:228][592]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2023.05.21-18.13.51:228][592]LogInit: FAudioDevice initialized.
+[2023.05.21-18.13.51:228][592]LogAudio: Display: Audio Device (ID: 59) registered with world 'Example_Map'.
+[2023.05.21-18.13.51:236][592]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-18.13.51:237][592]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-20.13.51
+[2023.05.21-18.13.51:237][592]LogWorld: Bringing up level for play took: 0.000597
+[2023.05.21-18.13.51:238][592]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2023.05.21-18.13.51:242][592]PIE: Server logged in
+[2023.05.21-18.13.51:243][592]PIE: Play in editor total start time 0,142 seconds.
+[2023.05.21-18.13.54:195][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.13.54:195][938]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.13.54:195][938]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.13.54:196][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.13.54:207][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-18.13.54:213][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.13.54:254][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.13.54:254][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2023.05.21-18.13.54:256][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2023.05.21-18.13.54:262][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.21-18.13.54:296][939]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2023.05.21-18.16.09:607][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.21-18.16.09:608][606]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.16.42:199][190]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Jet/Bullet/JetBullet_BP.JetBullet_BP
+[2023.05.21-18.16.42:199][190]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.16.53:043][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.21-18.16.53:107][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.21-18.16.53:155][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.21-18.16.53:167][428]LogSavePackage: Moving output files for package: /Game/Maps/Example_Map
+[2023.05.21-18.16.53:167][428]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_MapCA9FE1E84018D63373C555AAF406FD0C.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap'
+[2023.05.21-18.16.53:179][428]LogFileHelpers: No new changes to save!
+[2023.05.21-18.16.53:179][428]LogFileHelpers: Saving map 'Example_Map' took 0.073
+[2023.05.21-18.16.53:192][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/JetFighter_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset" SILENT=true
+[2023.05.21-18.16.53:260][428]LogSavePackage: Moving output files for package: /Game/Assets/Jet/JetFighter_BP
+[2023.05.21-18.16.53:261][428]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetFighter_BP2719B33F4A3FF8CCD73A41BE7A2B861C.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/JetFighter_BP.uasset'
+[2023.05.21-18.16.53:271][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/Bullet/JetBullet_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/Bullet/JetBullet_BP.uasset" SILENT=true
+[2023.05.21-18.16.53:275][428]LogSavePackage: Moving output files for package: /Game/Assets/Jet/Bullet/JetBullet_BP
+[2023.05.21-18.16.53:276][428]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetBullet_BPABD0053249401C62B0A52994CD9B1ADB.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/Bullet/JetBullet_BP.uasset'
+[2023.05.21-18.16.53:285][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Points" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset" SILENT=true
+[2023.05.21-18.16.53:288][428]LogSavePackage: Moving output files for package: /Game/Blueprints/Points
+[2023.05.21-18.16.53:288][428]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/PointsFF677B5B42DF88A8B7D6359633ED5604.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset'
+[2023.05.21-18.16.53:305][428]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.21-18.16.53:306][428]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/JetFighter_BP.JetFighter_BP
+[2023.05.21-18.16.53:306][428]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Points.Points
+[2023.05.21-18.16.53:306][428]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/Bullet/JetBullet_BP.JetBullet_BP
+[2023.05.21-18.16.53:306][428]LogContentValidation: Display: Validating World /Game/Maps/Example_Map.Example_Map
+[2023.05.21-18.16.53:910][499]BlueprintLog: New page: Compile JetBullet_BP
+[2023.05.21-18.16.54:051][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.21-18.16.57:235][843]BlueprintLog: New page: Compile JetFighter_BP
+[2023.05.21-18.16.57:382][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.05.21-18.17.09:134][217]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.17.09:135][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.18.46:391][475]BlueprintLog: New page: Compile Points
+[2023.05.21-18.18.46:468][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.21-18.18.47:087][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Points" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset" SILENT=true
+[2023.05.21-18.18.47:091][530]LogSavePackage: Moving output files for package: /Game/Blueprints/Points
+[2023.05.21-18.18.47:091][530]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/PointsBD010197464EF07288E994BB5A90DAD1.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset'
+[2023.05.21-18.18.47:108][530]AssetCheck: New page: Asset Save: Points
+[2023.05.21-18.18.47:108][530]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Points.Points
+[2023.05.21-18.18.51:113][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.21-18.18.51:170][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.21-18.18.51:214][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.21-18.18.51:226][988]LogSavePackage: Moving output files for package: /Game/Maps/Example_Map
+[2023.05.21-18.18.51:226][988]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map7704D69644F8BC4120E710BA2FA85BB5.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap'
+[2023.05.21-18.18.51:238][988]LogFileHelpers: No new changes to save!
+[2023.05.21-18.18.51:238][988]LogFileHelpers: Saving map 'Example_Map' took 0.068
+[2023.05.21-18.18.51:252][988]AssetCheck: New page: Asset Save: Example_Map
+[2023.05.21-18.18.51:252][988]LogContentValidation: Display: Validating World /Game/Maps/Example_Map.Example_Map
+[2023.05.21-18.19.00:092][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-18.19.00:099][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-18.19.00:099][289]PIE: New page: PIE session: Example_Map (21 de maig 2023, 22:19:00)
+[2023.05.21-18.19.00:131][289]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.19.00:135][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003256s)
+[2023.05.21-18.19.00:135][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003348s)
+[2023.05.21-18.19.00:135][289]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-18.19.00:135][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.19.00:135][289]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-18.19.00:135][289]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2023.05.21-18.19.00:182][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.21-18.19.00:185][289]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2023.05.21-18.19.00:185][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-18.19.00:185][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-18.19.00:185][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-18.19.00:185][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-18.19.00:185][289]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-18.19.00:185][289]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-18.19.00:185][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-18.19.00:185][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-18.19.00:186][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-18.19.00:186][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-18.19.00:186][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-18.19.00:188][289]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-18.19.00:217][289]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-18.19.00:217][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-18.19.00:217][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-18.19.00:217][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-18.19.00:218][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2023.05.21-18.19.00:218][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2023.05.21-18.19.00:219][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2023.05.21-18.19.00:219][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2023.05.21-18.19.00:219][289]LogInit: FAudioDevice initialized.
+[2023.05.21-18.19.00:219][289]LogAudio: Display: Audio Device (ID: 60) registered with world 'Example_Map'.
+[2023.05.21-18.19.00:228][289]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-18.19.00:229][289]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-20.19.00
+[2023.05.21-18.19.00:229][289]LogWorld: Bringing up level for play took: 0.000594
+[2023.05.21-18.19.00:230][289]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2023.05.21-18.19.00:234][289]PIE: Server logged in
+[2023.05.21-18.19.00:235][289]PIE: Play in editor total start time 0,138 seconds.
+[2023.05.21-18.19.03:727][703]LogScript: Warning: Attempted to access JetBullet_BP_C_0 via property K2Node_Event_OtherActor, but JetBullet_BP_C_0 is not valid (pending kill or garbage)
+	Points_C /Game/Maps/UEDPIE_0_Example_Map.Example_Map:PersistentLevel.Points_C_1
+	Function /Game/Blueprints/Points.Points_C:ExecuteUbergraph_Points:0099
+[2023.05.21-18.19.03:728][703]PIE: Error: Blueprint Runtime Error: "Attempted to access JetBullet_BP_C_0 via property K2Node_Event_OtherActor, but JetBullet_BP_C_0 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Points Blueprint:  Points
+[2023.05.21-18.19.03:728][703]LogScript: Warning: Attempted to access JetBullet_BP_C_0 via property K2Node_Event_OtherActor, but JetBullet_BP_C_0 is not valid (pending kill or garbage)
+	Points_C /Game/Maps/UEDPIE_0_Example_Map.Example_Map:PersistentLevel.Points_C_1
+	Function /Game/Blueprints/Points.Points_C:ExecuteUbergraph_Points:0044
+[2023.05.21-18.19.03:728][703]PIE: Error: Blueprint Runtime Error: "Attempted to access JetBullet_BP_C_0 via property K2Node_Event_OtherActor, but JetBullet_BP_C_0 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Points Blueprint:  Points
+[2023.05.21-18.19.03:861][719]LogScript: Warning: Attempted to access JetBullet_BP_C_1 via property K2Node_Event_OtherActor, but JetBullet_BP_C_1 is not valid (pending kill or garbage)
+	Points_C /Game/Maps/UEDPIE_0_Example_Map.Example_Map:PersistentLevel.Points_C_1
+	Function /Game/Blueprints/Points.Points_C:ExecuteUbergraph_Points:0099
+[2023.05.21-18.19.03:861][719]PIE: Error: Blueprint Runtime Error: "Attempted to access JetBullet_BP_C_1 via property K2Node_Event_OtherActor, but JetBullet_BP_C_1 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Points Blueprint:  Points
+[2023.05.21-18.19.03:861][719]LogScript: Warning: Attempted to access JetBullet_BP_C_1 via property K2Node_Event_OtherActor, but JetBullet_BP_C_1 is not valid (pending kill or garbage)
+	Points_C /Game/Maps/UEDPIE_0_Example_Map.Example_Map:PersistentLevel.Points_C_1
+	Function /Game/Blueprints/Points.Points_C:ExecuteUbergraph_Points:0044
+[2023.05.21-18.19.03:861][719]PIE: Error: Blueprint Runtime Error: "Attempted to access JetBullet_BP_C_1 via property K2Node_Event_OtherActor, but JetBullet_BP_C_1 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Points Blueprint:  Points
+[2023.05.21-18.19.03:977][733]LogScript: Warning: Attempted to access JetBullet_BP_C_2 via property K2Node_Event_OtherActor, but JetBullet_BP_C_2 is not valid (pending kill or garbage)
+	Points_C /Game/Maps/UEDPIE_0_Example_Map.Example_Map:PersistentLevel.Points_C_1
+	Function /Game/Blueprints/Points.Points_C:ExecuteUbergraph_Points:0099
+[2023.05.21-18.19.03:978][733]PIE: Error: Blueprint Runtime Error: "Attempted to access JetBullet_BP_C_2 via property K2Node_Event_OtherActor, but JetBullet_BP_C_2 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Points Blueprint:  Points
+[2023.05.21-18.19.03:978][733]LogScript: Warning: Attempted to access JetBullet_BP_C_2 via property K2Node_Event_OtherActor, but JetBullet_BP_C_2 is not valid (pending kill or garbage)
+	Points_C /Game/Maps/UEDPIE_0_Example_Map.Example_Map:PersistentLevel.Points_C_1
+	Function /Game/Blueprints/Points.Points_C:ExecuteUbergraph_Points:0044
+[2023.05.21-18.19.03:978][733]PIE: Error: Blueprint Runtime Error: "Attempted to access JetBullet_BP_C_2 via property K2Node_Event_OtherActor, but JetBullet_BP_C_2 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Points Blueprint:  Points
+[2023.05.21-18.19.09:901][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.19.09:901][439]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.19.09:901][439]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.19.09:902][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.19.09:918][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-18.19.09:924][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.19.09:980][439]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-18.19.09:980][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2023.05.21-18.19.09:982][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2023.05.21-18.19.09:985][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.19.09:988][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.05.21-18.19.10:134][440]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2023.05.21-18.19.42:182][117]BlueprintLog: New page: Compile JetBullet_BP
+[2023.05.21-18.19.42:311][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.05.21-18.19.42:813][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Jet/Bullet/JetBullet_BP" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/Bullet/JetBullet_BP.uasset" SILENT=true
+[2023.05.21-18.19.42:818][158]LogSavePackage: Moving output files for package: /Game/Assets/Jet/Bullet/JetBullet_BP
+[2023.05.21-18.19.42:818][158]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/JetBullet_BPECBCE1984446E198CB217391B65783EF.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Assets/Jet/Bullet/JetBullet_BP.uasset'
+[2023.05.21-18.19.42:833][158]AssetCheck: New page: Asset Save: JetBullet_BP
+[2023.05.21-18.19.42:833][158]LogContentValidation: Display: Validating Blueprint /Game/Assets/Jet/Bullet/JetBullet_BP.JetBullet_BP
+[2023.05.21-18.19.45:576][439]LogSlate: Window 'Message Log' being destroyed
+[2023.05.21-18.19.45:579][439]LogSlate: Window 'Message Log' being destroyed
+[2023.05.21-18.19.46:441][535]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-18.19.46:446][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-18.19.46:446][535]PIE: New page: PIE session: Example_Map (21 de maig 2023, 22:19:46)
+[2023.05.21-18.19.46:480][535]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.19.46:483][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003177s)
+[2023.05.21-18.19.46:483][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003282s)
+[2023.05.21-18.19.46:483][535]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-18.19.46:483][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.19.46:484][535]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-18.19.46:484][535]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2023.05.21-18.19.46:532][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.21-18.19.46:538][535]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2023.05.21-18.19.46:538][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-18.19.46:538][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-18.19.46:538][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-18.19.46:538][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-18.19.46:538][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-18.19.46:538][535]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-18.19.46:538][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-18.19.46:538][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-18.19.46:539][535]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-18.19.46:539][535]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-18.19.46:539][535]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-18.19.46:541][535]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-18.19.46:569][535]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-18.19.46:569][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-18.19.46:569][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-18.19.46:569][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-18.19.46:570][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2023.05.21-18.19.46:570][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2023.05.21-18.19.46:571][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2023.05.21-18.19.46:571][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2023.05.21-18.19.46:571][535]LogInit: FAudioDevice initialized.
+[2023.05.21-18.19.46:571][535]LogAudio: Display: Audio Device (ID: 61) registered with world 'Example_Map'.
+[2023.05.21-18.19.46:585][535]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-18.19.46:585][535]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-20.19.46
+[2023.05.21-18.19.46:585][535]LogWorld: Bringing up level for play took: 0.000659
+[2023.05.21-18.19.46:587][535]LogOnline: OSS: Created online subsystem instance for: :Context_102
+[2023.05.21-18.19.46:591][535]PIE: Server logged in
+[2023.05.21-18.19.46:592][535]PIE: Play in editor total start time 0,145 seconds.
+[2023.05.21-18.19.49:840][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.19.49:840][911]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.19.49:840][911]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.19.49:841][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.19.49:853][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-18.19.49:860][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.19.49:915][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.19.49:915][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2023.05.21-18.19.49:917][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2023.05.21-18.19.49:923][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.05.21-18.19.49:951][912]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2023.05.21-18.19.50:834][ 12]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-18.19.50:839][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-18.19.50:839][ 12]PIE: New page: PIE session: Example_Map (21 de maig 2023, 22:19:50)
+[2023.05.21-18.19.50:861][ 12]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.19.50:864][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003280s)
+[2023.05.21-18.19.50:864][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003356s)
+[2023.05.21-18.19.50:864][ 12]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-18.19.50:864][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.19.50:865][ 12]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-18.19.50:865][ 12]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2023.05.21-18.19.50:915][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.21-18.19.50:918][ 12]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2023.05.21-18.19.50:918][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-18.19.50:918][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-18.19.50:918][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-18.19.50:918][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-18.19.50:918][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-18.19.50:918][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-18.19.50:918][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-18.19.50:918][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-18.19.50:918][ 12]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-18.19.50:918][ 12]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-18.19.50:918][ 12]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-18.19.50:920][ 12]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-18.19.50:948][ 12]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-18.19.50:948][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-18.19.50:948][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-18.19.50:948][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-18.19.50:949][ 12]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2023.05.21-18.19.50:949][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2023.05.21-18.19.50:950][ 12]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2023.05.21-18.19.50:950][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2023.05.21-18.19.50:950][ 12]LogInit: FAudioDevice initialized.
+[2023.05.21-18.19.50:950][ 12]LogAudio: Display: Audio Device (ID: 62) registered with world 'Example_Map'.
+[2023.05.21-18.19.50:957][ 12]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-18.19.50:958][ 12]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-20.19.50
+[2023.05.21-18.19.50:958][ 12]LogWorld: Bringing up level for play took: 0.000535
+[2023.05.21-18.19.50:959][ 12]LogOnline: OSS: Created online subsystem instance for: :Context_103
+[2023.05.21-18.19.50:963][ 12]PIE: Server logged in
+[2023.05.21-18.19.50:964][ 12]PIE: Play in editor total start time 0,125 seconds.
+[2023.05.21-18.19.57:521][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.19.57:521][789]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.19.57:521][789]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.19.57:521][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.19.57:535][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-18.19.57:541][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.19.57:589][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.19.57:590][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2023.05.21-18.19.57:591][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2023.05.21-18.19.57:598][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.21-18.19.57:629][790]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2023.05.21-18.19.58:625][900]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-18.19.58:631][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-18.19.58:631][900]PIE: New page: PIE session: Example_Map (21 de maig 2023, 22:19:58)
+[2023.05.21-18.19.58:670][900]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.19.58:673][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003117s)
+[2023.05.21-18.19.58:673][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003201s)
+[2023.05.21-18.19.58:673][900]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-18.19.58:673][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.19.58:674][900]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-18.19.58:674][900]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2023.05.21-18.19.58:724][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.21-18.19.58:727][900]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2023.05.21-18.19.58:727][900]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-18.19.58:727][900]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-18.19.58:727][900]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-18.19.58:727][900]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-18.19.58:727][900]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-18.19.58:727][900]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-18.19.58:727][900]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-18.19.58:727][900]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-18.19.58:727][900]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-18.19.58:727][900]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-18.19.58:727][900]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-18.19.58:729][900]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-18.19.58:757][900]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-18.19.58:757][900]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-18.19.58:757][900]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-18.19.58:757][900]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-18.19.58:758][900]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2023.05.21-18.19.58:758][900]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2023.05.21-18.19.58:759][900]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2023.05.21-18.19.58:759][900]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2023.05.21-18.19.58:759][900]LogInit: FAudioDevice initialized.
+[2023.05.21-18.19.58:759][900]LogAudio: Display: Audio Device (ID: 63) registered with world 'Example_Map'.
+[2023.05.21-18.19.58:768][900]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-18.19.58:768][900]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-20.19.58
+[2023.05.21-18.19.58:768][900]LogWorld: Bringing up level for play took: 0.000539
+[2023.05.21-18.19.58:769][900]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2023.05.21-18.19.58:773][900]PIE: Server logged in
+[2023.05.21-18.19.58:774][900]PIE: Play in editor total start time 0,143 seconds.
+[2023.05.21-18.20.04:580][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.20.04:580][587]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.20.04:580][587]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.20.04:580][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.20.04:592][587]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-18.20.04:598][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.20.04:642][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.20.04:643][587]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2023.05.21-18.20.04:644][587]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2023.05.21-18.20.04:650][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.21-18.20.04:685][588]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2023.05.21-18.20.47:523][ 72]BlueprintLog: New page: Compile Example_Map
+[2023.05.21-18.20.47:585][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.21-18.20.48:352][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.21-18.20.48:401][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.21-18.20.48:413][151]LogSavePackage: Moving output files for package: /Game/Maps/Example_Map
+[2023.05.21-18.20.48:413][151]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map0E65A17644ADBF82E613A7997645D534.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap'
+[2023.05.21-18.20.48:425][151]LogFileHelpers: No new changes to save!
+[2023.05.21-18.20.48:425][151]LogFileHelpers: Saving map 'Example_Map' took 0.073
+[2023.05.21-18.20.48:440][151]AssetCheck: New page: Asset Save: Example_Map
+[2023.05.21-18.20.48:440][151]LogContentValidation: Display: Validating World /Game/Maps/Example_Map.Example_Map
+[2023.05.21-18.22.16:786][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.21-18.22.16:838][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.21-18.22.16:853][496]LogSavePackage: Moving output files for package: /Game/Maps/Example_Map
+[2023.05.21-18.22.16:854][496]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map42D35F32498C7F0C01F1B9B55526EE1F.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap'
+[2023.05.21-18.22.16:867][496]LogFileHelpers: No new changes to save!
+[2023.05.21-18.22.16:867][496]LogFileHelpers: Saving map 'Example_Map' took 0.081
+[2023.05.21-18.22.16:883][496]AssetCheck: New page: Asset Save: Example_Map
+[2023.05.21-18.22.16:883][496]LogContentValidation: Display: Validating World /Game/Maps/Example_Map.Example_Map
+[2023.05.21-18.22.21:834][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.21-18.22.21:880][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.21-18.22.21:891][ 80]LogSavePackage: Moving output files for package: /Game/Maps/Example_Map
+[2023.05.21-18.22.21:892][ 80]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map1CAAA9EB4409F9A2AC1E5A96EF2353D9.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap'
+[2023.05.21-18.22.21:903][ 80]LogFileHelpers: No new changes to save!
+[2023.05.21-18.22.21:903][ 80]LogFileHelpers: Saving map 'Example_Map' took 0.070
+[2023.05.21-18.22.21:920][ 80]AssetCheck: New page: Asset Save: Example_Map
+[2023.05.21-18.22.21:920][ 80]LogContentValidation: Display: Validating World /Game/Maps/Example_Map.Example_Map
+[2023.05.21-18.22.46:317][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.21-18.22.46:363][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.05.21-18.22.46:376][892]LogSavePackage: Moving output files for package: /Game/Maps/Example_Map
+[2023.05.21-18.22.46:376][892]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_MapC6C0B33D480CAE305CE7C3BD59FBA1A1.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Maps/Example_Map.umap'
+[2023.05.21-18.22.46:388][892]LogFileHelpers: No new changes to save!
+[2023.05.21-18.22.46:388][892]LogFileHelpers: Saving map 'Example_Map' took 0.071
+[2023.05.21-18.22.46:402][892]AssetCheck: New page: Asset Save: Example_Map
+[2023.05.21-18.22.46:402][892]LogContentValidation: Display: Validating World /Game/Maps/Example_Map.Example_Map
+[2023.05.21-18.22.54:443][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.21-18.22.57:510][845]LogSlate: Window 'Save Content' being destroyed
+[2023.05.21-18.22.57:574][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGame_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset" SILENT=true
+[2023.05.21-18.22.57:577][845]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGame_UI
+[2023.05.21-18.22.57:577][845]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGame_UI908D1B8240349FA5DFEB059B768892BB.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset'
+[2023.05.21-18.22.57:599][845]AssetCheck: New page: Asset Save: BaseGame_UI
+[2023.05.21-18.22.57:599][845]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BaseGame_UI.BaseGame_UI
+[2023.05.21-18.26.10:674][851]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.26.10:674][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.26.47:683][658]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.21-18.26.47:689][658]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.21-18.26.47:695][658]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.21-18.26.47:707][659]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.05.21-18.27.02:027][364]LogContentBrowser: Attempting asset rename: NewBlueprint -> BaseGameScore
+[2023.05.21-18.27.02:031][364]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.21-18.27.03:687][554]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BaseGameScore.BaseGameScore
+[2023.05.21-18.27.03:688][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.27.04:034][554]LogViewport: Scene viewport resized to 1267x725, mode Windowed.
+[2023.05.21-18.27.34:580][860]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.21-18.28.28:191][975]BlueprintLog: New page: Compile BaseGameScore
+[2023.05.21-18.28.28:262][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.05.21-18.28.29:446][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGameScore" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset" SILENT=true
+[2023.05.21-18.28.29:448][104]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGameScore
+[2023.05.21-18.28.29:448][104]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGameScoreD21E958F47E6BF2712C786936FEB051B.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset'
+[2023.05.21-18.28.29:460][104]AssetCheck: New page: Asset Save: BaseGameScore
+[2023.05.21-18.28.29:460][104]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BaseGameScore.BaseGameScore
+[2023.05.21-18.28.32:973][497]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BaseGameScore.BaseGameScore_C
+[2023.05.21-18.28.32:973][497]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BaseGameScore.BaseGameScore_C
+[2023.05.21-18.28.32:973][497]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BaseGameScore.BaseGameScore as actor: BaseGameScore_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.BaseGameScore_C_0
+[2023.05.21-18.28.32:974][497]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BaseGameScore.BaseGameScore as actor: BaseGameScore_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.BaseGameScore_C_0
+[2023.05.21-18.28.33:643][566]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BaseGameScore.BaseGameScore_C
+[2023.05.21-18.28.33:643][566]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BaseGameScore.BaseGameScore_C
+[2023.05.21-18.28.33:644][566]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BaseGameScore.BaseGameScore as actor: BaseGameScore_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.BaseGameScore_C_1
+[2023.05.21-18.28.33:644][566]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BaseGameScore.BaseGameScore as actor: BaseGameScore_C /Game/Maps/Example_Map.Example_Map:PersistentLevel.BaseGameScore_C_1
+[2023.05.21-18.28.37:042][962]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-18.28.37:051][962]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.21-18.28.37:052][962]LogPlayLevel: [PlayLevel] Compiling BaseGame_UI before play...
+[2023.05.21-18.28.37:125][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.05.21-18.28.37:131][962]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (1 blueprints)
+[2023.05.21-18.28.37:131][962]PIE: New page: PIE session: Example_Map (21 de maig 2023, 22:28:37)
+[2023.05.21-18.28.37:131][962]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.28.37:134][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003320s)
+[2023.05.21-18.28.37:134][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003377s)
+[2023.05.21-18.28.37:134][962]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-18.28.37:135][962]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.28.37:135][962]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-18.28.37:135][962]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2023.05.21-18.28.37:181][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.05.21-18.28.37:184][962]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2023.05.21-18.28.37:185][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-18.28.37:185][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-18.28.37:185][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-18.28.37:185][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-18.28.37:185][962]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-18.28.37:185][962]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-18.28.37:185][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-18.28.37:185][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-18.28.37:185][962]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-18.28.37:185][962]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-18.28.37:185][962]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-18.28.37:187][962]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-18.28.37:220][962]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-18.28.37:220][962]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-18.28.37:220][962]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-18.28.37:220][962]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-18.28.37:221][962]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2023.05.21-18.28.37:221][962]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2023.05.21-18.28.37:223][962]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2023.05.21-18.28.37:223][962]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2023.05.21-18.28.37:223][962]LogInit: FAudioDevice initialized.
+[2023.05.21-18.28.37:223][962]LogAudio: Display: Audio Device (ID: 64) registered with world 'Example_Map'.
+[2023.05.21-18.28.37:233][962]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-18.28.37:234][962]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-20.28.37
+[2023.05.21-18.28.37:234][962]LogWorld: Bringing up level for play took: 0.000620
+[2023.05.21-18.28.37:236][962]LogOnline: OSS: Created online subsystem instance for: :Context_106
+[2023.05.21-18.28.37:242][962]PIE: Server logged in
+[2023.05.21-18.28.37:243][962]PIE: Play in editor total start time 0,196 seconds.
+[2023.05.21-18.28.39:314][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.28.39:314][200]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.28.39:314][200]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.28.39:314][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.28.39:326][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-18.28.39:333][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.28.39:379][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.28.39:380][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2023.05.21-18.28.39:381][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2023.05.21-18.28.39:387][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.21-18.28.39:424][201]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2023.05.21-18.30.00:446][371]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.21-18.30.56:800][220]BlueprintLog: New page: Compile BaseGameScore
+[2023.05.21-18.30.56:866][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.21-18.30.57:414][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGameScore" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset" SILENT=true
+[2023.05.21-18.30.57:418][267]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGameScore
+[2023.05.21-18.30.57:418][267]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGameScore52B05D1442094F5FCAC81EB4A3F1CE14.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGameScore.uasset'
+[2023.05.21-18.30.57:443][267]AssetCheck: New page: Asset Save: BaseGameScore
+[2023.05.21-18.30.57:443][267]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BaseGameScore.BaseGameScore
+[2023.05.21-18.31.14:891][593]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.31.14:892][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.31.15:632][671]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.21-18.31.15:632][671]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.31.15:632][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.32.10:073][715]BlueprintLog: New page: Compile BaseGame_UI
+[2023.05.21-18.32.10:134][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.05.21-18.32.10:713][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseGame_UI" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset" SILENT=true
+[2023.05.21-18.32.10:717][769]LogSavePackage: Moving output files for package: /Game/Blueprints/BaseGame_UI
+[2023.05.21-18.32.10:718][769]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/BaseGame_UIE0FBA40F438EAE73C1129B916752F8C1.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/BaseGame_UI.uasset'
+[2023.05.21-18.32.10:739][769]AssetCheck: New page: Asset Save: BaseGame_UI
+[2023.05.21-18.32.10:739][769]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BaseGame_UI.BaseGame_UI
+[2023.05.21-18.33.42:909][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.21-18.33.42:930][614]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Example_Map_Auto7
+[2023.05.21-18.33.42:930][614]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Example_Map_Auto71278EEF249FDB3E2C719128B45230772.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Maps/Example_Map_Auto7.umap'
+[2023.05.21-18.33.42:939][614]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Example_Map' took 0.077
+[2023.05.21-18.33.42:939][614]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2023.05.21-18.33.42:939][614]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Points] ([2] browsable assets)...
+[2023.05.21-18.33.42:951][614]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Points.Points]
+[2023.05.21-18.33.42:951][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Points]
+[2023.05.21-18.33.42:957][614]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Points_Auto7
+[2023.05.21-18.33.42:957][614]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Points_Auto7E1A1FB614C48E670A3E10497FA919EDE.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Autosaves/Game/Blueprints/Points_Auto7.uasset'
+[2023.05.21-18.33.42:957][614]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.05.21-18.35.15:878][909]BlueprintLog: New page: Compile Points
+[2023.05.21-18.35.15:934][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.21-18.35.17:801][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Points" FILE="../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset" SILENT=true
+[2023.05.21-18.35.17:806][114]LogSavePackage: Moving output files for package: /Game/Blueprints/Points
+[2023.05.21-18.35.17:807][114]LogSavePackage: Moving '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Saved/Points690E1A6F48105EEE87EBC580F22BC9AF.tmp' to '../../../../Enti2022-23/Repos/UnrealVertical2023/VerticalUnreal2022/Content/Blueprints/Points.uasset'
+[2023.05.21-18.35.17:823][114]AssetCheck: New page: Asset Save: Points
+[2023.05.21-18.35.17:823][114]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Points.Points
+[2023.05.21-18.36.07:547][  4]Cmd: DUPLICATE
+[2023.05.21-18.36.07:547][  4]Cmd: ACTOR DUPLICATE
+[2023.05.21-18.36.23:629][857]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.21-18.36.23:636][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.21-18.36.23:636][857]PIE: New page: PIE session: Example_Map (21 de maig 2023, 22:36:23)
+[2023.05.21-18.36.23:659][857]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.36.23:662][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003547s)
+[2023.05.21-18.36.23:662][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.003634s)
+[2023.05.21-18.36.23:662][857]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-18.36.23:663][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-18.36.23:663][857]LogAIModule: Creating AISystem for world Example_Map
+[2023.05.21-18.36.23:663][857]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2023.05.21-18.36.23:705][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.05.21-18.36.23:711][857]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2023.05.21-18.36.23:712][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-18.36.23:712][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-18.36.23:712][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-18.36.23:712][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-18.36.23:712][857]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-18.36.23:712][857]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-18.36.23:712][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-18.36.23:712][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-18.36.23:712][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-18.36.23:712][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-18.36.23:712][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-18.36.23:714][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-18.36.23:744][857]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Astro MixAmp Pro Game)
+[2023.05.21-18.36.23:744][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-18.36.23:744][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-18.36.23:745][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-18.36.23:746][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2023.05.21-18.36.23:746][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2023.05.21-18.36.23:747][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2023.05.21-18.36.23:748][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2023.05.21-18.36.23:748][857]LogInit: FAudioDevice initialized.
+[2023.05.21-18.36.23:748][857]LogAudio: Display: Audio Device (ID: 65) registered with world 'Example_Map'.
+[2023.05.21-18.36.23:760][857]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.21-18.36.23:761][857]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2023.05.21-20.36.23
+[2023.05.21-18.36.23:761][857]LogWorld: Bringing up level for play took: 0.000592
+[2023.05.21-18.36.23:762][857]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2023.05.21-18.36.23:767][857]PIE: Server logged in
+[2023.05.21-18.36.23:768][857]PIE: Play in editor total start time 0,134 seconds.
+[2023.05.21-18.36.32:958][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.36.32:958][941]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Example_Map
+[2023.05.21-18.36.32:958][941]LogWorld: UWorld::CleanupWorld for Example_Map, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-18.36.32:958][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.36.32:977][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.21-18.36.32:983][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-18.36.33:021][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-18.36.33:021][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2023.05.21-18.36.33:023][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2023.05.21-18.36.33:029][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.21-18.36.33:065][942]LogPlayLevel: Display: Destroying online subsystem :Context_107
